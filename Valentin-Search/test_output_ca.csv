@@ -1,0 +1,11 @@
+Practice Name,City,State,Country,practiceName,cleanedName,country,domain,websiteUrl,status,source,confidence
+123Dentist,Vancouver,BC,Canada,123Dentist,123Dentist,CA,123dentist.ca,https://123dentist.ca,Found,Direct Practice Verification,High
+Appletree Medical Group,Ottawa,ON,Canada,Appletree Medical Group,Appletree Medical Group,CA,appletree.ca,https://appletree.ca,Found,Direct Practice Verification,High
+dentalcorp Canada,Toronto,ON,Canada,dentalcorp Canada,dentalcorp Canada,CA,dentalcorp.com,https://dentalcorp.com,Found,Direct Practice Verification,High
+Altima Dental,Toronto,ON,Canada,Altima Dental,Altima Dental,CA,altimadental.com,https://altimadental.com,Found,Direct Practice Verification,High
+FYidoctors,Calgary,AB,Canada,FYidoctors,FYidoctors,CA,fyidoctors.com,https://fyidoctors.com,Found,Direct Practice Verification,High
+Lifemark Health Group,Calgary,AB,Canada,Lifemark Health Group,Lifemark Health Group,CA,lifemarkhealthgroup.ca,https://lifemarkhealthgroup.ca,Found,Direct Practice Verification,High
+Clinique Dentaire Centre-Ville,Montreal,QC,Canada,Clinique Dentaire Centre-Ville,Clinique Dentaire Centre-Ville,CA,cliniquedentairecentreville.ca,https://cliniquedentairecentreville.ca,Found,Direct Practice Verification,High
+Medcan Clinic,Toronto,ON,Canada,Medcan Clinic,Medcan Clinic,CA,medcan.com,https://medcan.com,Found,Direct Practice Verification,High
+Pure Dental Arts,Vancouver,BC,Canada,Pure Dental Arts,Pure Dental Arts,CA,puredentalarts.com,https://puredentalarts.com,Found,Direct Practice Verification,High
+Bayview Family Practice,Toronto,ON,Canada,Bayview Family Practice,Bayview Family Practice,CA,bayview.com,https://bayview.com,Found,Direct Practice Verification,High

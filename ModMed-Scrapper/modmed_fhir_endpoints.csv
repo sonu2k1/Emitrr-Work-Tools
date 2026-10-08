@@ -1,0 +1,898 @@
+Company Name,Address,FHIR URL,Health Care ID
+"Gastroenterology Specialists, Inc.","2726 Fulton Dr NW, Canton, OH 44718-3506, US",https://a8580225-25d6-4812-a463-58e49a80f214.gastro.prod.fhir.ema-api.com/fhir/r4/,2.100
+Abington Surgical Center,"2701 Blair Mill Road Suite 35, Willow Grove, PA 19090, US",https://3bf2dd7c-9325-4617-b88b-7053e186ed5b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.101
+"Gastroenterology Associate of Chattanooga, PC","2341 McCallie Ave, Plaza 3 Ste 406, Chattanooga, TN 37404-3229, US",https://f5f73dd6-507b-49fa-91fd-a2c1482eb946.gastro.prod.fhir.ema-api.com/fhir/r4/,2.102
+Fall Hill Endoscopy Center,"4103 Lafayette Boulevard, Fredericksburg, VA 22401-4274, US",https://4f01bcfb-fad8-459c-879d-6bacb8068fee.gastro.prod.fhir.ema-api.com/fhir/r4/,2.103
+Digestive Disease Associates,"687 Main Street, Branford, CT 6405, US",https://d4e511bc-883e-4992-873f-b76ffb7ca8ba.gastro.prod.fhir.ema-api.com/fhir/r4/,2.104
+Mid-Atlantic Endoscopy Center,"4923 Ogletown-Stanton Rd. Ste 100, Newark, DE 19713, US",https://9d56379c-d822-4f76-9dbb-68fc7af88687.gastro.prod.fhir.ema-api.com/fhir/r4/,2.105
+Gastro Anesthesia Services LLC,"7887 N Kendall Drive, Suite 101, Miami, FL 33156-7494, US",https://45e2255e-6f18-4bcd-bd09-0def3adfca03.gastro.prod.fhir.ema-api.com/fhir/r4/,2.106
+Lake City Outpatient Anesthesia,"4367 NW American Lane, Lake City, FL 32055-4828, US",https://73a16b75-76ae-4370-af3f-78876c5948e6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.107
+Citrus Endoscopy and Surgery Center,"6412 W Gulf to Lake Hwy, Crystal River, FL 34429-7622, US",https://bd7d7b87-d489-4771-87fb-49e48d1b4ce9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.108
+Gastro Anesthesia Services,"4150 Dep Bill Cantrell Mem Rd, Ste 200, Cumming, GA 30040-3005, US",https://662acb6b-2e6a-4a18-a64c-d0df200218d5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.109
+"Advanced Anesthesia, LLC","8875 Centre Park Drive, Suite D, Columbia, MD 21045-2382, US",https://51252f2e-8a78-46ff-b455-e688f2e6b977.gastro.prod.fhir.ema-api.com/fhir/r4/,2.110
+Endoscopy Center at Bel Air,"208 Plumtree Rd. Suite G, Bel Air, MD 21015-6056, US",https://37c37674-d98a-4dce-97c1-165a0520d41f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.111
+ASC TCG LLC,"37399 Garfield, Suite 100, Clinton Township, MI 48036-3672, US",https://d4f6f003-937f-42bb-b631-506a99cb0260.gastro.prod.fhir.ema-api.com/fhir/r4/,2.112
+Gastroenterology Associates PA,"415 North Center St, Suite 300, Hickory, NC 28601-5036, US",https://854c360c-ccd0-490c-b032-f0f87442ff0a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.113
+"Akron Digestive Disease Consultants, Inc","570 White Pond Drive, Suite 100, Akron, OH 44320-4206, US",https://73b89c1a-4ffd-4a8e-9f54-ab1d1a0f60ca.gastro.prod.fhir.ema-api.com/fhir/r4/,2.114
+Sumter Gastroenterology,"641 W Wesmark Blvd, Sumter, SC 29150-1900, US",https://5cde014c-0b57-454c-8e2c-9f9a348341f1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.115
+"Palmetto Health Services Associate, LLC","103 Gregg Ave, NW, Aiken, SC 29801-3097, US",https://3b23bfeb-f286-4d52-9343-6b732672e98b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.116
+"Northern Virginia Center for GI Endoscopy, PLLC","3914 Centreville Road, Suite 350, Chantilly, VA 20151-3289, US",https://878239f2-0551-4df2-86aa-cd3bd0cc7e4f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.117
+Atlantic Surgery Center,"541 Health Blvd., Daytona Beach, FL 32114, US",https://1e97bf46-5f98-4384-bf8d-cffaf9bb8f4c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.118
+Moshe E Hirth MD PA,"6646 W Atlantic Avenue, Ste 100, Delray Beach, FL 33446-1627, US",https://915c31a9-c72e-45b9-87e6-b62da9b7e18b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119
+PROF-Minakshi,"11Address, Davie, FL 33334, US",https://ae84a897-dc45-4c88-a62a-ffbd9c8d8ffd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119686
+"Advanced Surgery Center of Palm Beach County, LLC","5065 State Rd 7, Suite 101, Lake Worth, FL 33449, US",https://2a801380-0631-492a-ba60-f27da1bd3b1d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119690
+Mid America Gastro Intestinal Consultants,"4321 Washington, Suite 5600, Kansas City, MO 64111, US",https://5d65464c-6f1d-4dbd-b6d2-b4afbcbfe509.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119691
+"Surgery Center of Melbourne, L.P.","1401  S. Apollo Blvd., Suite B, Melbourne, FL 32901, US",https://fa1d36e0-0072-4d0f-ac9c-781aaa0e6629.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119707
+"Coastal Endoscopy Center, LLC","175 Gunning River Rd, Unit 4, Barnegat, NJ 08005-1436, US",https://392bd90a-a07e-4217-80f1-e44800191d4b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119750
+Shore Outpatient Surgicenter,"360 New Jersey 70, Lakewood Township, NJ 08701, US",https://0827cc7d-e0ad-4083-9f40-e122b2b8bb2c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119760
+"Texarkana Gastroenterology Consultants, PA","PO Box 676392, Dallas, TX 75267-6392, US",https://ab0ad0d3-1a1d-47a7-80b0-c0bd276b844e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119784
+"iSurg of Spring, LLC","21848 Holzwarth Road, Suite 300, Spring, TX 77388, US",https://296a5ed3-12c5-44d7-924c-973714b8b686.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119785
+Anderson Endoscopy Center,"7661 Beechmont Avenue, Suite 100, Cincinnati, OH 45255-4200, US",https://79ae3049-556a-47bf-9486-6753203f5b3d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119789
+Client,US,https://01c6f2ad-20a6-4d5c-b34c-3b8d9b411cea.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119806
+Gastrointestinal Endoscopy Center - Chalfont,"1600 Horizon Drive, Chalfont, PA 18914, US",https://4f81aa8f-46d9-489d-aca3-0319ef5c1a34.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119812
+Client,US,https://0774d48a-82f9-40ed-8274-6b84e408b9a3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119815
+Client,"411 Westwood Dr, Wausau, WI 54401, US",https://73c38065-c5f6-4858-8be6-aea1e2e3a7ce.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119822
+Sullivan and Partners,"2204 Pavilion Dr, Suite 108, Kingsport, TN 37660-4651, US",https://770af1f3-6364-4777-9732-6d04990df5c6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119849
+Client,US,https://ef0cb82c-444b-41d0-aacd-4dcc868e080d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119864
+BU,US,https://560a05f7-27b5-4907-a145-8c1426cde8c4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119876
+Client,US,https://8e63715a-ff15-4301-b4b9-2550627aa717.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119877
+Client,US,https://a4a1b71b-f9e4-4766-923a-529f8e8c2132.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119878
+Client,US,https://512022ef-283b-43b1-bf58-6e436162dc65.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119879
+"Shabbir Husain Jamali, MD PA","421 School Street Suite 110, Tomball, TX 77375-4788, US",https://ae381384-3c50-4a82-b362-244639d5d1cf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119883
+Atlantic Gastro,US,https://eabe76b3-1e1d-457c-ad5d-7e2d19313c8b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119911
+Client,US,https://d4363ba8-df6e-47cf-88dc-0749e7a1b55a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119912
+Client,US,https://9c274367-c92a-4534-bfb5-fc28857dec69.gastro.prod.fhir.ema-api.com/fhir/r4/,2.119994
+Lake Cumberland Surgery Center,"301 Langdon St, Somerset, KY 42503, US",https://97465a19-0dc7-4ef3-9aea-f72e472d3305.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120
+Client,US,https://09d9c3e0-2ec9-400a-b379-e0028c788d93.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120014
+Alexandria GastroIntestinal Specialists,"3311 Prescott Rd. Ste 411, Alexandria, LA 71301-3916, US",https://0e4f8632-8d1e-46ff-aec7-568e868b9244.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120023
+Inland Empire Gastroenterology Medical Group,"40404 California Oaks Rd, Ste C, Murrieta, CA 92562-5786, US",https://46b7fca8-aab7-4c56-a183-88533aef4e46.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120025
+Client,US,https://eabeed54-b67f-401f-9f3d-9fc9d1840eef.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120047
+"U.P. Digestive Disease Assoc., P.C.","1414 W. Fair Ave., Ste. 247, Marquette, MI 49855-5406, US",https://5f1af095-d730-4e89-b49e-f121276b7645.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120058
+Puget Sound Gastroenterology,"19000 33rd Ave W Suite 230, Lynnwood, WA 98036, US",https://7e6d65ac-543a-4d66-acb8-36b51c8c951c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120063
+Client,US,https://70e79d54-da3a-4034-bb74-a9f5df8645d8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120068
+Client,US,https://889eac69-692e-4ae8-8e87-b2aa0332569b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120076
+Dallas Endoscopy Center,"3930 Crutcher St, Dallas, TX 75246, US",https://5dbb0b0a-591a-453c-a015-02798f63f999.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120105
+Client,US,https://1409e457-7af4-4e55-984a-f788046ff527.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120122
+Client,US,https://e7dee870-89ca-4a5a-a5e7-8d4e15fa8a3e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120127
+Client,US,https://4f2953bd-8522-4532-9d05-ef1d3cadf1e1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120151
+"Southern IL GI Specialists, LLC","PO Box 365, Carbondale, IL 62903-0365, US",https://fa120b5c-6699-49eb-9b43-fa51a183b3cb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120152
+Client,US,https://d8dd09d6-8d5f-45f2-b83a-9bc066ac1362.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120182
+Center for Endoscopy LLC,"3921 Waring Road, Suite B, Oceanside, CA 92056-4456, US",https://21bb0efd-546a-40fa-b3f4-a62c36c92f5b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120187
+"Maryland Anesthesia Providers, PA","621 Ridgely Avenue, Ste 201, Annapolis, MD 21401-1081, US",https://54143a11-7fc9-4815-b9d4-6b24732665dc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120188
+Client,US,https://1b57edc5-e5e9-48b0-ad5e-af18c693b1c7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120215
+Client,US,https://1924c7d5-0e8f-4f4b-9ad6-11c5b6586988.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120238
+Client,US,https://4185725e-a29f-437b-833f-fddaf21b274f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120254
+Client,US,https://82074a96-9478-4c45-90f8-99e6b42edcd2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120257
+Client,US,https://42e1cc73-f4ce-48dd-9d77-c5b7e0b6359b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120258
+Surgical Hospital of Southwoods,"7630 Southern Blvd, Boardman, OH 44512, US",https://1f10763a-ef83-4d42-8514-8c7ee3d8fe32.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12026
+ASC,"18519 W Rimrock St, Surprise, 85388-3214, US",https://5cc5b0f5-7f09-456c-89ca-c1e07ac034a2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120264
+Client,US,https://0e6a919d-06cb-44a6-97ab-b4002be37e22.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120272
+Client,US,https://d0d2c818-4109-4548-9753-96fbea636af6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120274
+Client,US,https://513b70a9-3e6d-4cc0-9f5d-071f647a9c5f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120280
+Client,US,https://2a1f53df-82cc-4c2d-aeca-f356786a6874.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120288
+Client,US,https://bcd94bf7-40af-41fe-aefd-d878bc75591b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120289
+Client,US,https://876662d5-5b0e-4aef-8437-3d39d759c9a2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120297
+Client,US,https://12ae4e57-a766-4103-8024-1c9b52548754.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120304
+"Digestive Health Specialists, PA","195 Kimel Park Drive, Ste 300, Winston Salem, NC 27103, US",https://7dd4c9b2-8c33-42e8-9be4-1fef2411298a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120336
+BU,US,https://307246f4-a31b-41eb-b6cf-e638ac67cc6c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120351
+Client,US,https://a57df5d6-c5e3-46b2-9955-c57190f7cfdb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120356
+Client,US,https://56454cf4-455d-48ff-a232-b68e9ac0ce2a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120362
+Client,US,https://785ddc56-8642-4b4b-bc1a-29106a289cac.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120365
+Inspira Medical Center - Mullica Hill,"700 Mullica Hill Rd, Mullica Hill, NJ 08062, US",https://8933b951-aa39-4d4f-9f07-484695b73946.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120366
+Client,US,https://90c834a3-9f41-467b-857d-60b6636461b0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120368
+Client,US,https://142753da-4fef-48d2-9b35-abc92c8e2c73.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120406
+Atlantic Gastro,US,https://027985b7-4be3-4af1-9139-728eb6ac9140.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120416
+Client,US,https://07f69619-da8e-443b-8181-fe11aeff92d7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120423
+Client,US,https://6629f284-5fcf-4dbd-975b-1047f3092b9a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120473
+Client,US,https://695569ee-e1ac-4c07-92bf-8924197888b6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120477
+Client,US,https://447bf327-13ad-416e-a1f9-1ce0fdb1bc22.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120479
+Client,US,https://7f51d980-6fe7-473a-9a51-701dfd90caf9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120522
+Client,US,https://1b3b4ad2-549c-4239-b8db-452a90510eaa.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120524
+Flagler Endoscopy Center,"1117 North Olive Avenue, Suite 201, West Palm Beach, FL 33401, US",https://3503dea6-34ef-43b1-80af-48fe45aa16b4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120538
+Client,US,https://1e55d709-0b47-4fac-a1f2-c87b3f73a3cb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120544
+Client,US,https://97e415ef-5950-42a1-8827-0ed25b1167a2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120575
+Client,US,https://f59005b2-f9f9-46b3-8a6a-5809096f0d3d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120579
+Client,US,https://16d4e1c8-9f33-4abe-94cb-1fcdae66d3df.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120582
+Client,US,https://7e959829-6d7b-4be6-8cb6-e8b8a0b6e80a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120584
+Client,US,https://2a067c95-7682-4645-822b-d6be8cf7cf07.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120585
+Client,US,https://556fcd09-62e0-4667-92d7-260cbc9ea8bb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120589
+Client,US,https://100bb451-763b-4cee-84cc-ea4acf16d818.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120596
+Client,,https://3eb1740b-cebc-4f85-a415-e7079d8dcfaf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120600
+Client,US,https://8077ce92-04a5-45fd-8145-126027d62a46.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120600
+Client-Next,"100 Address, Davie, FL 33344, US",https://32665bac-598e-48c9-9215-010208a671e8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120617
+Client,US,https://3e8a83df-b251-4dc4-8676-6b5b2e5a4711.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120624
+"Timothy L Huggins, MDPA","1212 Clear Lake Road, Ste 100, Weatherford, TX 76086, US",https://12c0a134-1861-4631-893b-4ccf0d588fbd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120633
+"Jefferson Endo Ctr at Bala, LLC","PO Box 781668, Philadelphia, PA 19178-1668, US",https://9f255040-f4f3-41e8-bb4f-222f739f9552.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120650
+Client,US,https://d2e2d9bb-d691-454a-9714-0365f5041646.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120660
+Huntington Bay Medical Assocs.,"195 East Main St, Huntington, NY 11743-2921, US",https://3d7a5c0b-e2ad-4f77-8b4f-bdf00e179c8c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120662
+Client,US,https://42b07234-3f5b-4986-b621-c7dde6a989a4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120665
+Client,US,https://8f678ee9-9124-4f6f-b210-defd2416952b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120672
+Client,US,https://0f89b1b6-cddb-4e63-9884-e964c6c67f75.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120674
+Client,US,https://b413a8ac-4b7a-4153-805f-dc08a7bb6fe7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120676
+Client,US,https://b69353f0-39a9-4a2e-a6eb-2e0b4b3526a8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120681
+"Jefferson Endo Ctr at Bala, LLC","PO Box 781668, Philadelphia, PA 19178-1668, US",https://7c905501-f0f8-43c8-a8f4-47faef6ea95e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120684
+Client,US,https://197b0a9f-5000-40fd-bc41-8ec6612316c9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120687
+Client,US,https://f05e046d-15ee-4aad-b733-4aa882e94d05.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120699
+Client,US,https://8a250dc9-252a-4b25-a544-1e98592509aa.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120703
+Client,US,https://fa25e62d-f107-4b01-bbd2-234fb068ba62.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120719
+Client,US,https://df5aa7ed-c8b3-427b-8121-764412cbe7c5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120725
+Client,US,https://ff35b96e-a7fe-4915-a310-8145324f0515.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120837
+BU,US,https://4c9d75a7-2434-48c8-99db-57677773e3f4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120847
+Client,US,https://35944b22-4eac-40f6-9d0c-78105ab9b27c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120852
+Client,US,https://0764208d-e0b6-426f-ba21-a8bb46e26323.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120860
+Client,US,https://d7c6eca4-12ec-4dd9-b122-d7461f7a5ee7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120884
+GI Diagnostics Endoscopy Center,US,https://db15cdda-f4fd-4122-be2f-472abe91b637.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120885
+Endoscopy Center of Long Island,"711 Stewart Avenue Ste 114, Garden City, NY 11530-4731, US",https://7ef20fd0-bc80-42bd-8110-1514d778dba3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120908
+Mid Hudson Regional Hospital,"241 North Road, Poughkeepsie, NY 12601, US",https://8e1b1537-7ce2-4efe-826c-7da99ee7ee87.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120909
+Client,US,https://9bc76460-3fb6-4c98-80f3-79ad3ca06165.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120934
+Client,US,https://00013c7b-2bb9-496a-89bb-bb58c673e514.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120939
+Client,US,https://38fa323f-7afa-4cb8-9dd7-6b7b68630c4d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120941
+Phelps Hospital,"701 North Broadway, Sleepy Hollow, NY 10591, US",https://1b7ea3ef-0afd-482a-bfcd-4be4d85cef30.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120942
+Client,US,https://65b2da34-3ee9-478f-8fda-7bbf5a155d4a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120959
+Client,US,https://a83358ef-e2f2-4070-993d-950b9e09b101.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120960
+Client,US,https://a0b91f16-55a4-42ff-8fc0-4b23968d4e34.gastro.prod.fhir.ema-api.com/fhir/r4/,2.120992
+Cary Gastroenterology Associates,"115 Kildaire Park Drive, Suite 201, Cary, NC 27518-8817, US",https://fbcd2a0e-4110-4d68-b8cf-f166f9544cb4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121
+Client,US,https://14957e1a-28f1-456f-bc4d-eb45defd881e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121006
+Client,US,https://332779ce-8ca5-4aec-9e46-eee3997e2ca5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121040
+Client,US,https://fa78b55b-3825-4f2a-b3f9-6c2261882657.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121056
+Client,US,https://277b482a-2a6a-4159-aa6b-2201c8531656.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121067
+Client,US,https://40857380-d284-447a-84d8-181314079215.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121082
+BU,US,https://83d842ed-6c70-499c-be58-7b7dedd514fb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121084
+BU,US,https://1299c09f-7061-44c6-b7f8-ebb8327e17ac.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121122
+Bestgate Anesthesia LLC,"PO Box 63206, Charlotte, NC 28263-3206, US",https://5be1b602-bb66-49d9-bede-741de2418fdf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121138
+Client,,https://11cd25a9-5eed-48f5-8374-7a39f2210ff8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121142
+Client,US,https://11cd25a9-5eed-48f5-8374-7a39f2210ff8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121142
+Client,US,https://ac794ce1-fcc0-4449-8014-4ae09a9a513c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121147
+BU,US,https://f309f0c3-834b-4017-9e4f-77d31d66af24.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121167
+Client,US,https://cfa4f96e-3e3c-4443-bcc1-127e0e36c899.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121197
+Client,US,https://3eb1740b-cebc-4f85-a415-e7079d8dcfaf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121214
+BU,US,https://a4bb1265-632c-47fb-97e5-05cbe68be0fa.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121220
+Client,US,https://081954b4-0941-476e-bdb0-2a07c9e4c4f4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121222
+Client,US,https://7d6d5ab3-29c5-45f9-a501-50c05f7fb288.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121226
+Client,US,https://f625ca83-db36-45f3-ad45-967b9efe55c8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121244
+Client,US,https://22261e8c-681d-4512-b5a4-08a4bed3a384.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121259
+Client,US,https://53773b09-bc1d-4eb7-83f0-d6ef8c959a82.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121261
+Client,US,https://8e2d155a-dc6f-469a-bb33-9e5752ae764a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121279
+Client,US,https://2283771d-34f3-4f22-b03e-d1bbf09d58ab.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121294
+Client,US,https://06413b9d-b884-405e-83fb-7332af9fd9e2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121301
+Client,US,https://3a0954d1-ed6c-493b-8ad5-d07d477a708a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121316
+Client,US,https://41bf24cd-4a7c-4d26-8b88-9f971550b3ec.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121387
+Client,US,https://ccde1113-a5dd-44d3-b3ef-6a041415b70d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121390
+Client,US,https://ffdc0d71-9d11-4644-a877-db4282aa1f48.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121391
+Client,US,https://2d866b24-242c-4599-aee8-c0eff348d784.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121394
+Client,US,https://1358b020-c682-4850-a6b2-b7fbfc09c3f1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121410
+Client,US,https://b52d0a49-e2f0-471f-8e6b-3b1464140a1c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121432
+Client,US,https://b0334944-983e-4c7d-aca7-e59b1c108e5d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121448
+Client,US,https://0ff484af-0b38-4751-8904-7153052646c7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121454
+Client,US,https://b0d25428-4a65-41be-bc82-46c6e8103fc3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121458
+Client,US,https://9b2e57b9-9ce9-4c17-b4c2-2d07ea67cd6f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121459
+BU,US,https://164dc3c7-edb9-49c2-a005-b786a7eabac8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121491
+BU,US,https://e553b41d-cc0b-444a-8466-a97ee34386b9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121503
+BU,US,https://da84180c-1ef0-4c76-afd3-a7f5fc5927f0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121529
+BU,US,https://ad74c56e-3d40-46f0-810e-0c17c6748126.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121534
+Client,US,https://d6fa7077-678b-4df3-9e47-18d084b759de.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121542
+Client,US,https://f11ba76b-c1ee-439f-b8e2-212cc4a8b40c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121545
+Client,US,https://97e2cce9-00ba-4974-8bcd-94bc1b0aa5ae.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121572
+Client,US,https://3cdca2f0-35eb-4d19-8c8c-162425b92542.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121574
+Client,US,https://0f449064-b774-45bb-bca9-ef95d461338d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121596
+Client,US,https://14b1a784-93b0-49e2-b6eb-deac9801686a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121609
+Client,US,https://ee9289fb-5d3b-4454-b933-d10f6c792873.gastro.prod.fhir.ema-api.com/fhir/r4/,2.121637
+SurgiCenter of Murfreesboro,"1272 Garrison Drive, Murfreesboro, TN 37129, US",https://e1ca5125-f247-43ea-a8fd-a83cdb0b811d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12171
+"Aaron J Small, MD LLC","98-199 Kamehameha Hwy, Unit C10B, Aiea, HI 96701-4821, US",https://6e27735e-f566-44ad-ac98-8c27eac89c97.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12198
+GastroIntestinal Healthcare PA,"2011 Falls Valley Dr, Ste 106, Raleigh, NC 27615-3451, US",https://a1c02ddf-9398-4db3-b17d-e4ed406c88f2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.122
+CARL MCDOUGALL MD,"60 E 56th Street, 7Fl, New York, NY 10022-3344, US",https://c900499a-2318-4848-a027-e8b9652a83ae.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12247
+Howard County Gastrointestinal Diagnostic Center,"10710 CHARTER DR STE 120, COLUMBIA, MD 21044-3258, US",https://45fa7a05-41b0-42e2-8589-b26385cda68f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12284
+"Gastroenterology Specialist, Inc","10210 East 91 Street, Tulsa, OK 74133, US",https://a50bc6d0-2d8a-4c7f-86f5-3cb01f08da44.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12289
+"Kurt Vernon, MD PA","904 W BROAD ST STE D, DUNN, NC 28334-4147, US",https://177472a4-574c-4a73-8deb-a3663624cdb8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.123
+Dr. Albert Knapp,"760 Park Avenue, New York, NY 10021, US",https://5b6deefc-1819-4567-b2e8-b01b41aef570.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12309
+Midwest Physician Surgery Center,"3601 Northeast Ralph Powell Road, Lee's Summit, MO 64064, US",https://3e25d143-a3d0-4e01-978d-8d029cefcdbb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12310
+Eye Associates Surgery Center,"2100 Little Mountain Lane, Mount Vernon, WA 98274, US",https://b77485b4-c1a7-4e91-916d-278628085702.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12342
+Pierce Street Same Day Surgery,"2730 Pierce Street, Suite 100, Sioux City, IA 51104, US",https://b99bfe22-cb9d-4128-ace6-6c2045dee050.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12362
+"Lake Endoscopy Center, LLC","1901 SE 18th Ave, Bldg 400, Ocala, FL 34471-8215, US",https://57ed73f5-f763-409c-a368-f908d42b9072.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12378
+Gastroenterology Consultants,"1925 Glenn Mitchell Drive, Suite 102, Virginia Beach, VA 23456-0170, US",https://b7b9b194-86fb-439e-b8e9-c07e9384f893.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12379
+Daniel S Reich MD Gastroenterology PLLC,"69-60 108th St, Forest Hills, NY 11375, US",https://9557458d-8aa3-4369-887c-e4f71eaf3c45.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12382
+"Mark M. Pinkhasov, DO PLLC","112-03 Queens Blvd, Suite 204, Forest Hills, NY 11375, US",https://35a8c3aa-767e-4996-a4c8-a0226838d2e1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12383
+"Inova Oakville Ambulatory Surgery Center, LLC","400 Fannon St Ste 200, alexandria, VA 22301, US",https://f6cd4dc2-092b-4744-b0da-c39d755e6426.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12386
+Greenwood-Leflore Hospital,"1401 River Rd, Greenwood, MS 38930, US",https://e3f4c88c-f94a-4be5-b4f8-7a469cbd1c2a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12387
+Memphis Eye And Cataract Associates Surgery Center,"6485 Poplar Ave, Memphis, TN 38119-4838, US",https://7e53abb0-5e30-4164-9068-7f3079ec4d6a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12392
+"River Point Surgery Center, LLC","3535 River Point Pkwy #100, Sheridan, CO 80110, US",https://32205f5d-a0eb-4ea1-aaee-ec882979f283.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12394
+CASCADE SURGERY CENTER LLC,"120 NE MANZANITA AVE, GRANTS PASS, OR 97526-1431, US",https://57c9cc78-a402-499f-957d-8bbee6939ebd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12397
+Jefferson Surgery Center,"2211Chapel Avenue West, Cherry Hill, NJ 08002, US",https://f15a24e2-8c5e-493b-b9d1-3fcaad4622d2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.124
+Brooklyn Endoscopy SC.,"2211 Emmons Avenue, Brooklyn, NY 11235, US",https://bb987e73-73ac-4ace-9dff-9faef78ec81e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12411
+Western Gastroenterology,"310 N Wilmot Rd Suite 202, Tucson, AZ 85711-2627, US",https://c9e3500d-86a9-4b73-a857-fb3056b530b8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12424
+"Ophthalmic Outpatient Surgery Center Partners, LLC","550 Connell's Park Lane, Baton Rouge, LA 70806, US",https://fa8a2944-9e89-456d-b21a-b14e7e571664.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12430
+IRONWOOD GASTROENTEROLOGY PLLC,"395 N Silverbell Rd# 255, Tucson, AZ 85745, US",https://85960b8f-59a7-4154-9810-948857ce9f19.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12431
+"The GI Clinic, PLLC","1515 Lake Lansing Road, Suite O, Lansing, MI 48912, US",https://213f13b7-c6fc-499c-894d-134d46292ed1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12451
+TLC SURGICAL CENTER,"240 South La Cienega Boulevard, Beverly Hills, CA 90211, US",https://ce27258c-91d5-4b87-bdaf-8c6eb5ed6ba4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12455
+"iSurg of Spring, LLC","21848 Holzwarth Road, Suite 300, Spring, TX 77388, US",https://296a5ed3-12c5-44d7-924c-973714b8b686.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12472
+Soho Endoscopy Center,"132-59 41st Rd, Ste 1A, Flushing, NY 11355, US",https://183594cc-a745-4531-81c8-c3d284d1bd45.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12490
+Folsom Sierra Endoscopy Center,"1671 Creekside Drive, Suite 100, Folsom, CA 95630, US",https://3056d675-2a36-4eac-a201-2bff8905aac8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12495
+National Ambulatory Surgery Center- Camarillo,"4005 Mission Oaks Blvd, Unit B, Camarillo, CA 93012-5156, US",https://20d90d0b-dbda-4fca-b2ff-0c0bd7d6785e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12496
+LI Gastroenterology Endoscopy PC,"2200 Northern Blvd Ste 212, Greenvale, NY 11548-1120, US",https://d425f144-77fd-4659-913d-b915be189a97.gastro.prod.fhir.ema-api.com/fhir/r4/,2.125
+Parkview Community Hospital,"3865 Jackson St, Riverside, CA 92503, US",https://7708eb16-f6da-421d-8e79-1a97fdbd1ce8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12517
+"La Jolla Endoscopy Center, L.P.","9850 Genesee Avenue #980, La Jolla, CA 92037, US",https://37873659-6bb8-4894-a00f-450b9461560c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12568
+"C. Butch Dunn, M.D.","302 MCMILLAN ROAD, WEST MONROE, LA 71291, US",https://44b49fc4-1c3b-49a9-9204-8f80deba543f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12589
+"Bay Area Digestive Care, Inc","282 Benedict Ave Suite D, Norwalk, OH 44857-2712, US",https://5fed3212-5ef6-43be-956f-1d101a902fa9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.126
+Digestive Health Center PA,"3890 Bienville Boulevard, Ocean Springs, MS 39564, US",https://95dd9323-8457-4a9f-a7b0-f87f6af8c682.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12614
+Merced Medical Clinic,"650 W Olive Ave, Merced, CA 95348-2423, US",https://9ae4d924-d612-4820-9e0d-169e50392957.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12623
+Platinum Digestive Health,"9481 Pittsburgh Ave, Suite 200, Rancho Cucamonga, CA 91730, US",https://c4b01784-d4b7-49a7-91d4-b25919fa8ae5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12627
+Gastroenterology Specialists of Dekalb,"3292 Mountain Drive, Decatur, GA 30032, US",https://973fd3e8-81d0-4e2c-91d2-2c0ae48044ea.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12656
+Islandwide Gastroenterology P.C.,"1205 Franklin Ave., Garden City, NY 11530, US",https://b73339c2-f324-4e2a-a0fc-eba5aeb3086c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12668
+West Hills Surgical Center,"7240 Medical Center Drive, West Hills, CA 91307, US",https://240dcd19-cfae-4053-b1c8-f05992341488.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12672
+Meadowview Regional Medical Center,"989 Medical Park Drive, Maysville, KY 41056, US",https://d6a579cb-4390-4d87-802a-8b64223a87a7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12687
+Chevy Chase Endoscopy Center,"5530 Wisconsin  Ave. Suite 500, Chevy  Chase, MD 20815, US",https://608bdd38-3156-4441-af46-7bcc0c0fcff5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12693
+Client,US,https://cb0a5189-fdbb-4f10-ba3b-dad10b60a672.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12694
+"Alliance Gastroenterology Group, LLC","1795 North Butterfield Road, STE 201, Libertyville, IL 60048, US",https://4cadd8a9-194d-488a-8503-139d14c85e5d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12708
+Allen Parish Community Healthcare,"108 6th Ave, Kinder, LA 70648-3187, US",https://ccfb87e6-242a-40f2-ba81-ff5c5be0e4d9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12710
+Danville Gastroenterology Center PC,"501 RISON STREET, SUITE 130, DANVILLE, VA 24541-7124, US",https://a9fd92df-00fa-4340-ae65-657ca46f5f57.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12728
+"Northeast Endoscopy Center, LLC","721 Wellness Way, LLC, Suite 110, Lawrenceville, GA 30046, US",https://c47a382f-088b-4210-8ccc-5c3dbf9aab8f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12737
+Calabasas Surgery Center,"23621 Park Sorrento, Calabasas, CA 91302, US",https://aa446dd5-a118-49a4-be53-21f466402832.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12757
+"Dilip M Desai M.D, PLC","6240 Rashelle Drive Ste201, Flint, MI 48507, US",https://a3505b75-4689-4619-808c-08c12da811b0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12760
+"Suncoast Endoscopy of Sarasota, LLC","2089 Hawthorne Street, Sarasota, FL 34239, US",https://6ffdef5b-897c-4f5d-8e60-ae46a2d75ff8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12763
+"Digestive Disease Physicians, P.C.","4660 Kenmore Avenue, Alexandria, VA 22304, US",https://47cbff2f-48a2-4358-972b-182a6dcb007e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12772
+Lincoln Health System,"106 Medical Center Blvd, Fayetteville, TN 37334, US",https://a3dcdbd9-5b82-4cee-a814-9a0d4c261ba4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12798
+Surgery Center of Pottsville,"1544 Rt 61, Suite 6192, Cressona Mall, Pottsville, PA 17901, US",https://83cc95b3-c376-4f8f-84eb-5d8038551390.gastro.prod.fhir.ema-api.com/fhir/r4/,2.128
+Southeast Gastro,"513 Brookwood Blvd., Ste. 401, Birmingham, AL 35209-6883, US",https://43d3ee3c-e186-4374-92f1-0081c8e70b34.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12807
+"Wilma Cotto, MD","73 Calle Santa Cruz Ste 213, Bayamon, PR 00961, US",https://03e2a29a-e823-419a-9706-eb39734caa2e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12813
+AIGI Care LLC,"16772 West Bell Road, Surprise, AZ 85374, US",https://9805f567-925a-47a5-aa51-d4b06028f56e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.12823
+Palmetto Digestive Disease PA Clinic,"2073 Charlie Hall Boulevard, Charleston, SC 29414-5834, US",https://e3cab0c3-16d5-4dd5-8801-a6f098d587f5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.129
+Capitol Anesthesia Group LLC,"PO Box 221732, Chantilly, VA 20153-1891, US",https://937b3ea5-7a6e-4d4e-b0ed-672ee9436d43.gastro.prod.fhir.ema-api.com/fhir/r4/,2.130
+Reston Endoscopy Center,"1939 Roland Clarke Place, Suite 200, Reston, VA 20191-1445, US",https://1acbd3ba-ed1b-40f5-8d90-1cc35c556f96.gastro.prod.fhir.ema-api.com/fhir/r4/,2.131
+Logan Regional Medical Center,"20 Hospital Drive, Logan, WV 25601, US",https://48881cdb-e929-4657-9867-fdde5cedcbce.gastro.prod.fhir.ema-api.com/fhir/r4/,2.132
+Mat-Su Surgical Associates APC,"2490 S Woodworth Loop Ste 450, Palmer, AK 99645-7407, US",https://1ee543a4-bf37-40b5-9945-9cd59a1c3b3b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.133
+Tuscaloosa Endoscopy Center,"120 Rice Mine Rd. N, Tuscaloosa, AL 35406-2425, US",https://5ea05e84-9956-4942-89c1-213eb31b46bb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.134
+Outpatient Services East Surgery Center,"52 Medical Park Drive East, Ste 401, Birmingham, AL 35235, US",https://f02c46cc-89f8-4f9a-8da8-99b073c55482.gastro.prod.fhir.ema-api.com/fhir/r4/,2.135
+Jackson Hospital & Clinic,"1725 Pine Street, Montgomery, SL 36106, US",https://bea28457-8a35-4836-81fa-a55473bafe7a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.136
+The Surgery Center of Huntsville,"721 MADISON STREET, Huntsville, AL 35801, US",https://d39a1e77-6826-49c4-8e34-4a80ff96206e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.137
+The Healthcare Authority for Baptist Health/UAB,"400 TAYLOR ROAD, Montgomery, AL 36117, US",https://3a980deb-3d8b-4d20-b65b-21241412d922.gastro.prod.fhir.ema-api.com/fhir/r4/,2.138
+"Affinity Gastroenterology ASC, LLC dba Grandview E","3686 Grandview Parkway, Suite 610, Birmingham, AL 35243-3406, US",https://bf8f51b1-eeb5-4b4a-af50-07d7ccbfbd2e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.139
+"Surgicare of Mobile, LTD","2890 DAUPHIN ST, MOBILE, AL 36606-2457, US",https://5d205757-d7ad-4385-b85e-206fb2980872.gastro.prod.fhir.ema-api.com/fhir/r4/,2.140
+Shelby Baptist Ambulatory Surgery Center,"1010 1st Street North, Alabaster, AL 35007, US",https://587ae17e-9d61-401e-b518-24b3e317b561.gastro.prod.fhir.ema-api.com/fhir/r4/,2.141
+Gastroenterology Clinic of Hot Springs,"151 McGowan Court, Hot Springs, AR 71913-6451, US",https://c3916c65-0790-41c5-8eec-1f6c89e87716.gastro.prod.fhir.ema-api.com/fhir/r4/,2.142
+Gastroenterology Associates of Southeast Arkansas,"1609 W. 40th Street, Suite 312, Pine Bluff, AR 71603-6366, US",https://e5acb156-d563-411c-adb4-9488d77feed2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.143
+Terri T Blackstock MD PA,"124 Sawtooth Oak St, Hot Springs, AR 71901-7160, US",https://1fbdfcda-3089-4e5e-8d47-212b75eaf22d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.144
+"Gastro Clinics of Arkansas, PLLC","409 North University Ave, Little Rock, AR 72205-3108, US",https://9d1d65b5-fc44-4c0c-a5cf-f2427e889474.gastro.prod.fhir.ema-api.com/fhir/r4/,2.145
+Central Arkansas Gastroenterology Anesthesia Servi,"PO Box 55073, Little Rock, AR 72215-5073, US",https://1a572fe8-4158-42a5-98e1-1080209f25f6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.146
+Conway Regional Gastroenterology Center,"2200 Ada Ave Ste 201, Conway, AR 72034-4984, US",https://bfb0074d-717a-42a9-a17b-421abfd28efe.gastro.prod.fhir.ema-api.com/fhir/r4/,2.147
+"Premier Gastroenterology Associates, PLLC","P.O Box 2309, Searcy, AR 72145-2309, US",https://fef9ae01-d276-4e26-aadf-c71f0d69daba.gastro.prod.fhir.ema-api.com/fhir/r4/,2.148
+Johnson Regional Medical Center,"1100 E Poplar St, Clarksville, AK 72830, US",https://0621a941-5b32-48ea-8038-318fa4aa2198.gastro.prod.fhir.ema-api.com/fhir/r4/,2.149
+"Gastro Clinics of Arkansas, PLLC","3401 Springhill Drive, Suite 400A, North Little Rock, AR 72117-2924, US",https://fa49470e-e549-442c-aaf1-d399d5b6d551.gastro.prod.fhir.ema-api.com/fhir/r4/,2.150
+Kinslow Eye and Laser Center,"443 W Oak Street, El Dorado, AR 71730, US",https://8d78b571-de39-4d7a-8bfc-932db410c87d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.151
+"Medical Associates of Northwest Arkansas, P.A.","3383 N. MANA Court, Suite 201, Fayetteville, AR 72703, US",https://08e3beb7-0812-4e24-be3c-6ff3d7b8ca27.gastro.prod.fhir.ema-api.com/fhir/r4/,2.152
+Southeast Valley Endoscopy Center,"875 S Dobson Road, Chandler, AZ 85224-5710, US",https://831cec68-9c02-4959-bb6a-13b70feb6f40.gastro.prod.fhir.ema-api.com/fhir/r4/,2.153
+"Pima Gastroenterology, PC","6365 E. Tanque Verde Rd., Tucson, AZ 85715, US",https://3c8a5aee-3928-45be-8b16-a0f55c8eff58.gastro.prod.fhir.ema-api.com/fhir/r4/,2.154
+DHS Arizona Endoscopy Center,"PO Box 11029, Tacoma, WA 98411-0029, US",https://86828155-b9fa-4a5a-a68c-d6e1115fa77f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.155
+Cochise Digestive Health Center,"198 S Coronado Dr, Suite A, Sierra Vista, AZ 85635-6354, US",https://6807e6b6-6f20-4343-97f3-36cdd5aa9c0e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.156
+Miguel A Arenas MD PC,"7445 E Tanque Verde Rd, Tucson, AZ 85715-3477, US",https://87da10c8-4b9e-450a-a5e3-72c6451dfbee.gastro.prod.fhir.ema-api.com/fhir/r4/,2.157
+"Gastroenterology Associates, P.C.","1441 Wilkins Circle, Casper, WY 82601-1337, US",https://293b4af0-46c8-4b3c-baa3-8c47c73a0bba.gastro.prod.fhir.ema-api.com/fhir/r4/,2.158
+"Swan Surgery Center, LLC","1505 N Swan Road, Suite 101, Tucson, AZ 85712-4078, US",https://c89bf89a-a26e-42bb-840d-b51df01b9034.gastro.prod.fhir.ema-api.com/fhir/r4/,2.159
+Canyon Vista Medical Center,"5700 E Highway 90, Sierra Vista, AZ 85635-9110, US",https://8264d6b8-81e2-424d-b9ba-b7935a661b0d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.160
+"Physicians' Surgery Center, LLC","1800 Arizona 95, Bullhead City, AZ 86442, US",https://8b12fd4c-da15-4ead-a3a8-344ea9ac675d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.161
+Reddy GI Associates,"1810 S. Crismon Rd. #191, Mesa, AZ 85209-3900, US",https://dc7314ad-d828-4d89-aae8-9119deed9843.gastro.prod.fhir.ema-api.com/fhir/r4/,2.162
+"Digestive Care Medical Center, Inc","PO Box 101629, Pasadena, CA 91189-0022, US",https://0e6dce4e-6535-4b4d-84e3-0acd509ac5c2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.163
+Rancho Bernardo Surgery Center,"17190 Bernardo Center Drive, Ste 100, San Diego, CA 92128, US",https://dd764dd4-6389-4423-a398-2684ed788823.gastro.prod.fhir.ema-api.com/fhir/r4/,2.164
+United Medical Doctors,"28078 Baxter Rd. Suite 530, Murrieta, CA 92563, US",https://672d9ab7-deca-4dbf-8e11-00c1195f8ef8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.165
+Modesto Gastroenterology Medical Corp.,"P.O. Box 702620– Dept. 2017, Tulsa, OK 74170-2620, US",https://47eaa515-c6d5-4fd5-b421-2afde9bc43da.gastro.prod.fhir.ema-api.com/fhir/r4/,2.166
+Pacific Endoscopy LLC,"PO Box 4034, Alameda, CA 94501-4034, US",https://98ad01d2-aad3-4c7c-96a6-0c1ac7c39ff6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.167
+Pasadena Gastro,"1560 E Chevy Chase Drive, Ste 225, Glendale, CA 91206-4156, US",https://ddb5b0dd-fb88-4f1e-a5e1-a03b26022711.gastro.prod.fhir.ema-api.com/fhir/r4/,2.168
+"Unio Health Partners, LLC","P.O. Box 33865, San Diego, CA 92163-3865, US",https://cbf736b1-b683-4ab3-841e-0ec7a6f468d8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.169
+Digestive Health Associates of Southern California,"1301 20th Street, Suite 280, Santa Monica, CA 90404-2053, US",https://6577f092-93ca-4b3b-86e1-30a8e966e9f2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.170
+Specialty Surgical Ctr of Encino,"16501 Ventura Blvd Ste 103, Encino, CA 91436, US",https://279b5dd1-69b9-49e5-82cf-2e3782636ef2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.171
+Avalon Surgery and Robotic Surgery Center,"716 W Broadway, Suite 200, Glendale, CA 91204, US",https://c35e610a-af8f-48b0-a946-d65fc24b4648.gastro.prod.fhir.ema-api.com/fhir/r4/,2.172
+Digestive Care Consultants,"23451 Madison Street #290, Torrance, CA 90505, US",https://de022691-7de3-4508-805b-2d744784c0d0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.173
+Dr. Amin,"1711 W Romneya Drive, Anaheim, CA 92801-1804, US",https://b26ac60c-f318-4a4b-838f-585113152e5c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.174
+Gastroenterology Diagnostic Center,"880 South Atlantic Boulevard, Ste G10, Monterey Park, CA 91754-4733, US",https://d9047a66-f373-4309-97ef-06e586bfffbf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.175
+Prime Surgery center of Encino,"5353 Balboa Ave #300, Encino, CA 91316, US",https://8f2a86ab-9fd4-44de-887a-d8cadbaf4e8b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.176
+Spalding Triangle Surgery Center,"121 Gray Ave #200, Santa Barbara, CA 93101, US",https://9ddedd42-f8fc-44f9-8c47-4cb9d382d26f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.177
+Linden Surgical Center,"121 Gray Ave #200, Santa Barbara, CA 93101, US",https://3f6a685c-8b9d-4b62-a562-ded5b5684af3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.178
+ENDO CENTER CENTRAL COAST / TEMPLETON ENDO CENTER,"77 Casa Street, Ste 106, San Luis Obispo, CA 93405-5804, US",https://da386ebf-88cc-4105-8be4-dd773cd7fd45.gastro.prod.fhir.ema-api.com/fhir/r4/,2.179
+"Gastrointestinal Associates, P.C.","1311 Dowell Springs Blvd, Suite 300, Knoxville, TN 37909-2707, US",https://b1ac146f-4bd1-412d-b92a-612018ebe971.gastro.prod.fhir.ema-api.com/fhir/r4/,2.18
+Speciality Surgical Center of Arcadia,"51 N 5TH AVE, ARCADIA, CA 91006, US",https://5dbec2b7-03bd-4959-ac35-0d82c4f247d3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.180
+Court Street Surgery Center,"2184 COURT STREET, REDDING, CA 96001, US",https://8aa9a239-fa4b-4721-883c-52b005699bf9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.182
+Prime Surgical Center of Newport Beach,"351 Hospital Rd. #110, Newport Beach, CA 92663, US",https://47a5c710-995b-4a62-a38c-d544643f8d46.gastro.prod.fhir.ema-api.com/fhir/r4/,2.183
+Huntington Memorial Hospital,"100 E California Blvd, Pasadena, CA 91105, US",https://c412c190-a97b-4397-86ca-b800976099d2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.184
+Doctors Surgery Center of Fountain Valley,"10900 Warner Ave #121, Fountain Valley, CA 92708, US",https://e26d6512-ff45-4162-b273-89a327ccce57.gastro.prod.fhir.ema-api.com/fhir/r4/,2.185
+Pacific Central Coast Health Centers,"PO Box 748573, Los Angeles, CA 90074-8573, US",https://6d148171-7e2a-4a80-a8ec-988b6af3658d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.186
+Starpoint Health Newport Beach,"20360 Southwest Birch Street, Newport Beach, CA 92660, US",https://890ad47e-26dd-4d6b-adf3-be67983c52e6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.187
+Monterey Park Hospital,"900 S. Atlantic Blvd., Montery Park, CA 91754, US",https://973bcab0-a992-4d4e-a6d6-f3fde5886982.gastro.prod.fhir.ema-api.com/fhir/r4/,2.188
+United Pacific Surgical Center,"18133 VENTURA BLVD, STE 400, Tarzana, CA 91356-3645, US",https://19d1b124-767e-4583-abd0-d84125b4b96c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.189
+Gastro Care Institute,"PO Box 5688, Lancaster, CA 93539-5688, US",https://e89ba4e6-f561-4886-828b-c94a27125ee3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.190
+"PRITHIVIRAJ DHARMARAJA, MD INACTIVE","41301 12th Street West Suite A., Palmdale, CA 93551, US",https://4d17465b-8973-44b0-bbfb-fedb844d00d5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.191
+Scripps Health,"8945 Rehco Road, San Diego, CA 92121, US",https://1474d240-69e1-4419-a4e2-9d5495e538ab.gastro.prod.fhir.ema-api.com/fhir/r4/,2.192
+SAN GORGONIO MEMORIAL HOSPITAL,"600 N HIGHLAND SPRINGS AVE, BANNING, CA 92220, US",https://5f834470-c60a-47d6-9b68-196670cd4601.gastro.prod.fhir.ema-api.com/fhir/r4/,2.193
+Corona Summit,"2370 Anselmo Drive, Corona, CA 92879, US",https://359abad3-893e-4146-a73c-c64e3142f9b7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.194
+San Diego Gastroenterology Medical Assoc.,"4060 Fourth Ave Suite 240, San Diego, CA 92103-2120, US",https://d2b81742-c799-4353-a516-d4734331a008.gastro.prod.fhir.ema-api.com/fhir/r4/,2.195
+Ripudaman S. Beniwal MD,"1144 Norman Drive Dr. #101, Manteca, CA 95336, US",https://499b466c-31e0-481e-946e-ba8e804453eb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.196
+Oceana Gastroenterology Associates),"2097 Compton Ave Ste 103, Corona, CA 92881, US",https://a8051dea-05a3-46f4-a61b-6fefc9291f11.gastro.prod.fhir.ema-api.com/fhir/r4/,2.197
+J Robert Evans MD,"355 EAST 21st STREET, SUITE H, SAN BERNARDINO, CA 92404-4851, US",https://da0059a8-415b-4d81-a3bc-36a07967166e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.198
+Prime Surgical Center of Torrance,"22525 Maple Ave.,, Torrance, CA 90505, US",https://553ea6cd-8531-4c50-a456-e1fe844ee072.gastro.prod.fhir.ema-api.com/fhir/r4/,2.199
+FHIRCERTIFICATION,"Test_Address, Test_City, AK 12345-6789, US | 3655 N Commerce Pkwy, Weston, FL 33328, US | 11643 NW 11TH PL, CORAL SPRINGS, FL 33071-4101, US | 11645 NW 11TH PL, CORAL SPRINGS, FL 33071-4101, US | 11645 NW 11TH PL, SUITE 200B, CORAL SPRINGS, FL 33071-4101, US | 11 Address, Davie, FL 33334, US | 123 Davie address, Davie, FL 33337-0987, US | 123 Georgia Ave, Davie, FL 33328, US | 123 Georgia Ave, Davie, FL 33328-0987, US",https://4de7e156-71fe-471b-84a5-ba7f4a5b04e9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.2
+Digestive Disease Consultants of OC INC,"Dept. 140, P.O. Box 509082, San Diego, CA 92150-9015, US",https://3ddfd06f-3009-40de-a3ff-df8242f50d6e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.200
+Valley Physicians Surgery Center,"18330 Roscoe Blvd, Northridge, CA 91325, US",https://34c79c95-369f-439e-abfb-2ae4b06848f3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.201
+Garden Grove Surgical Center,"12894 Harbor Blvd., Garden Grove, CA 92840, US",https://31dfc158-56f7-4d49-985e-641b648ddfc1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.202
+ASPEN SURGERY CENTER,"2750 SYCAMORE DR, SIMI VALLEY, CA 93065-1502, US",https://1b9436a5-efab-4b92-82b0-f6230eeaa4b4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.203
+Center for Digestive Healing,"7643 South Atlantic Ave, Cudahy, CA 90201, US",https://815fed66-b63a-4689-b5a5-aec121eb5748.gastro.prod.fhir.ema-api.com/fhir/r4/,2.204
+Medbridge,"121 Gray Avenue, Suite 200, Santa Barbara, CA 93101, US",https://d262a795-996b-4bd3-893b-00b6346fa2aa.gastro.prod.fhir.ema-api.com/fhir/r4/,2.205
+National Ambulatory Surgery Center,"15251 National Ave # 207, Los Gatos, CA 95032, US",https://8e0b0c2d-fc50-4617-9dbd-beeab30cf87e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.206
+GARFIELD MEDICAL CENTER,"525 NORTH GARFIELD, MONTEREY PARK, CA 91754, US",https://261c483d-868a-4cfd-9f64-2b8e47d4ab5d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.207
+Valley Digestive Health Center,"488 East Santa Clara Street, Suite 102, Arcadia, CA 91006-7230, US",https://08fd4247-5d02-494e-a481-65649f3e6b23.gastro.prod.fhir.ema-api.com/fhir/r4/,2.208
+High Desert Surgery Center,"16177 Kamana Rd, Apple Valley, CA 92307, US",https://994b6d75-f6ba-40a3-938b-c7c52333cbc1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.209
+San Luis Gastroenterology,"1551 Bishop St, Ste 430, San Luis Obispo, CA 93401-4663, US",https://eb3c6cca-e5ce-484f-a5f6-13c53b6514fc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.210
+Southland Gastroenterology Medical Group Inc,"949 Calhoun Pl, Hemet, CA 92543, US",https://7ae2b195-73da-4675-a272-779a16bb2c48.gastro.prod.fhir.ema-api.com/fhir/r4/,2.211
+El Segundo Endoscopy Center,"2110 E. EL SEGUNDO BLVD., SUITE 120, EL SEGUNDO, CA 90245, US",https://72538b9b-ce5d-4fe4-9fd3-647e3c77e583.gastro.prod.fhir.ema-api.com/fhir/r4/,2.212
+NorCal Pediatric GI,"9288 Madison Ave, Orangevale, CA 95662-5857, US",https://650a72fd-9de7-4c66-89eb-b58de864171a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.213
+Anaheim Regional Medical Center,"1111 West LaPalma Ave, Anaheim, CA 92801, US",https://d17bf348-6c12-4e8a-935f-6b05646aa8e7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.214
+Endoscopy Center fo Chula Vista,"681 Thrid Ave., Suite B, Chula Vista, CA 91910, US",https://a4ecd2c0-d42f-470c-a7d8-f463d8774e4e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.216
+Irvine Digestive Disease Center,"8920 Wilshire Boulevard, Suite 418, Beverly Hills, CA 90211, US",https://70766b66-40cd-49ef-bc03-e87bd6c9a67e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.218
+Community Surgery Center of Glendale,"5700 San Fernando Road, Glendale, CA 91202, US",https://949d7054-1a4e-4787-97a8-33837c9aa56f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.219
+Gastroenterology Associates of Colorado Springs,"1699 Medical Center Point, Colorado Springs, CO 80907, US",https://d95dbf00-2c46-4f6f-9fa0-aa8fcf4967c3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.220
+Delta County Memorial Hospital,"1501 East 3rd Street, Delta, CO 81416, US",https://c9492b5e-0891-4e4b-8c8e-2508babadef5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.221
+Skyline Endoscopy Center,"2555 E. 13th Street, Suite 210, Loveland, CO 80537-5113, US",https://02abcc45-b829-47f1-9c01-910f6ee73c38.gastro.prod.fhir.ema-api.com/fhir/r4/,2.222
+Northwest Regional ASC,"10170 Church Ranch Way, Broomfeild, CO 80021, US",https://bca0c69f-5887-4618-b981-e371d2a0e3f2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.223
+Middle Park Medical,"1000 Granby Park Drive South, Granby, CO 80446, US",https://f0c3416b-41f4-4249-8a01-c4e9afe61ce7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.224
+Arkansas Valley Regional Medical Center,"1100 Carson Avenue, La Junta, CO 81050, US",https://517a8370-3687-4a81-907b-3bb4471423cd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.226
+Colorado Plains Medical Center,"1000 Licoln Street, Fort Morgan, CO 80701, US",https://d7a3e529-3a3b-4a38-a110-4fb9c3594fbf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.227
+Arbor Family Medicine,"10081 Wadsworth Parkway, Westminster, CO 80021, US",https://0e41e68a-5787-4f08-9467-7bb49b5675df.gastro.prod.fhir.ema-api.com/fhir/r4/,2.228
+Haxtun Hospital,"235 West Fletcher Street, Haxtun, CO 80731, US",https://8ba27aeb-33a9-4688-8e86-98ba49462dda.gastro.prod.fhir.ema-api.com/fhir/r4/,2.229
+GI Diagnostics Endoscopy Center,US,https://db15cdda-f4fd-4122-be2f-472abe91b637.gastro.prod.fhir.ema-api.com/fhir/r4/,2.2298
+Northern Colorado Endoscopy Center,"8227 W. 20th Street, Greeley, CO 80634-3039, US",https://1695fde6-b6a9-45cb-8978-a6324672602b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.230
+"SecureMD Professionals, LLC","11905 County Road 5, Merino, CO 80741, US",https://b451f3bb-fb61-48d2-b1c4-e0219c983b57.gastro.prod.fhir.ema-api.com/fhir/r4/,2.231
+Digestive Health Associates,"1305 Escalante Drive Suite 204, Durango, CO 81303-8932, US",https://c8971f5f-77ea-41e0-9027-2a16c7977b5e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.232
+Endoscopy Center of Connecticut,"2200 Whitney Ave, Suite 380, Hamden, CT 06518-3602, US",https://289bf562-b3e4-433b-abcb-5893cb5f311b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.234
+"Coastal Digestive Diseases, PC","234A Bank Street 4th Floor, New London, CT 06320-6054, US",https://97887871-7e98-4c22-a94b-5144bc4c738f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.235
+The Endoscopy Center of Fairfield,"425 Post Road, Fairfield, CT 06824-6232, US",https://039f5258-46ca-4e52-a547-4d444a80164e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.236
+"Sang and Sridhar DDC, LLC","105 Wawecus Street, Suite 1, Norwich, CT 06360-2173, US",https://7af08c7e-a78a-44b9-afdc-64c8e7182d44.gastro.prod.fhir.ema-api.com/fhir/r4/,2.237
+Endoscopy Center of Delaware,"1090  Old Churchmans Road, Newark, DE 19713, US",https://06cb6b6f-bb17-499e-99da-8aa2723c54c5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.238
+Seaford Endoscopy Center,"13 Fallon Avenue, Seaford, DE 19973-1577, US",https://88257030-06a2-45dd-b444-bbe5e9add9cc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.239
+"Gastrointestinal and Liver Consultants, Inc","2621 S Bristol Street, Suite 202, Santa Ana, CA 92704-5718, US",https://581d796c-cd23-40b0-b7b7-4dca960bb08e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.24
+Gastroenterology Specialists of Delaware,"1941 Limestone Road, Ste 120, Wilmington, DE 19808-5424, US",https://45c0bc57-47d5-41f2-98d2-c4602bbf9707.gastro.prod.fhir.ema-api.com/fhir/r4/,2.240
+Glasgow Surgery Center,"2600 Glasgow Avenue, Suite 226, Newark, DE 19702, US",https://ce57fcdf-d9b8-4c25-a9cc-6e8295203ce0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.241
+"Limestone Medical Center, LLC","1941 Limestone Road, Suite 113, Wilmington, DE 19808, US",https://958f0f23-3240-45a0-974b-fe84a27e082f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.242
+"Ariel Zisman, MD P.A.","2920 NE 207th St, Suite 802, Aventura, FL 33180-1441, US",https://ab3939d2-d640-4c8b-af7b-f47879283608.gastro.prod.fhir.ema-api.com/fhir/r4/,2.243
+Rivas Digestive Center,"2245 N UNIVERSITY DR, PEMBROKE PINES, FL 33024, US",https://7cfac81b-f550-44ce-8e92-37c2d4bde6f1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.244
+The Endoscopy Center of Pensacola,"4810 N Davis Highway, Pensacola, FL 32503-2341, US",https://740fdbd8-63a8-4452-ab7a-68d53f441cbc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.245
+Kendall Endoscopy and Surgery Center,"7875 Southwest 104th Street, Suite 201, Miami, FL 33156, US",https://fc571378-a5e1-4971-b47f-f176a355fb59.gastro.prod.fhir.ema-api.com/fhir/r4/,2.246
+Caridad Center,"8645 W Boynton Beach Blvd, Boynton Beach, FL 33472, US",https://1b06698a-f35e-4439-ba61-df47e7bd5f6d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.248
+"Florida Eye Institute, P.A.","2750 Indian River Boulevard, Vero Beach, FL 32960, US",https://4f05c076-4509-4c25-b7f2-dbd948fa2390.gastro.prod.fhir.ema-api.com/fhir/r4/,2.249
+Gastroenterology Consultants of Boca Raton,"951 NW 13th Street, Ste 2E, Boca Raton, FL 33486-2337, US",https://5d767eb0-63e2-4073-925c-14baaf1d85f9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.250
+Dr. Satya Singh MD,"300 NW 70th Avenue, Suite 205, Plantation, FL 33317-2367, US",https://1b8f79cf-8d37-4896-93c1-9592ac4d64d2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.251
+Dr. Prosper Abitbol PA,"801 Meadows Road, Ste 107, Boca Raton, FL 33486-2346, US",https://d95dde3d-b6f2-4928-9017-d9e38f353f88.gastro.prod.fhir.ema-api.com/fhir/r4/,2.252
+Brevard Surgery Center,"665 S Apollo Blvd, Melbourne, FL 32901, US",https://31ceebd3-2f2f-40c2-b4c0-d62050327590.gastro.prod.fhir.ema-api.com/fhir/r4/,2.253
+"Amelia Island Surgery Center, LLC","2416 Lynndale Rd, Fernandina Beach, FL 32034, US",https://62a8c194-e05c-4741-81bd-df386fb3720b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.254
+NAPLES EYE SURGERY CENTER LLC,"1890 SW HEALTH PKWY STE 105, NAPLES, FL 34109-0473, US",https://aa159456-2509-4a6d-8b63-22eaf1230714.gastro.prod.fhir.ema-api.com/fhir/r4/,2.255
+Eye MD of Niceville Surgery LLC,"1480 Hickory Street, Suite 106, Niceville, FL 32578, US",https://dde7e968-a6bf-49b1-b9e3-6bce421eae85.gastro.prod.fhir.ema-api.com/fhir/r4/,2.256
+"Harold Rosen, MD PA","1 West Sample Rd, Suite 102, Pompano Beach, FL 33064-3547, US",https://0c0d4f15-6b9f-4a04-94ca-d7921018f423.gastro.prod.fhir.ema-api.com/fhir/r4/,2.257
+Keralty Hospital,"2500 SW 75th Avenue, Miami, FL 33155, US",https://120fd2d4-31a8-4cab-8cc8-586be1da8ddb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.258
+Citrus ASC,"2861 S. Delaney Avenue, Suite B, Orlando, FL 32806, US",https://e6827990-1492-4f64-a022-7c7904e22143.gastro.prod.fhir.ema-api.com/fhir/r4/,2.259
+Orange Park Endoscopy Center,"805 Wells Rd, 1st Floor, Orange Park, FL 32073, US",https://9e008d88-f093-4c69-9efc-cbd0e10966fb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.260
+Peter Koretsky MD PA,"2955 Pineda Plaza Way Ste 115, Melbourne, FL 32940-7306, US",https://a2f972bb-c23f-4714-a594-31e2d666e4e8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.261
+"Endoscopy Center of Columbus, LLC","1130 Talbotton Road, Columbus, GA 31904-8749, US",https://f48d59c6-d9ef-49bd-b5f6-ded86a1d7139.gastro.prod.fhir.ema-api.com/fhir/r4/,2.263
+southern gastroenterology & hepatogy consultants,"300 shirley avenue, douglas, GA 31533, US",https://9db611cd-0829-4ba0-94a7-4899f66dc62e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.264
+"Thomas Eye Group,  PC","5901A Peachtree Dunwoody Rd, Ste 500, Atlanta, GA 30328, US",https://8058e5aa-28df-40cd-9580-adbe879b28db.gastro.prod.fhir.ema-api.com/fhir/r4/,2.265
+Athens Digestive Healthcare Associates LLC,"1360 Caduceus Way, Building 300 Ste 101, Watkinsville, GA 30677-7300, US",https://d58d8ef7-b64c-4d1c-9012-8fa278cc8fae.gastro.prod.fhir.ema-api.com/fhir/r4/,2.266
+Robert F Wong MD LLC,"98-211 Pali Momi Street, Suite 312, Aiea, HI 96701-4306, US",https://52942b10-1b07-4db8-a658-1dcc7f2ee425.gastro.prod.fhir.ema-api.com/fhir/r4/,2.267
+"Shilpa Jain, M.D.","46-454 HAIKU PLANTATIONS DRIVE, KANEOHE, HI 96744-4207, US",https://32db878b-d267-4670-b6cb-54e4e3187da6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.268
+"Jeong H. Kim, MD, PLLC","1401 S. Beretania St., Suite 320, Honolulu, HI 96814-1872, US",https://80c58b67-82fb-4683-bda8-e28f669e6cb9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.269
+"Mel A Ona M.D., Inc.","590 Farrington Hwy. Unit 526A, Kapolei, HI 96707-2034, US",https://1ddff938-3b1a-4fdd-8357-8821008eb546.gastro.prod.fhir.ema-api.com/fhir/r4/,2.270
+Ronald J Pang MD,"2226 Liliha St., Ste. 413, Honolulu, HI 96817-1600, US",https://999256eb-09fa-4919-82d5-73bc9a3b0b1b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.271
+Kossuth Regional Health Center,"1519 S Phillips St, Algona, IA 50511, US",https://6047580b-96b7-45b3-8612-5fcfa14f86fc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.272
+Gastroenterology Associates PC,"2222 53rd Avenue, Bettendorf, IA 52722, US",https://65e87c51-b1a6-4a38-96d6-78b96a936868.gastro.prod.fhir.ema-api.com/fhir/r4/,2.273
+Iowa Digestive Disease Center,"1378 NW 124th St, Ste 200, Clive, IA 50325-8151, US",https://dfb21413-a00b-447a-9657-1c9d9db797b1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.274
+North Idaho Day Surgery LLC,"1593 EAST POLSTON, POST FALLS, ID 83854, US",https://441e2dfd-8671-4116-9b17-0cfb23532ef5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.275
+"Regional SurgiCenter, LLC","4340 7th street, Moline, IL 61265, US",https://96403172-5eb8-48ae-95a1-4c723b0fa5ca.gastro.prod.fhir.ema-api.com/fhir/r4/,2.277
+"GI Partners of IL, LLC","155 N Wacker Drive, Suite 4250, Chicago, IL 60606, US",https://820ab284-d98c-43c3-93fd-6b0850152790.gastro.prod.fhir.ema-api.com/fhir/r4/,2.278
+Fairfield Memorial Hospital,"303 NW 11th St, Fairfield, IL 62837, US",https://ad0dbd81-0ff7-4953-82e9-f2320a78fdf4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.279
+IL-018-C,,https://67e2f27e-9773-4420-a1f5-2a16c282d2b0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.280
+Salem Township Hospital,"1201 Ricker Drive, Salem, IL 62881, US",https://a7b3a8b3-5fa1-45f3-873b-a67a33a565a7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.281
+Oak Lawn Endoscopy,"9921 SW Highway, Oak Lawn, IL 60453, US",https://668b7127-2f24-4f74-b245-b12e4fdbd584.gastro.prod.fhir.ema-api.com/fhir/r4/,2.282
+Hinsdale Surgical Center,"10 Salt Creek Lane, Hinsdale, IL 60521, US",https://0d133a58-038a-4fdf-86a1-6508ff4342da.gastro.prod.fhir.ema-api.com/fhir/r4/,2.283
+"Eye Surgery Center, LLC","3990 N. Illinois Street, Belleville, IL 62221, US",https://083c4a50-7986-47da-a4c5-f5d746c414e6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.284
+AMITA Health Endoscopy Center Lincoln Park,"331 West Surf Street, Suite506, Chicago, IL 60657-7227, US",https://795cc595-7bc6-4899-9961-43ffd953d92e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.285
+Good Samaritan Surgery Center,"2 Good Samaritan Way, Suite 200, Mt. Vernon, IL 62864, US",https://d9da2d57-cb69-4689-bdc4-22d1808cc0db.gastro.prod.fhir.ema-api.com/fhir/r4/,2.286
+"Evansville Endoscopy Surgery Center, LLC","3800 Venetian Way, Newburgh, IN 47630-8257, US",https://20908dbd-2673-4976-9c37-fd3617872c32.gastro.prod.fhir.ema-api.com/fhir/r4/,2.287
+GASTROENTEROLOGY HEALTH PARTNERS,"Po Box 23021, New York, NY 10087-3021, US",https://d3a64abd-d475-4048-97cb-0e2a5be2e8b5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.288
+THE ENDOSCOPY CENTER AT ST FRANCIS,"8051 SOUTH EMERSON AVENUE, SUITE 150, INDIANAPOLIS, ID 46237-8635, US",https://456861cb-a488-4a4e-9a48-5cfcd30df68d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.289
+"RETINA INSTITUTE OF INDIANA SURGERY CENTER, LLC","11192 Diebold Road, Fort Wayne, IN 46845, US",https://63188273-5bee-42bf-b76f-6d2320a6368a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.290
+TERRE HAUTE SURGICAL CENTER,"227 E MCCALLISTER DR, TERRE HAUTE, IN 47802-4248, US",https://9162b52b-779d-44e9-a3fb-98d20dd2ca1e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.291
+"NOVAMED SURGERY CENTER OF MERRILLVILLE, LLC","6850 Hohman Avenue, Hammond, IN 46324, US",https://54f19f7e-f3ab-4667-8943-ec1f678b1ce0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.292
+Kentuckiana Gastroenterology,"1003 Dupont Sq. North, Suite 9A, Louisville, KY 40207, US",https://1a8b49bb-d150-4443-91bd-306f1aee6a80.gastro.prod.fhir.ema-api.com/fhir/r4/,2.293
+Clark Regional Medical Center,"175 Hospital Dr, Winchester, KY 40391, US",https://0a9cdfe4-706b-4865-85ad-869ad9d24107.gastro.prod.fhir.ema-api.com/fhir/r4/,2.294
+Bluegrass Community Hospital,"360 Amsden Ave, Versailles, KY 40383, US",https://4f985e24-4bed-4c80-bb96-ba3ddcd068be.gastro.prod.fhir.ema-api.com/fhir/r4/,2.295
+ASC,"3600 FAU Blvd., Boca Raton, FL 33431, US",https://7ae416ce-b209-488d-8bca-a3437c020066.gastro.prod.fhir.ema-api.com/fhir/r4/,2.296
+Landmark Digestive Health,"PO Box 941, Owensboro, KY 43202-0941, US",https://5ca335dd-7211-4f6b-9a2c-a93385b88a1b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.297
+Tillman Medical Group,"107 Front St, Vidalia, LA 71373, US",https://406339ab-d34f-4e32-978e-9ea102d9207f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.298
+Northlake Gastroenterology Associates,"16061 Doctor's Blvd Suite B, Hammond, LA 70403-1499, US",https://aa5d0db2-1850-4788-aa8b-4d524727617a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.299
+FHIR CERTIFICATION,"123 Davie address, Davie, FL 33337-0987, US | 11 Address, Davie, FL 33334, US | Test_Address, Test_City, AK 12345-6789, US | 3655 N Commerce Pkwy, Weston, FL 33328, US | 11643 NW 11TH PL, CORAL SPRINGS, FL 33071-4101, US | 11645 NW 11TH PL, CORAL SPRINGS, FL 33071-4101, US | 11645 NW 11TH PL, SUITE 200B, CORAL SPRINGS, FL 33071-4101, US | 123 Georgia Ave, Davie, FL 33328, US | 123 Georgia Ave, Davie, FL 33328-0987, US",https://8ed1e3c9-dbf5-4379-a703-18007b0d577d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.30
+Lake Charles Memorial Hospital,"1701 Oak Park Boulevard, Lake Charles, LA 70601, US",https://21b460b2-3241-4878-bc97-5fde18e46256.gastro.prod.fhir.ema-api.com/fhir/r4/,2.300
+Luis E. Alvarez MD APMC,"1100 Andre Street, Suite 301, New Iberia, LA 70563-2159, US",https://4a3e8f8a-0f8d-4171-89f0-f9e383aabf0c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.301
+Gastroenterology Associates of SW LA,"555 Dr. Michael DeBakey Dr, Suite 101, Lake Charles, LA 70601-5700, US",https://8992098b-3488-4365-93e5-71a7c0a0dfc9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.302
+"West Monroe Endoscopy ASC, LLC","102 Thomas Road, Suite 506, West Monroe, LA 71291-5550, US",https://7f7dcfea-523e-4706-80cb-c48a8f8601ec.gastro.prod.fhir.ema-api.com/fhir/r4/,2.303
+Worcester Surgical Center,"300 Grove Street, Worcester, MA 01605, US",https://cc5444ea-f5b4-4d24-833a-6b1a690a39f5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.304
+Central Massachusetts Ambulatory Endoscopy Center,"105 Erdman Way, Leominster, MA 01453, US",https://489dcf81-5f20-44c7-b8be-26c6dfd0ead1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.305
+Glen Burnie MD Endoscopy,"PO Box 415501, Boston, MA 02241-5501, US",https://88758c6d-7d9e-4435-b068-f4dfb0b31c06.gastro.prod.fhir.ema-api.com/fhir/r4/,2.306
+Gastro of Maryland,"7120 Minstrel Way, Suite 100, Columbia, MD 21045, US",https://2c0764cc-b73e-4400-9864-e735f36cea2a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.307
+Gastroenterology Associates,"11110 Medical Campus Rd, Ste 250, Hagerstown, MD 21742-6756, US",https://24bb1d94-d327-40ca-af98-4198f74e5472.gastro.prod.fhir.ema-api.com/fhir/r4/,2.308
+Frederick Endoscopy Center,"7115 Guilford Drive, Suite 201, Frederick, MD 21704-5236, US",https://7e180a41-bfdd-47c8-a854-3b6cb8cfa9ce.gastro.prod.fhir.ema-api.com/fhir/r4/,2.309
+Ridgedale Surgery Center,"14 Ridgedale Ave, Cedar Knolls, NJ 07927, US",https://48be7e66-a62f-43c0-a638-3ab524ccf91a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.31
+Digestive Disease Associates DBA Gastro Health,"700 Geipe Road, Suite 230, Catonsville, MD 21228, US",https://03a3172e-ab27-4933-bcf7-d1f5606d94b8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.310
+Fort Washington Medical Center,"11711 Livingston Road, Fort Washington, MD 20744, US",https://e9126c07-7d09-46f9-86dc-6d4ace8d4502.gastro.prod.fhir.ema-api.com/fhir/r4/,2.311
+"Hagerstown Gastroenterology, CPC, PA","11110 Medical Campus Road, Suite 242, Hagerstown, MD 21742-6728, US",https://68df53d8-bdfc-4463-bff5-89b9ecf7ff68.gastro.prod.fhir.ema-api.com/fhir/r4/,2.312
+Columbia Surgical Institute,"6020 Meadowridge Center Drive, Suite H, Elkridge, MD 21075, US",https://2068927f-3e94-4a21-8a8e-b0da7f58e89f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.313
+"Digestive Disease Solutions, LLC","804 Toll House Avenue, Frederick, MD 21701, US",https://2e0a1799-631c-4b76-95ad-5726c5aa6542.gastro.prod.fhir.ema-api.com/fhir/r4/,2.315
+MedStar Endoscopy Center at Lutherville,"1300 Bellona Ave Ste A, Lutherville, MD 21093-5466, US",https://eb86f45e-714e-4c3c-93a5-05172a97a7e5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.316
+GI Wellness Center of Frederick,"165 Thomas Johnson Drive, Suite B & C, Frederick, MD 21702-4742, US",https://9b240018-ea09-4a9b-b77b-c60f33bcacb4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.317
+Central Maine Medical Center,"300 Main Street, Lewiston, ME 04240, US",https://fb490cd1-5306-4638-86d9-4c5d9f176cbd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.318
+"Northland Gastroenterology, P.A.","1420 London Road, Suite 202, Duluth, MN 55805-2422, US",https://ddb5475c-0503-41c2-a4e0-d8325ad5bea0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.319
+West Calcasieu Cameron Hospital,"701 Cypress Street, Sulpher, LA 70663, US",https://43152efd-e85b-4251-b4eb-3ee48fa8119c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.32
+"Digestive Health Professionals, LLC","PO BOX 4889, JOPLIN, MO 64803-4889, US",https://4914a7da-e29c-43f1-933c-afe0def5358b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.320
+"Midwest GI Health, LLC","3601 NE Ralph Powell Road, Lees Summit, MO 64064-2358, US",https://711dc6b2-e3dd-4d51-93d3-c78f78c6f1d6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.321
+The Freeman Clinic,"23 Doctors Park, Cape Girardeau, MO 63703-4927, US",https://c14e8d16-ffa6-492a-97c2-a795e683f4c8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.322
+MO-013-C,"17501 E US HWY 40, Ste 213A, Independance, MO 64055-6445, US | PO Box 843783, Kansas City, MO 64184, US | test 17501 E US HWY 40, Ste 213A, Independence, MO 64055-6445, US | 1720 E US Hwy 40, Ste 213A, Independance, MO 64055, US | 17501 E US HWY 40, Ste 213A, Independance, MO 64055, US | 17501 E US HWY 40, Ste 213A, Independance, MO 64055-6001, US | PO Box 843783, Kansas City, MO 64184-9998, US | 17501 E US HWY 40, Ste 213A, Independence, MO 64055-6445, US | PO Box 206239, Dallas, TX 75320-6239, US | 1800 Plaza Drive, Bedford, TX 76021-6013, US | 3800 S Whitney Ave, Suite 100, Independence, MO 64055-6739, US | PO Box 413873, Kansas City, MO 64141-9998, US | PO Box 413873, Kansas City, MO 64141, US | PO Box 413873, Kansas City, MO 64141-3873, US | US | 5330 North Oak Trafficway, Suite 100, Kansas City, MO 64118, US | PO Box 413873, Kansas City, MO 64141-3873, US | 5330 North Oak Trafficway, Suite 100, Kansas City, MO 64118-4600, US | 9601 NE 79th Street, Liberty, MO 64158-1117, US | 9601 NE 79th Street, Liberty, MO 64158, US | PO Box 413873, Kansas City, MO 64141-3873, US | 3800 S Whitney, Suite 100, Independence, MO 64055, US | PO Box 413873, Kansas City, MO 64141-3873, US | 3800 S Whitney, Suite 100, Independence, MO 64055-6739, US",https://b879e18f-d26e-4132-bf73-2abebe75f6e7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.323
+"Hattiesburg GI Associates, PLLC","100 Methodist Blvd, Hattiesburg, MS 39402-1295, US",https://e711fddd-1e64-4651-b477-c8e17dc6f695.gastro.prod.fhir.ema-api.com/fhir/r4/,2.326
+"Magnolia Gastroenterology Clinic, LLC","3050 Corder Drive, Corinth, MS 38834-6210, US",https://18c10eb1-aa73-4092-9944-7ffbe8d641f3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.327
+Bolivar Medical Center,"901 E Sunflower Rd, Cleveland, MS 38732, US",https://f9c82035-e454-40ff-8aaf-5083d82f8aca.gastro.prod.fhir.ema-api.com/fhir/r4/,2.328
+"Starkville Surgery Center, LLC","110 Walker Way, Starkville, MS 39759, US",https://3b172b7d-cded-49a8-a537-99863f985bd0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.329
+Dr. Sayed M. Yossef M.D.,"3304 Stones Throw Ave, Poland, OH 44514-4204, US",https://52c3a80b-7b72-47ac-9d1e-ffc515a75b2e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.33
+"Southern Eye Surgery Center, LLC","1420 S. 28th Avenue., Hattiesburg, MS 39402, US",https://58c1d174-14c0-4b76-8010-3df80735314b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.330
+FHIRCERTIFICATION,"11 Address, Davie, FL 33334, US | 123 Georgia Ave, Davie, FL 33328, US | 123 Georgia Ave, Davie, FL 33328-0987, US | 3655 N Commerce Pkwy, Weston, FL 33328, US | Test_Address, Test_City, AK 12345-6789, US | 11643 NW 11TH PL, CORAL SPRINGS, FL 33071-4101, US | 11645 NW 11TH PL, CORAL SPRINGS, FL 33071-4101, US | 11645 NW 11TH PL, SUITE 200B, CORAL SPRINGS, FL 33071-4101, US | 123 Davie address, Davie, FL 33337-0987, US",https://8ed1e3c9-dbf5-4379-a703-18007b0d577d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.330000
+Wilmington Gastroenterology,"5115 Oleander Drive, Wilmington, NC 28403-7018, US",https://4a44bee5-8a28-43f8-b13a-738652ffa440.gastro.prod.fhir.ema-api.com/fhir/r4/,2.331
+Fayetteville Gastroenterology Assoc,"PO Box 87229, Fayetteville, NC 28304-7229, US",https://15ffc461-590a-422b-9ebb-130f9e3623fe.gastro.prod.fhir.ema-api.com/fhir/r4/,2.332
+"Halifax Gastroenterology, P.C.","1007 Gregory Drive, Roanoke Rapids, NC 27870-6451, US",https://e83731b3-b8e1-4f49-8adc-15ee1516287a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.333
+"Carolina Digestive Diseases, PA","704 WH Smith Boulevard, Greenville, NC 27834-3761, US",https://570d9164-62ef-456b-aed0-026317fc606f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.334
+Appalachian Gastroenterology PC,"870 State Farm Road, Suite 102, Suite 102, Boone, NC 28607, US",https://6ba294f1-080c-4bba-94d6-1728eeadd2ef.gastro.prod.fhir.ema-api.com/fhir/r4/,2.335
+gGastro,,https://4d0ab940-3cc9-4d4d-9f5c-9754fdca0b37.gastro.prod.fhir.ema-api.com/fhir/r4/,2.336
+AMG Endoscopy Center,"2541 N Queen St, Kinston, NC 28501-3851, US",https://e069e77b-0096-4df7-a114-31efb0b1b793.gastro.prod.fhir.ema-api.com/fhir/r4/,2.337
+Cape Fear Center for Digestive Diseases,"1880 Quiet Cove, Fayetteville, NC 28304-3857, US",https://030ca387-19bc-482b-a4b3-41234deab20a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.338
+Gastroenterology Specialists,"1656 Medical Blvd., Ste. 301, Naples, FL 34110-1423, US",https://b312a84b-0396-4182-b6f4-e4d463474e69.gastro.prod.fhir.ema-api.com/fhir/r4/,2.34
+Rockford Digestive,"951 Rockford, Mount Airy, NC 27030-5323, US",https://098eb887-6aa8-40eb-901e-2fa046c58f37.gastro.prod.fhir.ema-api.com/fhir/r4/,2.340
+Park Endoscopy Center,"2602 North Heritage Street, Kinston, NC 28501-1503, US",https://9be8cba6-448a-4053-884b-461da1c88737.gastro.prod.fhir.ema-api.com/fhir/r4/,2.341
+Western Carolina Endoscopy Center LLC,"197 Riverview Street, Franklin, NC 28734-2611, US",https://35e809af-55fd-4464-b97b-98cb80ebf600.gastro.prod.fhir.ema-api.com/fhir/r4/,2.342
+Dakota Gastroenterology LTD,"5049 33rd Ave S, Fargo, ND 58104-7080, US",https://e20c37ec-f45d-4afb-9381-f9f7fc8502f4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.343
+"Dakota Surgery & Laser Center, LLC","430 E Sweet Ave, Bismarck, ND 58504-5658, US",https://3a53f90e-92aa-4caf-ae07-02b5dd5ea087.gastro.prod.fhir.ema-api.com/fhir/r4/,2.344
+Lincoln Endoscopy Center LLC,"4545 R Street Ste 101, Lincoln, NE 68503-3799, US",https://498f20c3-8d5e-4c38-b37b-2e5c29e690f9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.345
+"Consultants In Gastroenterology, P.C.","6900 L Street, Suite 1, Lincoln, NE 68510-2478, US",https://14c86c09-5a1b-447a-8a30-be1347b6afb0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.346
+Surgicare of Central Jersey,"40 Sterling Road, Wachung, NJ 07069, US",https://4d63a39a-182d-4fac-8948-eada55bd53a1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.347
+Northern New Jersey Center for Advanced Endoscopy,"270 Sylvan Ave, Englewood Cliffs, NJ 07632, US",https://034c2fd3-e8c1-453a-9d23-29d89fdb44dc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.348
+Mount Laurel Surgery Center,"15000 Midlantic Drive, Suite 110, Mount Laurel, NJ 08054, US",https://879ab880-65ef-4ad6-9478-eae51c2a1ae8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.349
+Digestive & Liver Disease Consultants of S FL,"7369 Sheridan Street, Hollywood, FL 33024-2776, US",https://a6c95537-44af-46c2-9dc7-683d7118973c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.35
+"The Gastroenterology Group of Northern NJ, LLC","420 Grand Avenue, Suite 101, Englewood, NJ 7631, US",https://86075df9-0458-437f-8e5a-3fc7fe05e84c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.350
+Monmouth Digestive Health,"145 Wyckoff Rd, Ste 201, Eatontown, NJ 07724-1888, US",https://7172c4df-48b9-42be-99a5-eab34ef0bd7e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.351
+St. Mary's Eye & Surgery Center,"540 Bergen Blvd., Palisades Park, NJ 07650, US",https://55273646-c721-4f3c-94f1-1750bb21df80.gastro.prod.fhir.ema-api.com/fhir/r4/,2.352
+"Princeton Endoscopy Center, LLC","PO Box 789591, Philadelphia, PA 19178-9591, US",https://b684790c-0280-47f9-a380-1f4215f2352f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.353
+Advanced Surgical Institute,"556 Egg Harbor Road, Suite B, Sewell, NJ 08080, US",https://a033e5ec-10f4-4007-8c72-7f413a01d954.gastro.prod.fhir.ema-api.com/fhir/r4/,2.354
+Hudson Crossing Surgery Center,"2 Executive Drive, Fort Lee, NJ 07024, US",https://f30e611f-82cc-4cf0-aada-2bd9afa5a3de.gastro.prod.fhir.ema-api.com/fhir/r4/,2.355
+"Princeton Endoscopy Center, LLC","731 Alexander Park Dr, #104, Princeton, NJ 08540, US",https://8cb0780e-644e-4c06-9b3d-62932c02848f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.356
+Jersey Shore Ambulatory Surgery Center,"405 Bethel Road, Somers Point, NJ 8244, US",https://16471c78-3b17-4167-9c47-16e55d6f8c23.gastro.prod.fhir.ema-api.com/fhir/r4/,2.357
+Northern New Mexico Gastroenterology Associate PA,"PO Box 75453, Chicago, IL 60675-5453, US",https://d8632eef-cfb0-4b69-8acc-abf7bfb80bff.gastro.prod.fhir.ema-api.com/fhir/r4/,2.358
+Los Alamos Medical Center,"3917 West Road, Los Alamos, NM 87544, US",https://5245f6c9-7525-447f-b476-560b6034049f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.359
+East Atlanta Anesthesia Services,"7229 Wheat Street NE, Covington, GA 30014-1566, US",https://04c71003-07bc-4026-842d-18964b704fbc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.36
+Memorial Medical Center,"2450 S Telshor Blvd, Las Cruces, NM 88011, US",https://63f3b117-d45f-4874-a874-d1b515dee0c9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.360
+"Digestive Disease Center of CNY, LLC","5112 W Taft Rd, Suite E, Liverpool, NY 13088-4873, US",https://fe34c39e-bf5e-4c06-99da-e984984afc4a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.361
+"Vanguard Gastroenterology, LLP","233 Broadway Suite 2750, New York, NY 10279-0800, US",https://ab1ebdf7-e20d-48ea-b980-7d2d0b834334.gastro.prod.fhir.ema-api.com/fhir/r4/,2.363
+"RajivBansal M.D, PC","2001 Marcus Avenue, Suite E130, Lake Success, NY 11042-1051, US",https://b4368e6c-f21d-4f88-8ba7-151b537c5493.gastro.prod.fhir.ema-api.com/fhir/r4/,2.365
+"ReFocus Management, LLC","87 Grandview Ave, Waterbury, CT 06708, US",https://9523e6be-ec18-484f-95ab-ba2284144440.gastro.prod.fhir.ema-api.com/fhir/r4/,2.366
+Manhattan Medical Partners,"1049 Park Avenue, Suite 1-C, New York, NY 10028-1061, US",https://d476b86f-f06c-4e08-9866-60e9c9aefad5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.367
+"Robert Gal, MD","3003 New Hyde Park Road, Suite 307, New Hyde Park, NY 11042-1045, US",https://f05b50e4-9aca-4749-a7b7-73c5991e18d1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.368
+Elmhurst Digestive and Liver Diseases,"8708 Justice Avenue, Ste C6, Elmhurst, NY 11373-4590, US",https://686100ab-4990-473a-bcf6-c3fa83befe68.gastro.prod.fhir.ema-api.com/fhir/r4/,2.369
+Wayne Memorial,"865 South 1st street, Jesup, GA 31545, US",https://d0ef9d54-f1c9-4f70-9629-7789b6a6da10.gastro.prod.fhir.ema-api.com/fhir/r4/,2.37
+AAA Gastrointestinal P.C.,"495 Fort Washington Avenue Suite PE1C, New York, NY 10033, US",https://8f1bbcee-2b3e-4ce9-99f7-09b369b55580.gastro.prod.fhir.ema-api.com/fhir/r4/,2.371
+Julio Albarran MD PC,"254 Orangeburgh Road, Old Tappan, NJ 07675-7408, US",https://608d32c3-b7c5-4578-9d77-cb22d7ce65af.gastro.prod.fhir.ema-api.com/fhir/r4/,2.372
+Gastroenterology & Liver Disease PC,"107-21 Queens Blvd., Suite 4, Forest Hills, NY 11375-4413, US",https://4273d896-fee2-4c3b-aced-8798e4feb0b9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.373
+154 Northern Medical Practice,"154-08 Northern Blvd. Ste. 2K, Flushing, NY 11354-5040, US",https://5d6a2d26-8d7e-45fe-a243-76f2b8372ac5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.374
+Centre Street Office Based Surgery PLLC,"139 Centre Street, Suite 609, New York, NY 10013-4552, US",https://b89a555a-f18c-4f94-b6c6-be17b14d685a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.375
+"North Shore Digestive Medicine, PC","Dr. Farzad Forohar, 50 Route 111, Suite 302, Smithtown, NY 11787-3700, US",https://9a63e01e-2667-4e3c-b98a-dfabbddedca7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.376
+"Frank M. Palumbo, M.D.","142-22 Booth Memorial Ave., Flushing, NY 11355, US",https://2875b029-ceed-4130-8e04-f1a27a0eccaa.gastro.prod.fhir.ema-api.com/fhir/r4/,2.377
+GRAMERCY PARK GASTROENTEROLOGY,"60 GRAMERCY PARK N, SUITE 1B, New York, NY 10010, US",https://d021076a-1882-4c3c-8ab8-8fb32fa7b986.gastro.prod.fhir.ema-api.com/fhir/r4/,2.378
+The Surgery Center of Southwest General,"19250 E BAGLEY RD, MIDDLEBURG HEIGHTS, OH 44130, US",https://a8b4f1a6-1362-4a55-9b46-5c219f6a1845.gastro.prod.fhir.ema-api.com/fhir/r4/,2.379
+Challa Ajit MD LLC,"2355 Derr Rd Ste A, Springfield, OH 45503-2439, US",https://d807230c-3d7b-4aca-9c7c-b52ec98d244b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.380
+Hilliard Endo Center,"4600 Leap Ct, Ste 141, Hilliard, OH 43026-1232, US",https://2278db76-8741-43ce-a5a9-d2e7e5aac860.gastro.prod.fhir.ema-api.com/fhir/r4/,2.381
+Tri-State Surgery Center,"405 S. 3rd Street, Ironton, OH 45638-1730, US",https://2480357e-600a-4d16-821a-15d6331d579d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.382
+Endoscopy Center of Northern Ohio,"1299 Industrial Pkwy N, Ste 120, Brunswick, OH 44212-6366, US",https://5e3884cf-4770-450d-af77-2043acaa1ebe.gastro.prod.fhir.ema-api.com/fhir/r4/,2.383
+Mid Ohio Surgery Center,"99 N Brice-Rd, Suite 160, Columbus, OH 43213-6521, US",https://7bddb4ce-d018-4c87-8b29-ba2745d3eeba.gastro.prod.fhir.ema-api.com/fhir/r4/,2.384
+CHOCTAW MEMORIAL HOSPITAL,"1405 EAST KIRK, HUGO, OK 74743-3603, US",https://912e2539-46fc-4841-a651-92debf881a82.gastro.prod.fhir.ema-api.com/fhir/r4/,2.385
+Great Plains Regional Medical Center,"1801 W 3rd Street, Elk City, OK 73644, US",https://2ea76ec0-da50-422b-b54a-74a3c4f0359c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.386
+"Southwest Gastroenterology Associates, PLLC","525 SW 80th Street Suite 200, Oklahoma City, OK 73139-9405, US",https://794006b1-bc45-4931-a99a-9b885024119a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.387
+"North Shore Endoscopy Center, LLC","1307 Federal Street, Suite 101, Pittsburgh, PA 15212, US",https://bb177f9a-b199-4d9b-a7e9-f9c42d1e4767.gastro.prod.fhir.ema-api.com/fhir/r4/,2.388
+"Southwestern Endoscopy Center, LLC","302 Spring Creek Lane Lower Level, Uniontown, PA 15401-9069, US",https://bb709337-32bc-403a-8f06-a87225604a5c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.389
+"Reliant Medical Group The Endoscopy Center, LLC","630 Plantation Street, Worcester, MA 01605, US",https://6e7662a6-85e2-41b4-ad10-ad7afe875bed.gastro.prod.fhir.ema-api.com/fhir/r4/,2.39
+Northeast Gastroenterology,"10 Park Place, Hazle Township, PA 18202-2885, US",https://cfb33ada-95af-4f44-893f-28076dffcb63.gastro.prod.fhir.ema-api.com/fhir/r4/,2.390
+gGastro,"223 Summit Avenue, Fort Washington, PA 19034-1525, US | PO Box 825489, Philadelphia, PA 19182-5489, US",https://fc7bdce4-4b70-40ee-8f09-27fbe9caab2a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.391
+"STC OPCO, LLC dba: St. Christophers","160 East Erie Avenue, Philadelphia, PA 19134, US",https://de7dd8a4-62dc-4980-83fa-ca274af8c8d4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.392
+Valley View Surgical Center LLC,"875 Norman Dr, Lebanon, PA 17042-7454, US",https://7a4fba86-4799-49bb-8f65-4017ba792ee5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.393
+Cherry Tree Surgical LLC,"795 Cherry Tree Court STE A, Hanover, PA 17331, US",https://3e3a8102-9f97-409c-ad4a-7c2ba1ff2c5c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.394
+Gastroenterologists Limited,"1339 Woodbourne Road, Levittown, PA 19057, US",https://68b18c90-50ae-4e84-b056-2e0edb75f552.gastro.prod.fhir.ema-api.com/fhir/r4/,2.395
+"AR Institute of Gastroenterology, PSC","2225 Ponce By Pass Suite 806, Ponce, PR 00717-1379, US",https://51d9a24c-afb7-4050-b22a-7784981c174c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.396
+Dr Roger Polish,"68 Calle Santa Cruz, Bayamon, PR 961, US",https://bec2df7d-c277-4b57-a6e0-4d9840a939c6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.397
+"Consultants in Gastroenterology, PA","131 Summerplace Drive, West Columbia, SC 29169-3058, US",https://bbba0cc3-d05d-4e3b-95ec-4650ccb4f1f2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.398
+"Summerville Endoscopy Center, LLC","328 Midland Parkway, Summerville, SC 29485-8102, US",https://07c47f00-012a-40ac-86c6-7a1c778d9227.gastro.prod.fhir.ema-api.com/fhir/r4/,2.399
+Endoscopic Associates of Waldorf,"3510 Old Washington Road, suite 200, Waldorf, MD 20602-3235, US",https://db6d0710-8d67-4c24-941e-dc81ba4164e9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.40
+"Columbia Gastroenterology Associates, P.A.","2739 Laurel Street, Ste 1A, Columbia, SC 29204-2028, US",https://e177d917-bfb9-4c9a-9e26-96f14af57917.gastro.prod.fhir.ema-api.com/fhir/r4/,2.400
+"Sandhills Endoscopy Center, LLC","2631 Forest Drive, Columbia, SC 29204-2363, US",https://b18e50ec-d84d-44c1-a849-4cb2196a97c2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.401
+JERVEY EYE CENTER,"5 Stevens Street, #200, GREENVILLE, SC 29605-4528, US",https://369a2f97-e8c8-4091-a0d9-4e8ad5c4c170.gastro.prod.fhir.ema-api.com/fhir/r4/,2.402
+"Gastroenterology Associates, PA","125 Halton Road, Suite 200, Greenville, SC 29607-3507, US",https://fafddf2a-d381-4548-afec-9835822321c3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.403
+The Colorectal Endosurgery Institute,"1439 Stuart Engals Blvd, Suite 100, Mount Pleasant, SC 29464-3686, US",https://f828f07b-96c5-4114-9b52-e73f3e1cdec2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.404
+Gastro One,"P.O. Box 22927, New York, NY 10087-2927, US",https://2cc2909f-d6c0-4eac-b600-eac1db939d1e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.405
+TransSouth Health Care,"PO BOX 11567, JACKSON, TN 38308-0126, US",https://ef641f75-bebf-4a34-8f5c-96611693563d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.406
+"Gastrointestinal Associates, P.C.","1311 Dowell Springs Blvd, Suite 300, Knoxville, TN 37909-2707, US",https://b1ac146f-4bd1-412d-b92a-612018ebe971.gastro.prod.fhir.ema-api.com/fhir/r4/,2.407
+St. Thomas Medical Group,"4230 Harding Pike, Ste 400, Nashville, TN 37205, US",https://a932b8e1-0e9e-4d7d-83c9-85f1925fd430.gastro.prod.fhir.ema-api.com/fhir/r4/,2.408
+GI Specialists of Clarksville,"280 Warfield Blvd, Clarksville, TN 37043-1828, US",https://6060401b-e917-422d-ad60-2a0ebab7fe0b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.409
+Gastroenterology & Hepatology Associates,"4230 Bay City Rd, Midland, MI 48642-6014, US",https://08216437-4be8-4001-8c99-b5fbd5f43e49.gastro.prod.fhir.ema-api.com/fhir/r4/,2.41
+Digestive Disease Endoscopy Center,"222 22nd Ave North, Nashville, TN 37203, US",https://16b2c3a5-3726-4ace-8c76-7b247896b0ba.gastro.prod.fhir.ema-api.com/fhir/r4/,2.410
+Livingston Regional Hospital,"315 Oak St, Livingston, TN 38570, US",https://073a8a6f-c403-46ad-8f72-586a1c1d80c8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.411
+Riverview Regional Medical Center,"158 Hospital Dr, Carthage, TN 37030, US",https://8f7951fe-3277-4339-a980-ea52624df7c5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.412
+"Reeves Eye Surgery Center, LLC","2328 Knob Creek, Suite 506, Johnson City, TN 37604, US",https://d8fc013a-e9e0-4813-b157-0d50179368da.gastro.prod.fhir.ema-api.com/fhir/r4/,2.414
+"Chattanooga Gastroenterology, PC","2158 Northgate Park Lane, Ste 402, Chattanooga, TN 37415-6911, US",https://2782769c-ff05-493b-a414-31da5f8106a0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.415
+Southern Tennessee Regional Health System | Pulask,"1265 East College St, Pulaski, TN 38478, US",https://c0574217-d7cf-4afa-9b26-117fc4b5a331.gastro.prod.fhir.ema-api.com/fhir/r4/,2.416
+Summit Endoscopy Center,"1109 E Reelfoot Ave, Ste C, Union City, TN 38261, US",https://42bf7c91-bf55-42d3-8797-a637a64c10c9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.417
+"Tuscan Surgery Center at Las Colinas, LLC","701 Tuscan Drive #100, Irving, TX 75039, US",https://f227f02e-1718-432f-b423-fd72cfa680cc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.418
+Woodlands Endoscopy Center,"111 Vision Park Blvd, Shenandoah, TX 77384, US",https://e58c1bce-235c-45e8-82d5-c48d9663778a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.419
+Yorkville Endoscopy,"201 East 93rd Street, New York, NY 10128, US",https://d27b6fcf-dbe4-466c-9a2b-a1de0e766166.gastro.prod.fhir.ema-api.com/fhir/r4/,2.42
+Grapevine Surgicare,"905 E. Southlake Blvd Suite 200, So, TX 76092, US",https://4ab0ea33-a621-4b16-8113-b8c0a52ca181.gastro.prod.fhir.ema-api.com/fhir/r4/,2.420
+Memorial Hermann Sugar Land Surgical Hospital,"16906 S.W. Freeway, Sugar Land, TX 77479, US",https://4a6b8fca-0839-48ac-beaf-603d4585bdd8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.422
+"Austin Endoscopy Center I, LP","P O Box 28, San Antonio, TX 78291-0028, US",https://f1c3b871-8724-4a21-b291-f8f62dcb574b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.423
+Texas Gastroenterology Institute,"110 East Savannah C101, Mcallen, TX 78503, US",https://b80a7dcf-1be4-4bcb-9378-b0237640f9cd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.424
+"El Paso Gastroenterology Consultants, P.A.","125 W Hague Rd., Suite 590, El Paso, TX 79902-5808, US",https://b8e2c36e-0b03-44c2-80f8-d827b78e8612.gastro.prod.fhir.ema-api.com/fhir/r4/,2.426
+"WEST TEXAS DIGESTIVE DISEASE CENTER, PA","5115 80TH ST, LUBBOCK, TX 79424-3017, US",https://297285d9-1a99-4185-a714-dcf93688e3d2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.427
+Parkside Surgery Center,"690 S Loop 336 W, Suite 130, Conroe, TX 77304-3319, US",https://50e743bc-7d79-4302-bf84-805610d9477a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.428
+Charles G Phan MD Gastrointestinal & Liver Disease,"16659 Southwest Fwy, #175, Sugar Land, TX 77479-2375, US",https://22be05e4-111a-468a-946a-969eb6144266.gastro.prod.fhir.ema-api.com/fhir/r4/,2.429
+"Strand GI Associates, P.A.","7900 N Kings Hwy, Myrtle Beach, SC 29572-3055, US",https://0b34cb1a-9b21-49b1-8e1e-ffde1c279ec6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.43
+Memorial Hermann Surgery Center Sugarland,"17510 W Grand Parkway Suite 200, Sugarland, TX 77479, US",https://cfae1164-fdc3-4df4-a81a-7372a889f60d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.430
+"Fort Worth Endoscopy Centers, LLC","6317  Harris, Ft. Worth, TX 76132, US",https://f19eee4d-ad34-43b0-8ba0-a40fd948af2c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.431
+Memorial Hermann Surgical Hospital Kingwood,"300 Kingwood Medical Drive, Kingwood, TX 77339, US",https://9cdcec24-e49c-4d9c-87e0-3587e6202fe5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.432
+Memorial Hermann Surgery Center Katy,"23920 Katy Freeway, Katy, TX 77494, US",https://eb734622-ef5c-4584-a8d7-8b3082cdc4ef.gastro.prod.fhir.ema-api.com/fhir/r4/,2.433
+Williamson Surgery Center,"301 Seton Parkway, Ste. 200, Round Rock, TX 78665, US",https://3531fb1c-766f-478f-80c4-8b93eb7b1954.gastro.prod.fhir.ema-api.com/fhir/r4/,2.434
+North Texas Surgery Center,"7992 W Virginia Dr, Dallas, TX 75237, US",https://a3c566bc-d243-402c-96f5-c99bbd4bb7bc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.435
+Pinecroft Surgery Center,"9305 Pinecroft Dr, Suite 200, The Woodland, TX 77380, US",https://6633bd28-2b92-4167-b785-38be4251dc7c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.436
+Memorial Hermann Surgery Center TMC,"6400 Fannin, Suite 1500, Houston, TX 77030, US",https://13e7af1b-a674-4492-b2ec-d00f3746b2d5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.437
+Bay Area Regional Medical Center,"200 Blossom Street, Webster, TX 77598, US",https://b90312f8-7e0f-494a-8493-991cc1a5470e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.438
+The Hospital at Westlake Medical Center,"5656 Bee Caves Rd, West Lake Hills, TX 78746, US",https://822d4e78-77b8-486d-85ca-93eeb053fe2c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.439
+"North Area Anesthesia Services, PA","431 St James Avenue Suite L, #326, Goose Creek, SC 29445-8411, US",https://e4a24af0-577e-489b-95fd-31e81c9e7f35.gastro.prod.fhir.ema-api.com/fhir/r4/,2.44
+Baylor Surgicare at Plano,"1701 Ohio Dr, Plano, TX 75093, US",https://61f2dfc3-4418-4bb4-a1d3-e1d1a9fe2e85.gastro.prod.fhir.ema-api.com/fhir/r4/,2.440
+"Memorial Hermann Surgery Center Kingsland, L.L.C.","21720 Kingsland Blvd Suite 101, Katy, TX 77450, US",https://e2fa66b6-776e-4fd7-93a7-a9d2c49ac7db.gastro.prod.fhir.ema-api.com/fhir/r4/,2.441
+"Nizar Charafeddine, MD PA","8633 Broadway St Ste 103, Pearland, TX 77584-8497, US",https://dbe3c385-d794-42e8-b751-4bba6a8b6cbd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.442
+Memorial Hermann Surgery Center Greater Heights,"1631 North Loop West, Suite 300, Houston, TX 77008, US",https://a4f1c351-fb36-4ff7-b479-2d31e454e5b1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.443
+"Central Texas Digestive Disease Assoc., PA dba Cen","2206 E. Villa Maria, Bryan, TX 77802-2547, US",https://06b876c9-8f4d-47ed-af2a-9beaaab7799c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.444
+Gonzales Healthcare Systems,"1110 Sarah DeWitt Dr, Gonzales, TX 78629, US",https://ae0952db-3063-4470-a1ae-29266c830bca.gastro.prod.fhir.ema-api.com/fhir/r4/,2.445
+Christus Santa Rosa Physicians ASC,"1738 E COMMONS STREET, NEW BRAUNFELS, TX 78130, US",https://a67eaa5d-eee7-41f2-ad2e-93e58f5757a7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.446
+Sun City Gastroenterology and Hepatology PLLC,"11860 Vista del Sol Drive Suite 123, El Paso, TX 79936-6128, US",https://280e4ac0-f27c-4da0-99e9-a44fd8089725.gastro.prod.fhir.ema-api.com/fhir/r4/,2.447
+Baylor Scott & White Medical Center Sunnyvale,"231 S COLLINS ROAD, Sunnyvale, TX 75182, US",https://a77f3c98-9b44-42ab-8e07-33a06edd7625.gastro.prod.fhir.ema-api.com/fhir/r4/,2.448
+Baylor Surgicare at PlanoAlliance,"4825Alliance Blvd, #300, Plano, TX 75093, US",https://641b4927-f486-410b-bdc2-2209db00869d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.449
+The Center for Digestive Wellness,"10461 Wallace Alley St, Kingsport, TN 37663-3936, US",https://fd9fbc13-2279-4eca-a2e3-127478f672e7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.45
+Surgery Center of Boerne,"112 Herff Rd, Ste 200, Boerne, TX 78006, US",https://92a58fa8-a225-4674-8b03-57a688ff9583.gastro.prod.fhir.ema-api.com/fhir/r4/,2.450
+First Surgical Hospital,"11700 Katy Freeway, Suite 300, Houston, TX 77079, US",https://4ca8f9d6-76c4-4832-a98e-5afc7ee6d486.gastro.prod.fhir.ema-api.com/fhir/r4/,2.451
+Kingwood Endoscopy,"310 Kingwood Executive Dr. Suite A, Kingwood, TX 77339-2752, US",https://5f568904-1f7b-4319-b496-428435e2f4df.gastro.prod.fhir.ema-api.com/fhir/r4/,2.452
+Hill Country Digestive Health,"420 Water St Ste 103, Kerrville, TX 78028-5200, US",https://03e1b567-2f32-482e-ab3e-0303307898ae.gastro.prod.fhir.ema-api.com/fhir/r4/,2.453
+MEMORIAL HERMANN SURGERY CTR-RICHMOND,"21155 Southwest Freeway, Richmond, TX 77469, US",https://c1df8ad5-c783-495f-bc26-dbdc6983e2fc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.454
+EYE 35 ASC,"17005 Interstate 35 North, Schertz, TX 78154, US",https://3d11f262-88da-466f-82ca-32692ca4313a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.455
+Precision Ambulatory Surgery Center LLC,"9439 North Beach St, Fort Worth, TX 76244, US",https://a82f85b8-42a7-4ed8-969e-b6bd7e9649cd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.456
+Lavaca Medical Center,"1400 North Texana Street, Hallettsville, TX 77964, US",https://61a0e566-51fb-4975-846d-6f799d7df599.gastro.prod.fhir.ema-api.com/fhir/r4/,2.457
+Zazen Surgery Center,"25230 Kingsland Boulevard, Katy, TX 77494-3256, US",https://a7eff6a4-830d-4eb2-b74b-50a3b53fa1b3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.458
+Cooper Clinic,"12200 PRESTON RD, Dallas, TX 75230-2200, US",https://296f7120-42a4-4857-b332-60761bafbbb2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.459
+EDMUNDS GASTROENTEROLOGY,"4713 PAPERMILL DR, Suite 100, KNOXVILLE, TN 37909-1908, US",https://2aaa32ff-d88f-422f-9629-e062578ad342.gastro.prod.fhir.ema-api.com/fhir/r4/,2.46
+"Denton Surgery Center, LLC","207 N BONNIE BRAE ST, DENTON, TX 76201, US",https://6a4e8924-8fab-4322-8168-59ece5756ef8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.460
+GI SPECIALISTS OF HOUSTON LLC,"PO Box 268953, Dept 1091, Oklahoma City, OK 73126-8953, US",https://c9dfe82d-fb91-46a9-b098-f4513aa51a45.gastro.prod.fhir.ema-api.com/fhir/r4/,2.461
+Houston Physicians' Hospital,"333 North Texas Avenue, Suite 1000, Webster, TX 77598, US",https://41dddd17-546d-4695-8054-a5b8f0e1d9d8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.462
+MEMORIAL HERMAN ENDOSCOPY CTR NORTH LOOP,"1900 NORTH LOOP W STE 550, HOUSTON, TX 77018-8119, US",https://a60736e9-48a0-46dc-9f5c-0e112bb44592.gastro.prod.fhir.ema-api.com/fhir/r4/,2.463
+"Mann Eye Center, PA DBA Mann Eye Institute","5115 Fannin Street, Suite 1000, Houston, TX 77004, US",https://e7c89812-d52e-4e39-a469-cbab35c4435b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.464
+Houston Liver Institute Inc,"1155 Dairy Ashford Road, Suite 200, Houston, TX 77079-3021, US",https://6592db9f-cc36-4f0b-9bc6-16c7c915c81c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.465
+Baylor Scott & White Surgicare North Dallas,"12230 Coit Road, STU 200, Dallas, TX 75251, US",https://25a89bf5-d185-45f4-8ab5-4d25d57aab1c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.466
+"Texas Eye Surgery Center, LLC (ASC)","1872 NORWOOD DR STE 100, HURST, TX 76054-3099, US",https://918313bc-2fcb-4251-9b95-d5e19492dda6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.467
+Kerrville Surgery Center,"1001 Water St, Unit C-100, Kerrville, TX 78028, US",https://4e59e104-22f2-42bd-b635-af68d5c8053f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.468
+Baylor Surgicare at Granbury,"1717 Paluxy RD., Grandbury, TX 76048, US",https://016a857b-cdf1-443c-89e8-02e170e9f148.gastro.prod.fhir.ema-api.com/fhir/r4/,2.469
+Sterling Anesthesia,"46169 Westlake Dr., Ste 200, Sterling, VA 20165-5875, US",https://890b485f-1658-4a10-a468-c95e080b312e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.47
+Park City Surgery Center,"6901 Snider Plz #300, University Park, TX 75205, US",https://92c7373a-76b5-4eec-8e18-cbe4b1933f0e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.470
+Memorial Hermann Memorial Village,"1120 Business Center Dr., Suite 110, Houston, TX 77043, US",https://6504941b-c1f8-427f-9439-e5267cdf15a5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.471
+Memorial Hermann Surgery Center SouthWest,"7789 Southwest Fwy #200, Houston, TX 77074, US",https://6697f90a-a64c-4cce-848f-a3ac9245da84.gastro.prod.fhir.ema-api.com/fhir/r4/,2.472
+Atlantic Gastro,"6028 South Ridgeline Drive, Suite 201, South Ogden, UT 84405-6908, US | 6028 South Ridgeline Drive, Suite 201, South Ogden, UT 84405, US | US",https://3c64fe00-7e20-401e-8587-5ef22a11d142.gastro.prod.fhir.ema-api.com/fhir/r4/,2.473
+Unitah Basin Medical Center,"250 West 300 North, Roosevelt, UT 84066, US",https://17350c01-ed72-4a90-85c9-73eed76d250d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.474
+Ashley Regional Medical Center,"150 W 100 N, Vernal, UT 84078, US",https://eadc8bfe-28c2-410e-b5bb-ce038b9e244a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.475
+"Alpine Surgical Center, LLC","5405 Adams Avenue Parkway #101, Odgen, UT 84405, US",https://303e96d3-c137-4fd9-a231-fe6e7527dd05.gastro.prod.fhir.ema-api.com/fhir/r4/,2.476
+"Surgi-Center of Central VA, LP","1500 Dixon St., Fredericksburg, VA 22401, US",https://1b9ddb77-651c-423f-b84f-065504e7db4b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.477
+"Endoscopy Center of Southwest Virginia, LLC","204 Duke of Gloucester Street, Roanoke, VA 24014-1372, US",https://c66b48b5-61e9-468d-9a71-262c2105662c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.478
+"Richmond Gastroenterology Associates, Inc.","165 Wadsworth Drive, North Chesterfield, VA 23236-4510, US",https://a1e8f85e-4c80-4518-8a35-8c947d83527b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.479
+Fauquier Hospital,"500 Hospital Drive, Warrenton, VA 20186, US",https://9335add2-5363-4278-a110-25dc17fa6059.gastro.prod.fhir.ema-api.com/fhir/r4/,2.48
+Tri-Cities Gastroenterology,"1714 E. Hundred Road Ste. 104, Chester, VA 23836-3310, US",https://2ccfda62-d1ce-4d10-b13b-34c9e8c5a4fa.gastro.prod.fhir.ema-api.com/fhir/r4/,2.480
+Sovah Health - Martinsville,"320 Hospital Dr, Martinsville, VA 24115, US",https://b6727046-636a-480d-a3da-305907f2fdac.gastro.prod.fhir.ema-api.com/fhir/r4/,2.481
+Gastroenterology LTD,"1717 Will-O-Wisp Dr, Virginia Beach, VA 23454-3102, US",https://e27db6e7-0882-4a4e-9178-f5012323527e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.482
+"Fredericksburg Endoscopy Center, LLC","1211 Central Park Blvd, Fredericksburg, VA 22401-4912, US",https://4174ff58-10f7-4051-8819-c2ebca453820.gastro.prod.fhir.ema-api.com/fhir/r4/,2.483
+Sterling Endoscopy Center LLC,"46169 Westlake Dr., Ste 200, Sterling, VA 20165-5875, US",https://0183ef9d-766d-455f-b848-791460cf3dbd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.484
+Colon & Rectal Specialists,"PO Box 70897, Henrico, VA 23255-0897, US",https://71f2b022-8388-4c92-b9c8-fe16a9ce0c27.gastro.prod.fhir.ema-api.com/fhir/r4/,2.485
+"Commonwealth Gastroenterology, PC","4000A Glenside Dr., Henrico, VA 23228-4102, US",https://8aa2c4ab-eac2-48e3-99eb-0d90de5e2a6d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.486
+Shenandoah Valley Anesthesia Services,"PO Box 0086, Penn Laird, VA 22846-0086, US",https://8cd79dfe-91b1-49a2-87b8-4134f1eb8dcc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.487
+Telebelly,"2212 104th Place SE, Bellevue, WA 98004, US",https://112855ae-ccf5-4b08-883c-c78f91903a7e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.489
+SOVAH Health - Danville,"142 South Main Street, Danville, VA 24541, US",https://3f5603f7-b992-4e54-8ec8-8f73f02d63f6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.49
+Cascade Laser & Surgery Center,"1703 South Meridian, Suite 201, Puyallup, WA 98371, US",https://1fc844cc-c479-4ad5-aa33-b60f5296dfa6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.490
+Harman Eye Clinic,"903 Medical Center Drive, Arlington, WA 98223, US",https://a7663972-e470-4e98-8de6-7cf0e289e620.gastro.prod.fhir.ema-api.com/fhir/r4/,2.491
+"Kitsap Gastro and Liver Clinic, PLLC","22180 OLYMPIC COLLEGE WAY NW STE 204, POULSBO, WA 98370-6664, US",https://1faf6b7d-116f-459d-9c08-441ccfa5ebc8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.492
+Pacific Surgery Center,"20669 Bond Road NE - Suite #200, Poulsbo, WA 98370, US",https://eab3b7f4-973b-4e9c-bc6c-079a357bcf3f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.493
+LASER AND SURGERY CENTER,"345 COLLEGE ST SE STE A, LACEY, WA 98503-1014, US",https://2eb5fcb5-2451-45e8-b408-4c726b3b093e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.494
+"Mid-Columbia Endoscopy Center, LLC","8819 West Victoria Ave, Kennewick , WA 99336, US",https://9574ba36-90bd-4a5c-aee4-a4e54bcfa2eb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.495
+Watertown Regional Medical Center,"125 Hospital Drive, Watertown, WI 53098, US",https://7e4fad2d-4467-4e26-8fe6-e050fb11e2f3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.496
+Greenbrier Clinic Inc.,"40823 Midland Trail E, White Sulphur Springs, WV 24986, US",https://4cca7041-5ada-4f6c-9ce9-6164e8abb207.gastro.prod.fhir.ema-api.com/fhir/r4/,2.497
+Gastroenterology Associates PC,"1441 Wilkins Circle, Casper, WY 82601-1337, US",https://0a11fe2c-3d42-44c6-b6d8-2a4d8922d964.gastro.prod.fhir.ema-api.com/fhir/r4/,2.498
+"Sweetwater Surgery Center, LLC","2761 Commercial Way, Rock Springs, WY 82901, US",https://44347f99-01de-4d34-bf3c-0f154a4bfdd1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.499
+Gastro One,"PO Box 22927, New York, NY 10087-2927, US",https://14912288-7afb-4155-8a37-24f30cfea9e2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.5
+Wythe County Community Hospital,"600 W Ridge Rd, Wytheville, VA 24382, US",https://6aa9e206-35ff-4346-b521-43ddb8d48692.gastro.prod.fhir.ema-api.com/fhir/r4/,2.50
+Digestive Care Specialists LLC,"PO Box 31001-2907, Pasadena, CA 91110-2907, US",https://a6783ea9-259e-4c66-94b5-858d57643cf3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.500
+Casper Surgical Center,"1201 E 3rd Street, Casper, WY 82601, US",https://a1df24c8-d7d3-4323-b9ab-12ff83b00872.gastro.prod.fhir.ema-api.com/fhir/r4/,2.501
+Digestive Health Associates of Cheyenne,"7212 Commons Circle, Cheyenne, WY 82009-2666, US",https://0fb682b7-7857-4282-a899-246974590ff6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.502
+"The Lakeland FL Endoscopy ASC, LLC","3340 Lakeland Hills Blvd, Lakeland, FL 33805-1974, US",https://09351a61-4bcf-4ed9-b459-cf97859f1165.gastro.prod.fhir.ema-api.com/fhir/r4/,2.51
+Center for Gastrointestinal Endoscopy,"1117 N. Olive Ave., West Palm Beach, FL 33401, US",https://47137e4d-da6b-4444-808a-a05ceda90942.gastro.prod.fhir.ema-api.com/fhir/r4/,2.52
+GI Associates of West AL,"1774 McFarland Boulevard N, Tuscaloosa, AL 35406-2136, US",https://6217d89e-bac8-4678-869f-874b7c92b3f2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.527
+"Gastroenterologists, P,.C.","1625 N. Alston Street, Foley, AL 36535-2208, US",https://5b17f1cc-2dea-45f0-bbe7-9f4277cd9485.gastro.prod.fhir.ema-api.com/fhir/r4/,2.528
+Vold Vision Surgery Center,"2783 N Shiloh Dr, Fayetteville, AR 72704, US",https://92851c1a-b6a0-4b40-ba58-10ba54184e79.gastro.prod.fhir.ema-api.com/fhir/r4/,2.529
+Pediatric Gastroenterology Associates,"3200 SW 60th Court, Suite 204, Miami, FL 33155-4000, US",https://c21ad8a4-a2b2-4530-81ef-851a60f2be7e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.53
+Arizona Advanced Endoscopy,"PO Box 4028, Alameda, CA 94501-4028, US",https://43cbce5f-559a-40c3-85e9-8a6933f62199.gastro.prod.fhir.ema-api.com/fhir/r4/,2.530
+Associated Gastroenterology Medical Group,"1211 La Palma Ave, Anaheim, CA 92801-2811, US",https://a1e60dc3-5c1c-4331-9f48-b00e48fcd9dc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.531
+"GI Excellence, Inc.","1003 E Florida Avenue #101, Hemet, CA 92543-4510, US",https://5928b2f4-c8a4-42af-b8d4-65377d216c68.gastro.prod.fhir.ema-api.com/fhir/r4/,2.532
+"Trinity Medical Multi-Specialty Group, Inc.","PO Box 2680, Temecula, CA 92593-2680, US",https://b659f247-f27a-432f-84f9-11d6b065a0c2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.533
+"Gastrointestinal and Liver Consultants, Inc","2621 S Bristol Street, Suite 202, Santa Ana, CA 92704-5718, US",https://581d796c-cd23-40b0-b7b7-4dca960bb08e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.534
+Grand Junction Gastroenterology,"1035 Wellington Ave, Grand Junction, CO 81501-8104, US",https://b378cb8a-a74a-424c-88a5-ec1754b34be1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.535
+Digestive Disease Clinic,"2400 Miccosukee Rd, Tallahassee, FL 32308-5314, US",https://12e563a0-f5ed-4a55-9976-f456d54093d7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.536
+Mohammad Faisal MDPA,"1283 SW State Road 47, Suite 104, Lake City, FL 32025-0490, US",https://1452fdf9-52ef-467a-a836-47ea7c90b937.gastro.prod.fhir.ema-api.com/fhir/r4/,2.537
+"Gastroenterology Services, LLC","PO BOX 749536, ATLANTA, GA 30374-9536, US",https://81f91f6f-ae9e-4779-8cde-eed71240c21f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.538
+Miami Gastro LLC,"3585 NE 207th St C9, PO Box 800640, Aventura, FL 33280-0640, US",https://096c1495-e5b9-40ef-ac70-f99a5844ce73.gastro.prod.fhir.ema-api.com/fhir/r4/,2.539
+St. Francis Hospital,"2122 Manchester Expressway, Columbus, GA 31904-6878, US",https://41327dd2-b686-48a9-8aa3-f234656abd4f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.54
+GO Gastroenterology LTD,"3004 N. Ashland Avenue, Chicago, IL 60657, US",https://4904f4ee-5052-40fb-ae9a-65ba364a689b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.540
+gGastro,,https://8dd8ac6b-bb5a-4dd6-9be4-d1940cf352a5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.541
+IN-015-C,"8051 SOUTH EMERSON AVENUE, SUITE 200, INDIANAPOLIS, IN 46237-8632, US | 8051 SOUTH EMERESON AVENUE, SUITE 200, INDIANAPOLIS, IN 46237-8632, US | PO Box 208577, Dallas, TX 75320-8577, US | 8051 SOUTH EMERSON AVENUE, SUITE 150, INDIANAPOLIS, IN 46237-8635, US",https://8dd8ac6b-bb5a-4dd6-9be4-d1940cf352a5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.541
+"Kansas Endoscopy, LLC","3121 N. Webb Rd, Ste 107, Wichita, KS 67226-8119, US",https://e38455df-8137-43ad-9077-b36c0bc0745d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.542
+Bourbon Community Hospital,"9 Linville Drive, Paris, KY 40361, US",https://073648b0-e431-4b30-a534-4651f0923e42.gastro.prod.fhir.ema-api.com/fhir/r4/,2.543
+Corridor Anesthesia,"7350 Van Dusen Road, Suite 230, Laurel, MD 20707-5263, US",https://ce940349-146d-4f70-8ad5-65ac9047409a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.544
+"Gastroenterology Specialists of Frederick, P.A.","85 Thomas Johnson Ct Ste B, Frederick, MD 21702-4331, US",https://c22fd70a-aa6f-4e75-9809-b96f63542ff9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.545
+"Macomb Endoscopy Center, PLC","1701 South Blvd E, Ste 300, Rochester Hills, MI 48307-6122, US",https://34065a19-6e41-4b35-bf53-dc633a440400.gastro.prod.fhir.ema-api.com/fhir/r4/,2.546
+Montana Endoscopy Center PLLC,"1930 W Broadway Ste B, Missoula, MT 59808-1820, US",https://e3d1aed1-d262-4a75-bf6e-259b6ba5812b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.547
+The Medical Weigh Carson,"1385 Vista Lane, Carson City, NV 89703-4643, US",https://34f04433-a7d3-4e19-a826-3696e83e56da.gastro.prod.fhir.ema-api.com/fhir/r4/,2.548
+Carson City Gastroenterology,"1385 Vista Lane, Carson City, NV 89703-4643, US",https://86267900-a375-4a1b-9739-1006d5137540.gastro.prod.fhir.ema-api.com/fhir/r4/,2.549
+"Jose Lantin, MD., PC.","PO Box 788, Harrison, NY 10528-0788, US",https://48e505d8-d3c9-43f3-b7d0-5e5b0a8d076a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.550
+"Digestive Specialists, Inc.","4340 Clyo Road, Dayton, OH 45459-7000, US",https://6ee3a653-eee4-4ed2-b20b-a9ed75ee25da.gastro.prod.fhir.ema-api.com/fhir/r4/,2.551
+McLean Ambulatory Surgery Center,"7601 Lewinsville Road, Suite 440, McLean, VA 22102, US",https://d6b71a65-2e62-4c00-b61b-46c8e99acfc3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.555
+Gastroenterology Associates of Central Virginia,"121 Nationwide Drive, Lynchburg, VA 24502-4272, US",https://3b34e8b6-c3b1-404c-8500-8e2ebb2f9e71.gastro.prod.fhir.ema-api.com/fhir/r4/,2.556
+Washington Gastroenterology,"PO Box 3006, Tacoma, WA 98401-3006, US",https://f52a0a45-9702-4516-a24f-10acf63d5636.gastro.prod.fhir.ema-api.com/fhir/r4/,2.557
+King County Public Hospital District No.2,"12040 NE 128th Street, MS #115, Kirkland, WA 98034, US",https://b8532378-c78e-4c87-b3ed-7c87b0ad7f46.gastro.prod.fhir.ema-api.com/fhir/r4/,2.558
+"Decatur Digestive Disease, P.C.","2828 Highway 31 South, Suite 117, Decatur, AL 35603-1538, US",https://86219d76-be8d-417b-8a17-b813f6eeb7b1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.559
+Carrot Eye Center,"220 South 63rd Street, Mesa, AZ 85206, US",https://c5359f9f-48ca-4c4d-94d1-fac3f63072e3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.560
+"Digestive Health Clinic, PLLC","PO Box 29902, Department 923, Phoenix, AZ 85038-0902, US",https://c4948c40-d394-4823-b47c-3333ae861cc4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.561
+Valley GI Consultants,"5757 W Thunderbird Rd, Ste W212, Glendale, AZ 85306-4641, US",https://685be2e7-646e-4cf1-8b87-29cb256b3232.gastro.prod.fhir.ema-api.com/fhir/r4/,2.562
+Arcadia Outpatient Surgery Center,"614 W Duarte Road, Arcadia, CA 91007, US",https://6be44ede-711b-4cd1-ba7c-eafd115b1026.gastro.prod.fhir.ema-api.com/fhir/r4/,2.563
+Main Street Specialty Surgery,"280South Main Street, ste 100, Orange, CA 92868, US",https://1f8e88c1-68d6-4203-9e8c-e547d4aad41f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.564
+Valley Endoscopy Center,"1550 N Imperial Ave #3, El Centro, CA 92243, US",https://a3946847-c142-4ab4-81e4-bc6d60767010.gastro.prod.fhir.ema-api.com/fhir/r4/,2.565
+"Empire Surgery Center, Inc.","4101 Empire Dr,  Suite 130, Bakersfield, CA 93309, US",https://89ea21ff-f3f7-4959-8448-e193054a4787.gastro.prod.fhir.ema-api.com/fhir/r4/,2.566
+Mountain View Surgery Center,"10408 Industrial Circle, Redlands, CA 92374-4548, US",https://30d318f3-f29b-4e3d-93cb-092f4914bc72.gastro.prod.fhir.ema-api.com/fhir/r4/,2.568
+Gastroenterology Associates PC,"1441 Wilkins Circle, Casper, WY 82601-1337, US",https://803bb6a1-bbec-4dba-b0a0-9a2411dd93db.gastro.prod.fhir.ema-api.com/fhir/r4/,2.569
+Endoscopy Center of North Baltimore,"1220 East Joppa Road Building C, Suite 508, Towson, MD 21286-5810, US",https://e977cd07-bbe1-4d30-8c84-17c1055105a3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.57
+"Health First, Inc","1035 S. APOLLO BLVD, Melbourne, FL 32901, US",https://8aabdcd0-04a7-4f7d-8d90-725722ccd738.gastro.prod.fhir.ema-api.com/fhir/r4/,2.570
+"Orange City Surgery Center, LLC","975 Town Center Drive, Orange City, FL 32763, US",https://cb65e969-d665-4e46-a6da-2fd407418a38.gastro.prod.fhir.ema-api.com/fhir/r4/,2.571
+Seven Springs Surgery Center Inc.,"2024 Seven Springs Boulevard, New Port Richey, FL 34655, US",https://0829c088-7e0f-4c69-91cd-46d1638d3ed5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.572
+Therapeutic GI Associates,"PO BOX 748332, Atlanta, GA 30374-8332, US",https://a15675f2-418e-4d75-83ba-9a802ce8fa0f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.573
+Woolfson Ambulatory Surgery Center,"800 Mount Vernon Highway, Suite 100, Atlanta, GA 30328, US",https://9bb86195-1b26-4c55-96e5-753d1ada268c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.574
+"Eye Consultants of Atlanta, P.C.","3225 Cumberland Blvd. SE, Suite 900, Atlanta, GA 30339, US",https://1bb4f4f5-d6a0-49f4-a981-26936c4cd865.gastro.prod.fhir.ema-api.com/fhir/r4/,2.575
+Marietta Eye Clinic PA,"895 Canton Road NE Bldg 100, Marietta, GA 30060, US",https://677156a1-6642-45bc-9455-d05b3fe8d728.gastro.prod.fhir.ema-api.com/fhir/r4/,2.576
+"SURGICARE CENTER OF IDAHO, LLC","360 E Mallard Dr, Ste 125, Boise, ID 83706-3941, US",https://f83253b0-9e7f-451a-b310-d8395b65f2eb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.577
+The Endoscopy Center at St Francis,"8051 South Emerson Avenue, Suite 150, Indianapolis, IN 46237-8635, US",https://9d9b7c72-1368-4d93-a9e1-3777d75a3b9f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.578
+"Digestive Disease Associates, Ltd","950 N York Road, 101, Hinsdale, IL 60521-8608, US",https://2a212200-c886-4bac-b3a0-c5d48aced1b2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.579
+Tryon Endoscopy Center,"16817 Marvin Road, Charlotte, NC 28277, US",https://bb1a4446-19ea-4997-933e-84cf177e2b29.gastro.prod.fhir.ema-api.com/fhir/r4/,2.58
+Pinnacle Gastroenterology,"3 N. Main Street, Manteno, IL 60950-1534, US",https://89766f3c-a8f9-4628-98cc-c8839d208479.gastro.prod.fhir.ema-api.com/fhir/r4/,2.580
+Digestive Disease Clinic LLC,"11400 Rockville Pk, Ste 108, Rockville, MD 20852, US",https://c12713fb-0256-4c36-9e6d-a10c1112d23e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.581
+Gastrointestinal Associates PA,"P O Box 23455, Jackson, MS 39225-3455, US",https://3796ed41-a8b2-4f6d-87e7-c4caf18dbbd9.gastro.prod.fhir.ema-api.com/fhir/r4/,2.582
+Miss-Lou GI,"136 Jeff Davis Blvd, Natchez, MS 39120-5104, US",https://a8f9c479-030b-488b-b9a9-e7e31ecce424.gastro.prod.fhir.ema-api.com/fhir/r4/,2.583
+Columbus Endo Center,"600 Leigh Drive, Columbus, MS 39705-3014, US",https://6a983522-be46-4508-bf30-93a13fead9c8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.584
+All American Anesthesia,"3202 Boone Trail, Fayetteville, NC 28306-2134, US",https://718c2288-ca37-4877-be24-ca072c05846b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.586
+Island Gastroenterology Consultants PC,"1111 Montauk Hwy 3rd FLR, West Islip, MD 11795-4939, US",https://8a46db9c-7d76-4a82-ace7-eb7443e5a0f1.gastro.prod.fhir.ema-api.com/fhir/r4/,2.587
+King-Chen Hon MD PC,"41-61 Kissena Blvd, Suite D, FLUSHING, NY 11355-3105, US",https://f67e0729-e8ad-4843-b199-ac283071ee26.gastro.prod.fhir.ema-api.com/fhir/r4/,2.588
+Garden State Endoscopy,"1700 Galloping Hill Road, Suite 103, Kenilworth, NJ 7033, US",https://3dcb1db9-ddbb-489e-9a0c-b7d4978268fc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.589
+Southampton Hospital,"240 Meeting House Lane, Southampton, NY 11968, US",https://cfafd081-27a9-4905-bca1-e1e277ecb387.gastro.prod.fhir.ema-api.com/fhir/r4/,2.59
+MUSC Health Columbia Medical Center,"2435 Forest Drive, Columbia, SC 29204, US",https://1805ec12-5555-48df-8955-94e8c7b6f2b6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.590
+"Black Hills Regional Eye Surgery Center, LLC","2800 3rd Street, Rapid City, SD 57701, US",https://cf8ef377-e3d3-4750-8fbb-a2a18259016f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.591
+"Johnson City Eye Clinic, P.C.","110 Med Tech Parkway, Johnson City, TN 37604, US",https://75ff1f07-d6ce-4bd5-8581-fbc8e8cb1c17.gastro.prod.fhir.ema-api.com/fhir/r4/,2.592
+Texas Digestive Disease Consultants,"950 E. SH 114, Southlake, TX 76092, US",https://43348868-0405-4b26-ba73-30ab6512e951.gastro.prod.fhir.ema-api.com/fhir/r4/,2.593
+"Brazos GI Anesthesia, LLC","364 Richland West Circle, Waco, TX 76712-7919, US",https://9bcce68c-88bc-437d-8c31-202b51696667.gastro.prod.fhir.ema-api.com/fhir/r4/,2.594
+Lubbock Gastroenterology and Liver Associates,"4505 82nd Street, Ste 5, Lubbock, TX 79424-3219, US",https://9e328a8a-4f6e-4202-8289-67df27e24099.gastro.prod.fhir.ema-api.com/fhir/r4/,2.595
+"George M. Halow M.D., P.A.",,https://3b0de274-c483-41a4-a268-867b1adcd8f7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.596
+"George M. Halow M.D., P.A.","2311 N Mesa St, Bldg D, El Paso, TX 79902-3575, US",https://3dcb1db9-ddbb-489e-9a0c-b7d4978268fc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.596
+Capital Digestive Care,"PO BOX 37229, Baltimore, MD 21297-3229, US",https://b9dda605-4d4e-4319-b477-73b223ba7709.gastro.prod.fhir.ema-api.com/fhir/r4/,2.598
+Spokane Digestive Disease Ctr,"105 W. 8th Ave Ste 6010, Spokane, WA 99204-2341, US",https://bf309c36-3f75-40b3-9e93-b5d9bde50285.gastro.prod.fhir.ema-api.com/fhir/r4/,2.599
+Midtown Surgery Center,"305 E 47 St, New York, NY 10017, US",https://27b99a3b-49ff-4da6-857a-242d4a9ea45e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.60
+Sharpevision PLLC,"3025 112th Ave NE, Suite 200, Bellevue, WA 98004, US",https://0bb19b6b-bb3e-44c5-a884-4e426f5ca28d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.600
+PMCERTIFICATION,"US | 54321 Main, Boca, FL 33333-4444, US | 18519 W Rimrock St, Surprise, 85388-3214, US | 18519 W Rimrock St, Surprise, 85388, US",https://ef738b1a-0547-4359-aa1e-19ebfba173f3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.601
+DiMarino-Kroop-Prieto GI Associates PA,"26 East Red Bank Ave, Woodbury, NJ 08096-1611, US",https://efe139ae-4d15-4409-bc31-22b49eec92f3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.604
+BOLSA OUTPATIENT SURGERY CENTER,"10362 Bolsa Avenue, Suite 100, Westminster, CA 92683, US",https://28e98201-771a-4cb4-8d45-1a2466fc379b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.605
+Genstar Clinical Inc,"5225 Wilshire Blvd, Ste 1111, Los Angeles, CA 90036-4355, US",https://a5ef87cc-f292-4c67-8968-7e87ee3cea5a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.606
+Alfa Surgery Center,"400 E Street, Chula Vista, CA 91910-2413, US",https://b7ab0c02-8bdf-4a90-9c3e-f2fc315bc9e7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.607
+"Southwest Endoscopy Partners, LLC","2 Burnett Court, Suite 200, Durango, CO 81301-3647, US",https://84b7a805-af2a-42e5-8aff-5bfe478183d0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.608
+Florida Digestive Specialists,"5651 49th St. North, St. Petersburg, FL 33709-2105, US",https://9a8bfabc-cac6-4f50-b09a-20fb93a15094.gastro.prod.fhir.ema-api.com/fhir/r4/,2.609
+DREXEL UNIVERSITY COLLEGE OF MEDICINE,"219 N BROAD ST FL 5, PHILADELPHIA, PA 19107-1506, US",https://3e03c6d8-bba7-4637-afb5-c15eab8c3a0b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.61
+"Doctors Surgery Center, L.L.C.","921 North Main Street, Kissimmee, FL 34744, US",https://2499199a-bf26-47a4-a8d9-f5c0dd98050a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.610
+Augusta Eye Surgery,"905 Stevens Creek Rd, Augusta, GA 30907, US",https://434851ba-7ed7-454a-b8f0-01d0e825a96d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.611
+"Gastroenterology Endoscopy Center, Inc.","550 Peachtree Street NE, Suite 1750, Atlanta, GA 30308, US",https://fb88553f-d278-4749-a366-254330278fd4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.612
+Advanced GI LLC,"3000 N. Halsted St., Suite 623, Chicago, IL 60657-5196, US",https://76d8692c-ff88-457e-9983-c6da49f31db7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.613
+Surgery Center of Ophthalmology Consultants,"7232 ENGLE RD, FORT WAYNE, IN 46804-2222, US",https://6f5007d7-d0b2-44ed-8151-4d46e9c20624.gastro.prod.fhir.ema-api.com/fhir/r4/,2.614
+Georgetown Community Hospital,"1140 Lexington Rd, Georgetown, KY 40324, US",https://43111cd4-12b9-47ed-b67d-7002777853be.gastro.prod.fhir.ema-api.com/fhir/r4/,2.615
+"Digestive Disease Institute, P.C.","5202 Miller Rd, Suite B, Flint, MI 48507-1040, US",https://8eb72d72-66b6-4bcf-84ed-5a15bff5de18.gastro.prod.fhir.ema-api.com/fhir/r4/,2.616
+LaGreca Eye Clinic PC,"2475 Village Ln, #202, Billings, MT 59102, US",https://65078c20-a796-42e7-8106-7dcdb3ef638f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.617
+Center for Special Surgery,"104 Lincoln Avenue, Hawthorne, NJ 07506-1436, US",https://9a73fb81-3b39-41a3-a1b3-799c6284cbbc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.618
+Artesia General Hospital,"702 North 13th Street, Artesia, NM 88210, US",https://41bb2210-dfed-4e74-8b70-2e9e51ae6cbf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.619
+"Digestive Disease Group, PA","103 Liner Drive, Greenwood, SC 29646-2311, US",https://3b0d01b9-ad24-4260-a50c-4ffdc95cfcab.gastro.prod.fhir.ema-api.com/fhir/r4/,2.62
+Physicians Surgery Center Of Nevada,"3475 Gs Richards Blvd, Ste 110, Carson City, NV 89703-8462, US",https://457d669c-e12f-457d-8441-c628f57b8f8d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.620
+Vegas Gastroenterology,"5701 W Charleston Blvd, Suite 201, Las Vegas, NV 89146-0903, US",https://344d1971-7cb2-48bd-8d35-02b762077cd0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.621
+"Metropolitan Gastroenterology, PC","23-25 31st Street, Ste 700, Astoria, NY 11105-2299, US",https://fb3f096a-368e-402c-80db-7e65dc51f365.gastro.prod.fhir.ema-api.com/fhir/r4/,2.622
+Metro - Endoscopy Center of Queens,"23-25 31st Street, 2nd Floor, Astoria, NY 11105, US",https://6333ebc8-30ff-4461-904c-cf62bad353f0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.623
+"Ohio Gastroenterology Group, Inc.","3400 Olentangy River Road, Columbus, OH 43202-1523, US",https://25f2ab94-7032-4ec7-8286-9e44e2e51565.gastro.prod.fhir.ema-api.com/fhir/r4/,2.624
+Gastroenterology Associates,"135 W Ravine Rd STE 3A, Kingsport, TN 37660, US",https://f0650cad-c981-4b19-90e0-ef2ea7ac2d69.gastro.prod.fhir.ema-api.com/fhir/r4/,2.625
+"Vikram S Jayanty MD,PA","10837 KATY FREEWAY, STE 175, HOUSTON, TX 77079-2211, US",https://c6798b8e-6878-4d6f-aa94-bf0904304870.gastro.prod.fhir.ema-api.com/fhir/r4/,2.629
+"Advanced Digestive Care, LLC","PO Box 37185, Baltimore, MD 21297-3185, US",https://6fdedf34-d18a-4644-8c49-a0226b06ebc2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.63
+Loudoun Ambulatory Surgery Center,"44035 Riverside Parkway, #200, Leesburg, VA 20176, US",https://8bd11f11-ae80-470d-b374-2728735af771.gastro.prod.fhir.ema-api.com/fhir/r4/,2.630
+Northern Virginia Surgery Center,"3620 Joseph Siewick Drive, Suite 202, Faifax, VA 22033, US",https://e0d43786-90d7-41e2-a705-61d384e255e6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.631
+Inova Lorton ASC,"9321 Sanger St., Suite 200, Lorton, VA 22079, US",https://eadf1597-b3d2-4b89-b84c-6f7f90e6028b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.632
+Inova Surgery Center at Franconia-Springfield,"6355 Walker Lane, Suite 200, Alexandria, VA 22310, US",https://4c40ec59-4703-48a9-a64d-1a74cc1c087d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.633
+Charlottesville Gastroenterology Associates,"1139 East High Street, Charlottesville, VA 22902-4855, US",https://336bd0b3-464e-4fa5-a2be-3049b59e1b1b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.64
+"Endoscopy Center of Monroe, Inc.","316 South 6th Street, Monroe, LA 71201-7568, US",https://cde42f8c-e634-475f-b596-7457fc7d53d7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.644
+Summit Endoscopy Center LLC,"1265 Highway 54 W  Ste. 401, Fayetteville, GA 30214, US",https://35ecc075-5808-496d-bec9-3e49f4fe4431.gastro.prod.fhir.ema-api.com/fhir/r4/,2.645
+"Gastroenterology Center of Northern Virginia, Ltd.","1715 North George Mason Drive, Ste 204, Arlington, VA 22205-3647, US",https://5427c3a7-010d-40a4-af77-5413ab271bfe.gastro.prod.fhir.ema-api.com/fhir/r4/,2.65
+Lafayette General Endoscopy Center,"1211 Coolidge Blvd, Suite 302, Lafayette, LA 70503-2638, US",https://29235b8a-261e-4959-a77f-32b2a2ec4233.gastro.prod.fhir.ema-api.com/fhir/r4/,2.650
+Endoscopy Center of North Carolina LLC,"191 Biltmore Avenue, Asheville, NC 28801-4109, US",https://f44946a1-363b-45e5-aede-5c65ca1dd0e3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.651
+"Northwest Gastroenterology, PLLC","3111 Woburn St, Suite 201, Bellingham, WA 98226-6610, US",https://0f0bf374-3a31-46cc-aeb3-4885cad9e330.gastro.prod.fhir.ema-api.com/fhir/r4/,2.654
+Center for Endoscopy LLC,"3921 Waring Road, Suite B, Oceanside, CA 92056-4456, US",https://21bb0efd-546a-40fa-b3f4-a62c36c92f5b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.655
+Lohman Endoscopy Center,"4381 E Lohman Ave, Ste A, Las Cruces, NM 88011-8293, US",https://597cc944-2429-494e-a09c-83b69b3affd7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.657
+Carolina Digestive Health Associates,"3426 Toringdon Way, STE 108, Charlotte, NC 28277, US",https://8288fe5f-310f-4f8d-a639-9bbe8358d85e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.659
+Harford Gastroenterology Associates,"100 Walter Ward Blvd, Suite 100, Abingdon, MD 21009-1283, US",https://3cdd283d-510c-4705-8021-0726e18e5a6d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.660
+"Atlantic Gastroenterology, PA","2465 Emerald Place, Greenville, NC 27834, US",https://91908d46-c39e-447b-93e3-1bf38632d26e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.662
+"Syracuse Gastroenterological Associates, PC","739 Irving Avenue, Suite 400, Syracuse, NY 13210, US",https://526d948f-eaa8-48d8-a2d7-27f3a596c48b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.663
+Columbia Endoscopy Center,"208 Portland Street, Columbia, MO 65201-6525, US",https://ff23a4b4-465d-44fa-a7d8-99a59a9660e5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.665
+Pinnacle Gastroenterology Associates,"409 North University Ave, Little Rock, AR 72205, US",https://25772213-a7ef-4cd5-a141-f45db0fc63b5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.667
+Cab Gastro Assoc NE Digestive,"P.O. Box 32036, Charlotte, NC 28232-2036, US",https://8f9674fd-1ce2-425f-a731-f7f725fba72a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.669
+"Advanced Digestive Care, LLC","PO Box 37185, Baltimore, MD 21297-3185, US",https://17af8daa-e66f-4594-8277-650d09b633bf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.67
+Winchester Endoscopy Services LLC,"190 Campus Blvd, Ste. 300, Winchester, VA 22601-2872, US",https://fa90ab10-9754-4b84-8bc5-05e682a745c5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.670
+"Southern Illinois GI Specialists, LLC","1100 West Diann Lane, Carbondale, IL 62901-5339, US",https://fa120b5c-6699-49eb-9b43-fa51a183b3cb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.671
+Arizona Gastrointestinal Associates,"11225 N. 28th Drive B210, Phoenix, AZ 85029, US",https://fe2ebadf-a2e1-478f-97c6-286b9b18d10b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.672
+Sullivan and Partners,"2204 Pavilion Dr, Suite 108, Kingsport, TN 37660-4651, US",https://770af1f3-6364-4777-9732-6d04990df5c6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.673
+"East Tennessee Gastroenterology, PLLC","P.O. Box 440122, Nashville, TN 37244-0122, US",https://dc2e1ff9-b187-4f97-a1d5-279cc5449e9e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.674
+Portland Gastroenterology Associates,"161 Marginal Way, Portland, ME 04101-2438, US",https://d8588ed9-43b1-4d5e-986a-d30c31beb9b3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.675
+Amefil Health Care Services,"15 Van Buren Ave, Cartaret, NJ 7008, US",https://047b25f7-2d97-4902-99ea-aee10edb7b3a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.676
+"Unio Health Partners, LLC","21250 Hawthorne Blvd, Ste 600, Torrence, CA 90503, US",https://ba0185f7-f668-40ef-b795-e803fad3617c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.677
+Inland Empire Gastroenterology,"40404 California Oaks Rd, Suite C, Murrieta, CA 92562-5786, US",https://46b7fca8-aab7-4c56-a183-88533aef4e46.gastro.prod.fhir.ema-api.com/fhir/r4/,2.678
+Rob Solgat - Training Facility ERW,"123 Testing Ave, Surprise, 85388-3214, US",https://6d5f045c-381f-4bea-a452-34fc55a1e1d4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.679
+Arthur A. Kornbluth MD PC,"1150 Fifth Avenue Ste 1B, New York, NY 10128-0724, US",https://cbb119e1-bd3f-4d4a-a90c-bd5100e59995.gastro.prod.fhir.ema-api.com/fhir/r4/,2.68
+Digestive Healthcare Center,"PO Box 400, Somerville, NJ 08876-0400, US",https://d95ddc06-85aa-4ef6-9560-2492da21e02c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.682
+Santa Maria Gastroenterology Medical Group,"361 Town Center West, SUITE 101, SANTA MARIA, CA 93458-5076, US",https://42edfe47-e0e8-42fb-98bc-13a6a05f792a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.683
+TX-014,"PO Box 676393, Dallas, TX 75267-6393, US | 1920 Moores Lane, Texarkan, TX 75503-4660, US | PO Box 676393, Dallas, TX 75267-6393, US | 1920 Moores Lane, Ste B, Texarkana, TX 75503, US | 1920 Moores Lane, Ste B, Texarkana, TX 75503-4661, US | 1920 Moores Lane, Suite B, Texarkana, TX 75503-4660, US | US | 1920 Moores Lane, Suite A, Texarkana, TX 75503-4660, US | 1920 Moores Lane, Texarkana, TX 75503-4660, US | PO Box 676392, Dallas, TX 75267-6392, US",https://ab0ad0d3-1a1d-47a7-80b0-c0bd276b844e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.684
+"Idaho Gastroenterology Associates, LLP","PO BOX 52482, PHOENIX, AZ 85072-2482, US",https://631a1d52-6245-4437-b00f-303a43c5c182.gastro.prod.fhir.ema-api.com/fhir/r4/,2.685
+Centers for Digestive Health,"9410 Calumet Ave, Suite 401, Munster, IN 46321-0018, US",https://5d1c83b2-a572-4671-8b7c-313d3a8a1f7f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.686
+Delta Gastroenterology,"9140 Highway 51 N, Southaven, MS 38671-1233, US",https://549d80b6-561f-429e-a4ee-1ada61a0e02e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.687
+"McAllen Gastroenterology Clinic, LP","1900 South Jackson Road, Suite 11, McAllen, TX 78503-1589, US",https://28033afd-fdee-450b-879e-64e9535f9729.gastro.prod.fhir.ema-api.com/fhir/r4/,2.688
+"Abdominal Specialists of South Texas, LLP","718 Elizabeth St., Floor 3, Corpus Christi, TX 78404-2212, US",https://2043c436-5a88-4ecd-a05b-3e5cc09239b8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.689
+Theda Oaks Ambulatory Surgical Center,"19226 Stonehue, San Antonio, TX 78258-3447, US",https://68855d5f-f107-4bf0-9ae9-3f3f1abe6f3d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.690
+"Valley Ambulatory Surgical Center, LLC","901 North Jackson Road, McAllen, TX 78501, US",https://1c696b4b-00b6-4006-9db9-de8380598e98.gastro.prod.fhir.ema-api.com/fhir/r4/,2.691
+Memorial Hermann Endoscopy & Surgery North Houston,"275 Lantern Bend Dr, Suite 400, Houston, TX 77090, US",https://42400a13-0466-4194-93bd-c9a2beb08c95.gastro.prod.fhir.ema-api.com/fhir/r4/,2.692
+"Coral View Surgery Center, LLC","8390 W Flagler Street, Suite 221, Miami, FL 33144-2039, US",https://7f728a2e-d9d0-46a2-af6e-2c6d057463db.gastro.prod.fhir.ema-api.com/fhir/r4/,2.693
+"Premiere GI, PLLC","11505 Palmbrush Trail, #200, Lakewood Ranch, FL 34202-2904, US",https://27fb6ec2-cc6e-49ef-8ce3-3f5949bea9ea.gastro.prod.fhir.ema-api.com/fhir/r4/,2.694
+"Total Gastroenterology, PA","7441 US Hwy 27 N, Sebring, FL 33870-1030, US",https://4e966f2b-5454-4632-962e-0068da7a0012.gastro.prod.fhir.ema-api.com/fhir/r4/,2.695
+Gastroenterology Consultants of Augusta,"393 North Belair Road, Evans, GA 30809, US",https://ac65626f-77d3-4385-8dda-b2eb401717fa.gastro.prod.fhir.ema-api.com/fhir/r4/,2.697
+Braselton Endoscopy Center,"2334 Sparta Way Ste. 200, Buford, GA 30519-2001, US",https://9a866784-c766-4933-9eaa-27aff3825aa8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.698
+Wilmington Health Gastroenterology,"2421 Silver Stream Lane, Wilmington, NC 28401-7307, US",https://131c30db-b3aa-43a5-a793-308ade34fd8d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.699
+Utah Gastroenterology,"6360 S 3000 E, Ste 310, Salt Lake City, UT 84121-6939, US",https://4af267b3-0b17-4e37-b82c-3c19f9bce5de.gastro.prod.fhir.ema-api.com/fhir/r4/,2.70
+"Sottile & Megna, MD, PC","360 Edison Street, Staten Island, NY 10306, US",https://6fe53bae-7b12-438b-931e-16e16d263610.gastro.prod.fhir.ema-api.com/fhir/r4/,2.700
+Peter Rubin MD PC,"920 Park Ave, 1N, New York, NY 10028-0208, US",https://2b687429-e938-4391-8525-04e8a8ced299.gastro.prod.fhir.ema-api.com/fhir/r4/,2.701
+Berks Center for Digestive Health,"1011 Reed Avenue, Suite 300, Wyomissing, PA 19610, US",https://31976a4f-abc5-4ba7-b4aa-fbaf48af4955.gastro.prod.fhir.ema-api.com/fhir/r4/,2.702
+"Endoscopy Associates of Valley Forge, LLC","420 West Linfield-Trappe Road, Building B, Suite 101, Limerick, PA 19468, US",https://82503ed8-d935-4b10-abda-1d05d07807cf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.703
+"Shirish A. Amin, MD PC","1265 Wayne Avenue, Suite 301, Indiana, PA 15701-3501, US",https://d03e588a-f825-443d-9420-d12eddb4ec22.gastro.prod.fhir.ema-api.com/fhir/r4/,2.704
+"Gastrointestinal Medicine Asssociates, Inc.","1150 Reservoir Ave, Suite 201, Cranston, RI 2920, US",https://47cbde6e-631f-486a-a6fc-894dabd92b89.gastro.prod.fhir.ema-api.com/fhir/r4/,2.705
+Endoscopy Associates Inc DBA West River Endoscopy,"44 W RIVER ST 1ST FL, PROVIDENCE, RI 02904-2609, US",https://6d8f9ee9-21a6-430d-96a4-d8379edeeae6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.706
+Pacific Gastroenterology Endoscopy Center,"26421 Crown Valley Parkway, Ste 140B, Mission Viejo, CA 92691-8596, US",https://3fe1af14-3530-43c6-a6c6-2440740cc7ff.gastro.prod.fhir.ema-api.com/fhir/r4/,2.707
+Magnolia Surgery Center LLC,"463 Magnolia Avenue, El Cajon, CA 92020, US",https://af8bf5f8-422c-4555-baa5-9d2e9cc0027b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.708
+Chevy Chase Ambulatory Center L P,"801 S. Chevy Chase Dr.  # 106, Glendale, CA 91205, US",https://858ef2ae-213d-4e4f-9174-f2453aecca27.gastro.prod.fhir.ema-api.com/fhir/r4/,2.709
+Advanced Endoscopy Center,"386 W OLIVE AVE, Suite B, Merced, CA 95348-3137, US",https://3e418c30-4492-4df6-aabb-b358e2e0f590.gastro.prod.fhir.ema-api.com/fhir/r4/,2.71
+Genesis Surgery Center,"26781 Portola Pkwy Ste. 4E, Foothill Ranch, CA 92610, US",https://e3519bb3-337e-4e03-a83a-ce6278d4516d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.710
+Waverley Surgery Center,"400 Forest Ave, Palo Alto, CA 94301-2608, US",https://16f5a5bc-0045-4d98-9130-a53c3d1d9cbc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.711
+"Merced Ambulatory Surgery Center, LLC","1390 E Yosemite Ave #B, Merced, CA 95340, US",https://af80e336-8c46-46bd-81ff-116077f6a777.gastro.prod.fhir.ema-api.com/fhir/r4/,2.712
+Advanced Surgery Center,"10255 N 32nd Street, Suite A, Phoenix, AZ 85028-3822, US",https://00c6ae4b-d592-47d8-be83-ca8062a38113.gastro.prod.fhir.ema-api.com/fhir/r4/,2.713
+"Atlantic Surgery and Laser Center, LLC","8040 N Wickham Rd, Melbourne, FL 32940-8298, US",https://16f2ef50-47d6-4d57-8077-be6aeb5b6114.gastro.prod.fhir.ema-api.com/fhir/r4/,2.714
+"Integ Health System, PC d/b/a Bloomington","1011 W 2nd St, Bloomington, IN 47403-2216, US",https://d92ec5b5-5937-4bb6-94f5-6f30393d239e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.715
+Surgical Eye Center of Morgantown,"1299 Pineview Dr, Morgantown, WV 26505-0486, US",https://5c2272b5-b8f6-4581-ab6a-c5c4f5783f34.gastro.prod.fhir.ema-api.com/fhir/r4/,2.716
+Javier Arroyo Gastroenterology,"201 Sector Cuesta Los Jobos, Humacao, PR 00791, US",https://e75fc86a-77e1-4989-85a5-fd55b6ea1ea0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.717
+Chandler Endoscopy Center LLC,"2095 W. Pecos Rd. Suite A1, Chandler, AZ 85224, US",https://b63f890a-a91c-4756-95ef-92693ddf2707.gastro.prod.fhir.ema-api.com/fhir/r4/,2.718
+Oak Bend Medical Center,"1705 Jackson St., Richmond, TX 77469, US",https://348f7bab-31ef-4ae0-a602-8836fe40689c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7183
+"Downtown Gastroenterology Associates, P.C.","13-17 Elizabeth Street,, Suite 608, New York, NY 10013-4803, US",https://9ea62da8-69fb-4455-82b8-d387c68092e4.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7184
+"Loma Linda Surgical Institute, LLC","25915 Barton Road, Loma Linda, CA 92354, US",https://ec75abaf-b553-404a-be78-fceec86f9c0d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7188
+"McCandless Endoscopy Center, LLC","9335 McKnight Road, Pittsburgh, PA 15237, US",https://9ab7001b-7d2d-4345-893a-52454f011f80.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7189
+"Provident ASC Holdings, LLC","825 Ridge Lake Boulevard, Memphis, TN 38120, US",https://f5439951-36e9-4bb9-81ed-6a29330de21f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.719
+Russell Medical Center,"3316 US-280, Alexander City, AL 35010, US",https://6a99fb2c-037b-4de7-86b3-263ea1a9e838.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7190
+"Advanced Surgical Center of Beverly Hills, LLC","8750 Wilshire Blvd Suite #150, Beverly Hills, CA 90211, US",https://56020f98-7c0b-4047-a8f5-09dc67ca14dd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7192
+BARRANCA SURGERY CENTER INC,"3500 BARRANCA PKWY STE 130, IRVINE, CA 92606, US",https://0fd420e2-4fd4-4363-a489-6df94b4a27d2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7193
+"Prime Healthcare Services, Inc. Gastroenterology","3480 East Guasti Road, Ontario, CA 91761, US",https://7a2c1cda-4f8d-42f4-9bbf-ef66ca0cc91d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7194
+Hanford Surgery Center,"1360 Bailey Drive, Hanford, CA 93230-5921, US",https://7fd67d4c-98fb-4202-b0c8-e8486284fa28.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7195
+Pacific Endoscopy,"17815 NEWHOPE ST STE R, FOUNTAIN VALLEY, CA 92708-5427, US",https://21b9835c-65da-43bc-ad94-607199281611.gastro.prod.fhir.ema-api.com/fhir/r4/,2.72
+Star Valley Health,"901 Adams Street, Afton, WY 83110, US",https://764096b3-a990-48a2-81f1-74d4b1456857.gastro.prod.fhir.ema-api.com/fhir/r4/,2.720
+Toms River Surgery Center,"1430 Hooper Ave #301, Toms River, NJ 08755, US",https://511f8733-8061-44e7-aa1f-cec9ef7847ee.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7201
+Premier Medical Group LLC,"2200 Jacobssen Drive, Ste B, Normal, IL 61761-5516, US",https://c0b52941-88c9-4b82-ad92-b1c3bd940c2e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7205
+Centro Gastroenterologia Avanzada del Norte,"SUITE 502 INSTITUTO SAN PABLO, Bayamon, PR 00961-0000, US",https://cf05174f-ebbc-4745-b190-097c683df0e6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7206
+Park Slope Gastroenterology PLLC,"360 9th Street, First Floor, Brooklyn, NY 11215, US",https://1eebe516-959a-4d03-8da3-b0b9d54cf886.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7207
+Charleston Surgery Center,"130 Edge Street, Summerville, SC 29486, US",https://069d41fa-d7a4-4cef-a702-5b48bbdb8870.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7208
+Gastroenterology Associates of Suffolk,"931 Hallock Avenue, Port Jefferson Station, NY 11776, US",https://4a94cd37-b61f-48ce-9097-5bfae24df53b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7209
+"Kumkum Patel MD, Inc","P.O. Box 103766, Pasadena, CA 91189-3766, US",https://c1cb932e-8e32-4829-a9b6-bb904c86f665.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7215
+"Midwest Gastrointestinal Associates, PC","8901 Indian Hills Drive, Suite 200, Omaha, NE 68114-4032, US",https://be9b5fb6-79d5-48ad-8b61-f306a58e782c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7216
+Gunnison Valley Hospital,"64 East 100 North, Gunnison, UT 84634, US",https://c7333b28-bb14-4a9c-9f97-ce82178565cc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7217
+Tenet Florida Physician Services LLC,"PO Box 20800, Belfast, ME 04915-4105, US",https://39b4d72e-152d-4945-b268-fdef8c9e6f96.gastro.prod.fhir.ema-api.com/fhir/r4/,2.722
+Pacific Endoscopy Center,"PO BOX 4043, Alameda, CA 94501-4043, US",https://3045e1d0-e5ad-45a0-97dc-18ae5c2e8e0b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.723
+Endoscopy Center of Grand Junction LLC,"PO Box 5307, Carol Stream, IL 60197-5307, US",https://96dead03-90cc-411f-92ca-7442a0d6867d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.724
+"Eugene Gastroenterology Consultants, PC","3355 Riverbend Drive, Ste 500, Springfield, OR 97477-8800, US",https://125b9644-59e0-4693-8f3e-ec25e3fa1514.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7240
+Palmetto Lakes Surgical Center,"2100 W 76th St, Ste 101, Hialeah, FL 33016-5505, US",https://509102cf-b3ad-4e55-b040-fec2942c245f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7241
+"Regional SurgiCenter, LLC","PO Box 5384, Carol Stream, IL 60197-5384, US",https://4050274a-8e69-42e2-9bfc-75a95fa7d851.gastro.prod.fhir.ema-api.com/fhir/r4/,2.725
+"Western Gastroenterology Specialists, PLLC","125 W. Hague, Ste 340, El Paso, TX 79902-5806, US",https://376f581b-4c7f-4d16-9a54-12d21ec29a92.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7250
+PPCP ENDOSCOPY LLC,"1235 Nexton Parkway, Building 4A, Summerville, SC 29486, US",https://c04556cd-3280-4f29-a637-6923d7492263.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7266
+"River Valley Gastroenterology, PLLC","9001 Jenny Lind Road, Suite 2, Fort Smith, AR 72908-8629, US",https://80f54580-06eb-4fda-96f4-f48f2cbd31c7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7269
+Candler County Hospital,"400 Cedar Street, Metter, GA 30439, US",https://f3bf2f63-b458-4cd2-b071-29e9bc9a18d0.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7270
+Main organization,"7600 SW 87th Ave, Suite 206, Miami, FL 33173, US",https://21beced1-b268-41c7-baca-b39e9d710290.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7277
+"West Creek Endoscopy, LLC","1600 Wilkes Ridge Drive, Suite 100, Henrico, VA 23233, US",https://df481a64-270f-4478-abdb-59adb2e8eead.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7278
+Minidoka Memorial Hospital,"1224 8th St, Rupert, ID 83350-1535, US",https://3e690b50-fd03-4047-bf3d-396d39a3f418.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7279
+Central Valley Medical Center,"48 W 1500 N, Nephi, UT 84648, US",https://ed9c361d-7144-4d3e-9922-fc22122e2a28.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7280
+"Michiana Gastroenterology, Inc.","17501 Generations Drive, South Bend, IN 46635-1589, US",https://c9cde04b-9b61-4911-911d-f76fb9cc2d89.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7281
+Advent Health Surgery Center,"107 Park Place Blvd, Davenport, FL 33837-6858, US",https://77e0a30b-2ef9-41f9-8d2a-4a84ef05148d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7282
+Endoscopy Center of the North Shore,"1732 Central Street, Evanston, IL 60201-1508, US",https://67716045-ceb4-48a9-a387-7fe8f9000547.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7283
+Gastrointestinal Specialists Inc.,"2369 Staples Mill Road, Suite 20, Richmond, VA 23230, US",https://59750d36-b9b3-424c-b239-4ffb3c957571.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7291
+"Digestive Health Center of the Four States, LLC","198 Four States Drive, Suite 6, Galena, KS 66739-4304, US",https://ec11c0ce-5bd2-49a2-bb6c-eb593e6c59b3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7293
+"Digestive Healthcare Associates, P.C.","310 East Shore Road, 206, Great Neck, NY 11023, US",https://04023156-93fc-431c-aa34-e53bb8321659.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7294
+Wellington Endoscopy Center LLC,"1157 S State Rd 7, Wellington, FL 33414, US",https://7be2db4e-f847-4fcc-bf7e-7c6ddf60c1c5.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7297
+Parkway Endoscopy Center,"488 E. Valley Parkway  Suite 110, Escondido, CA 92025, US",https://1c7a9de4-6a1b-467c-b36c-81ffb4c90d27.gastro.prod.fhir.ema-api.com/fhir/r4/,2.73
+"Anu Sampat, MD","1340 New Jersey 34, Matawan, NJ 07747, US",https://9acb9c30-e3b4-4c87-877f-cd9daa4c0fb2.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7313
+GI Physicians Inc.,"512 North Cable Road, Lima, OH 45805, US",https://3eb18f31-edec-4a11-bb48-324ad26f7cdc.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7314
+Medical University Hospital Authority,"1315 Roberts Street, Camden, SC 29020, US",https://09d9b562-773a-4cd9-ae52-5c8e7bf55b97.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7315
+Bethany Medical Gastroenterology: Peters Endoscopy,"1580 Skeet Club Road, High Point, NC 27265, US",https://c922443b-0590-4ac2-9f7d-6d5e719f6a3a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7319
+"PHYSICIANS EYE SURGERY CENTER, INC","3930 Hoyt Avenue, Everett, WA 98201, US",https://3a94895e-9625-4485-a8b8-3bc6f21342b8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7322
+20-20 Surgery Center LLC,"516 Pellis Rd, Greensburg, PA 15601-4592, US",https://ac5394fe-7c1f-4710-bbf4-22d4c250590d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7323
+Phoenixville Hospital,"140 Nutt Road, Phoenixville, PA 19460, US",https://0a46d8c9-8551-48bf-8c85-5c558c418655.gastro.prod.fhir.ema-api.com/fhir/r4/,2.7328
+Capitol Gastro,"12701 Ranch Road 620 N #101, Austin, TX 78750-1141, US",https://3232a342-c813-47ec-98fd-67a41b058710.gastro.prod.fhir.ema-api.com/fhir/r4/,2.741
+"Endoscopy Center of Coastal Georgia, LLC","PO Box 117335, Atlanta, GA 30368-7335, US",https://7aca2015-f27d-4b90-83b2-086924954519.gastro.prod.fhir.ema-api.com/fhir/r4/,2.746
+"Digestive Disease Associates, Inc","292 Euclid Avenue. Suite 115, San Diego, CA 92114, US",https://3d96ce7f-c772-44cd-a284-d352ccf47069.gastro.prod.fhir.ema-api.com/fhir/r4/,2.75
+"Prime Healthcare Services, Inc. Gastroenterology","3480 East Guasti Road, Ontario, CA 91761, US",https://4a65fda9-2863-455e-bf9a-957ed803e444.gastro.prod.fhir.ema-api.com/fhir/r4/,2.76
+Providence Summit Surgery Center,"26357 McBean Pkwy Suite 100, Santa Clarita, CA 91355, US",https://2ea023f9-d8fa-498e-867c-28c323efad4a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.77
+gMed Anesthesia,"2125 N Commerce Pkwy, Suite 300, Wesotn, FL 33326, US",https://ef81eadb-392f-466c-be3f-acbb99a5e483.gastro.prod.fhir.ema-api.com/fhir/r4/,2.770
+zzzJordan and Associates Office,"649 Guy Road, Clayton, NC 27520-4224, US",https://d4c4e6a9-2d32-4bb1-b062-d2a67dd22612.gastro.prod.fhir.ema-api.com/fhir/r4/,2.775
+Center for Digestive Health,"1615 N Convent St., Ste. 2, Bourbonnais, IL 60914-1081, US",https://18c551ec-77df-444c-83ff-638425a440a7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.783
+William Silver MD & Eric Tatar MD PC,"2 Medical Park Drive, Ste 14, West Nyack, NY 10994-1966, US",https://8182a545-80d6-42b9-bf20-98d7b777b1c6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.787
+Endeavor Surgical Center,"8327 Reseda Blvd,, Northridge, CA 91324, US",https://ba8ab1d2-e073-4b96-8766-405d088d5605.gastro.prod.fhir.ema-api.com/fhir/r4/,2.79
+72nd Street Medical Associates,"310 E 72nd St, New York, NY 10021-4726, US",https://efb5c823-9b19-4b51-9d2b-b6789db131ce.gastro.prod.fhir.ema-api.com/fhir/r4/,2.793
+FHIRCERTIFICATION,"123 Davie address, Davie, FL 33337-0987, US | 11 Address, Davie, FL 33334, US | Test_Address, Test_City, AK 12345-6789, US | 3655 N Commerce Pkwy, Weston, FL 33328, US | 11643 NW 11TH PL, CORAL SPRINGS, FL 33071-4101, US | 11645 NW 11TH PL, CORAL SPRINGS, FL 33071-4101, US | 11645 NW 11TH PL, SUITE 200B, CORAL SPRINGS, FL 33071-4101, US | 123 Georgia Ave, Davie, FL 33328, US | 123 Georgia Ave, Davie, FL 33328-0987, US",https://8ed1e3c9-dbf5-4379-a703-18007b0d577d.gastro.prod.fhir.ema-api.com/fhir/r4/,2.8004
+Gateway Digestive and Liver Specialists LLC,"4510 Delmar Blvd, St. Louis, MO 63108-1702, US",https://addf35aa-306c-4e85-8af4-dc0d335fe829.gastro.prod.fhir.ema-api.com/fhir/r4/,2.806
+Clearwater Gastroenterology,"2517 17th Street, Ste B, Lewiston, ID 83501-6311, US",https://8dcb4d22-4ba4-45b2-bb1f-135ce45db967.gastro.prod.fhir.ema-api.com/fhir/r4/,2.81
+Endoscopy Center at Robinwood,"11110 Medical Campus Road, Hagerstown, MD 21742, US",https://0a04f502-e3b4-4d96-b34a-07595b873f1f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.810
+Endoscopy Center of North Mississippi,"PO Box 22944, New York, NY 10087-2945, US",https://7ddf1060-8a53-40bf-81bc-df41a5017e47.gastro.prod.fhir.ema-api.com/fhir/r4/,2.818
+"Nashville Gastroenterology and Hepatology, P.C.","330 Wallace Rd, Suite 103, Nashville, TN 37211-4981, US",https://9f4a1e02-f990-4e4e-98f8-1f6c35c06fa6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.819
+Digestive Disease Center Green Valley,"1647 E Windmill Lane, Suite 110, Las Vegas, NV 89123-1908, US",https://cd227833-c267-406d-b9f1-9185a38f582f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.82
+Frank J Nemec MD Ltd,"6950 S. Cimarron Road #200, Las Vegas, NV 89113-2135, US",https://2193cbc1-4304-473e-9f00-7362c146697c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.825
+"Digestive Disease and Endoscopy Center, PLLC","3261 Mt Vintage Way, Ste 221, Silverdale, WA 98383-6039, US",https://5a5947f9-583d-48e3-87aa-c37dff3c7f39.gastro.prod.fhir.ema-api.com/fhir/r4/,2.83
+"Eastside Associates, LLC","28963 Little Mack, Suite 103, Saint Clair Shores, MI 48081-3017, US",https://0cd2b5db-f296-4e1b-8d7a-ad006de9043f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.836
+"Gastrointestinal Associates, SC","411 Westwood Drive, Wausau, WI 54401-4152, US",https://73c38065-c5f6-4858-8be6-aea1e2e3a7ce.gastro.prod.fhir.ema-api.com/fhir/r4/,2.838
+CA-024,"5575 W Las Positas Blvd, Suite 320, Pleasanton, CA 94588, US",https://96071891-696f-4c4b-8343-888851bef756.gastro.prod.fhir.ema-api.com/fhir/r4/,2.839
+Gastroenterology Associates,"PO Box 11970, Olympia, WA 98508-1970, US",https://aa56dce8-45d7-4420-984a-ce8efc5fbbea.gastro.prod.fhir.ema-api.com/fhir/r4/,2.84
+"Anne Arundel Gastroenterology Associates, P.A",,https://5be1b602-bb66-49d9-bede-741de2418fdf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.841
+"Covenant Surgical Partners, Inc.","401 Commerce Street Suite 600, Nashville, TN 37219, US",https://55c1c088-6aab-4ae6-9dc0-7bff23b8c40a.gastro.prod.fhir.ema-api.com/fhir/r4/,2.845
+"Shabbir Husain Jamali, MD PA","421 School Street Suite 110, Tomball, TX 77375-4788, US",https://ae381384-3c50-4a82-b362-244639d5d1cf.gastro.prod.fhir.ema-api.com/fhir/r4/,2.849
+Eastern Connecticut Endoscopy Center,"79 Wawecus Street, Norwich, CT 6360, US",https://769e930d-8183-4193-8a7c-8ae301186510.gastro.prod.fhir.ema-api.com/fhir/r4/,2.85
+Athens Gastroenterology Association,"3320 Old Jefferson Road, Building 400, Athens, GA 30607-1463, US",https://cf37fd55-feb5-4bbd-b509-c46a81b8512e.gastro.prod.fhir.ema-api.com/fhir/r4/,2.851
+"Gastroenterology Associates, Inc","4665 Belpar St NW, Canton, OH 44718, US",https://ab0e949c-2afd-42bb-946b-24326209175b.gastro.prod.fhir.ema-api.com/fhir/r4/,2.852
+"Alexandria Gastrointestinal Specialists, LLC","3311 Prescott Road, Suite 411, Alexandria, LA 71301-3900, US",https://0e4f8632-8d1e-46ff-aec7-568e868b9244.gastro.prod.fhir.ema-api.com/fhir/r4/,2.856
+Bradenton Surgery Center,"2902 59th Street West, Suites F & G, Bradenton, FL 34209-7021, US",https://9b83f3d7-e4e3-41f0-97f7-c32cdd85ef17.gastro.prod.fhir.ema-api.com/fhir/r4/,2.86
+"Citrus Valley Gastroenterology,","415 W Route 66, Glendora, CA 91740-4335, US",https://039236ab-2a16-4732-95f8-466560896ea7.gastro.prod.fhir.ema-api.com/fhir/r4/,2.860
+Arizona Gastroenterology & Liver Clinic,"14155 north 83rd ave suite 122, peoria, AZ 85381, US",https://c7ac63f7-069d-45c9-bd61-938bc057a44c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.861
+Endoscopy Center of Northeast Tennesse PC,"310 N State of Franklin Road, Ste 202, Johnson City, TN 37604-6063, US",https://b28c26dd-6cf8-4d04-ae33-19d2b3d1bfd6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.862
+Gulf Coast Endoscopy Center of Venice,"1220 E Venice Avenue, Venice, FL 34285-7151, US",https://ab517b02-2163-4205-abe8-dfa68d02025f.gastro.prod.fhir.ema-api.com/fhir/r4/,2.863
+GastroMedConnect,"115 Kohlers XING, #455, Kyle, TX 78640-2460, US",https://fd500f4d-9860-4769-883a-17b7282b5d89.gastro.prod.fhir.ema-api.com/fhir/r4/,2.864
+Monmouth Gastroenterology,"1912 Route 35 South, Suite 201, Oakhurst, NJ 07755-2715, US",https://f38ac744-a7d6-40eb-90d2-d1fbc9f35944.gastro.prod.fhir.ema-api.com/fhir/r4/,2.866
+Eye Care for the Adirondacks,"450 Margaret St,, Plattsburgh, NY 12901, US",https://073afd84-3b56-4cb1-9785-5bc4400a8402.gastro.prod.fhir.ema-api.com/fhir/r4/,2.868
+Center For Digestive Endoscopy,"1817 North Mills Avenue, Orlando, FL 32803-1853, US",https://ef0a957c-c460-4493-85df-ab98dbe275de.gastro.prod.fhir.ema-api.com/fhir/r4/,2.87
+Center for Digestive Health,"301 Medical Park Blvd, Dothan, AL 36301-4873, US",https://551e3761-b31a-4bfd-b7c7-3930c93cc568.gastro.prod.fhir.ema-api.com/fhir/r4/,2.870
+"Ventura Endoscopy Center, Partners, LLC","5810 RALSTON STREET, SUITE 101, VENTURA, CA 93003, US",https://81185502-a042-41c9-939b-7058c39d16a3.gastro.prod.fhir.ema-api.com/fhir/r4/,2.872
+"Vision Eye Surgery Center, LLC","4050 Riverside Drive, Macon, GA 31210, US",https://4d132ae4-0d4d-4d17-84cb-ed57bdb76835.gastro.prod.fhir.ema-api.com/fhir/r4/,2.874
+Premier Anesthesiology Associates LLC,"1805 Honey Creek Cmns SE, Suite A, Conyers, GA 30013-5829, US",https://87e4df56-ce6c-4aed-befd-88a844cc3817.gastro.prod.fhir.ema-api.com/fhir/r4/,2.88
+Saline Health System,"1 Medical Park Dr, Benton, AR 72015, US",https://6efae273-0056-4cc2-b558-5edc4c77f1ef.gastro.prod.fhir.ema-api.com/fhir/r4/,2.881
+Pepper Road Endoscopy Center LLC,"22285 N Pepper Rd Suite 312, Lake Barrington, IL 60010-1521, US",https://88d9236d-a10d-4ff3-bf51-a8f9abdba09c.gastro.prod.fhir.ema-api.com/fhir/r4/,2.882
+Gastroenterology of Indianapolis PC,"1120 AAA Way, Suite A, Carmel, IN 46032-3210, US",https://b96a1dbf-0f18-4f18-b06c-bacc3e39eefb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.89
+Buffalo Trace Gastroenterology,"991 Medical Park Drive Ste 203, Maysville, KY 41056-8728, US",https://3a52f19c-c821-475c-a7a9-03a49e2cd0bd.gastro.prod.fhir.ema-api.com/fhir/r4/,2.90
+Optimal Digestive Care,"PO Box 1975, Frederick, MD 21702-0975, US",https://88bc61a2-f174-4bdc-b47d-fb528e7de1a6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.91
+Clinical Associates Ambulatory Surgery Center,"515 Fairmount Avenue, Towson, MD 21286, US",https://473f2732-169d-4f23-91f9-e4e52f26cccb.gastro.prod.fhir.ema-api.com/fhir/r4/,2.92
+UNC Health Care System,"100 Airport Road, Kinston, NC 28501, US",https://b85258b4-067b-4c28-bc85-a4f399391684.gastro.prod.fhir.ema-api.com/fhir/r4/,2.94
+Paul M Stoopack MD,"PO Box 702620, Lockbox 435, Tulsa, OK 74170-2620, US",https://db06c8bb-bcab-4bfc-bfc1-5a30ca5bc107.gastro.prod.fhir.ema-api.com/fhir/r4/,2.95
+"New York Endoscopy, LLP","2 Westchester Park Dr, Suite 104, West Harrison, NY 10604, US",https://8e75b39b-89ec-4114-9aa2-7ce622a88382.gastro.prod.fhir.ema-api.com/fhir/r4/,2.96
+"Zimmerman and Anfang, MD PC","3003 New Hyde Park Rd, Ste 306, New Hyde Park, NY 11042-1214, US",https://0a42842e-a410-4a79-9266-2361b47b62c8.gastro.prod.fhir.ema-api.com/fhir/r4/,2.97
+MAIN STREET MEDICAL SERVICES PLLC,"5516 MAIN STREET STE 1B, FLUSHING, NY 11355-5098, US",https://cff5ffb6-904b-415b-976b-53c020783eb6.gastro.prod.fhir.ema-api.com/fhir/r4/,2.99

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Valentin.app | Practice & Clinic Domain Scraper (US & Canada)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-background"></div>
+
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="brand-logo">
+        <div class="logo-icon">🏥</div>
+        <div class="logo-text">
+          <h1>Valentin<span>.Search</span></h1>
+          <p>Localized Practice & Clinic Domain Finder for United States & Canada</p>
+        </div>
+      </div>
+      <div class="header-badges">
+        <span class="badge badge-pulse"><span class="pulse-dot"></span> Valentin.app Geocoding Engine</span>
+        <span class="badge badge-uule">UULE v1 & v2 Precision</span>
+      </div>
+    </header>
+
+    <!-- Main Grid -->
+    <div class="dashboard-grid">
+      <!-- Left Panel: Input & Controls -->
+      <aside class="control-panel glass-card">
+        <div class="panel-section">
+          <h2>1. Target Country / Region</h2>
+          <div class="country-selector">
+            <label class="country-option active" data-country="US">
+              <input type="radio" name="country" value="US" checked>
+              <div class="country-card">
+                <span class="flag">🇺🇸</span>
+                <div class="country-info">
+                  <strong>United States</strong>
+                  <small>Google US (gl: US, hl: en)</small>
+                </div>
+              </div>
+            </label>
+            <label class="country-option" data-country="CA">
+              <input type="radio" name="country" value="CA">
+              <div class="country-card">
+                <span class="flag">🇨🇦</span>
+                <div class="country-info">
+                  <strong>Canada</strong>
+                  <small>Google CA (gl: CA, hl: en)</small>
+                </div>
+              </div>
+            </label>
+          </div>
+        </div>
+
+        <div class="panel-section">
+          <h2>2. Upload Practice CSV / Excel</h2>
+          <div class="upload-dropzone" id="dropzone">
+            <input type="file" id="fileInput" accept=".csv,.xlsx,.xls" hidden>
+            <div class="dropzone-content">
+              <div class="upload-icon">📄</div>
+              <p class="dropzone-title">Drag & drop your CSV or Excel file here</p>
+              <p class="dropzone-sub">or <button type="button" class="btn-browse" id="btnBrowse">Browse Files</button></p>
+              <div class="selected-file-info" id="selectedFileInfo" style="display:none;">
+                <span class="file-name" id="fileNameDisplay"></span>
+                <span class="file-remove" id="fileRemoveBtn">✕</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="sample-downloads">
+            <span>Download Sample CSV:</span>
+            <div class="sample-links">
+              <a href="/api/sample/us" download class="sample-btn">🇺🇸 US Sample</a>
+              <a href="/api/sample/ca" download class="sample-btn">🇨🇦 Canada Sample</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel-section advanced-toggle-sec">
+          <button type="button" class="btn-text-toggle" id="toggleAdvanced">⚙️ Advanced Settings ▾</button>
+          <div class="advanced-box" id="advancedBox" style="display:none;">
+            <div class="setting-row">
+              <label for="concurrencyInput">Concurrent Threads:</label>
+              <input type="number" id="concurrencyInput" min="1" max="10" value="3">
+            </div>
+            <div class="setting-row">
+              <label for="delayInput">Request Delay (ms):</label>
+              <input type="number" id="delayInput" min="0" max="2000" step="50" value="300">
+            </div>
+          </div>
+        </div>
+
+        <div class="panel-section">
+          <button type="button" class="btn-primary-action" id="btnStartScraping" disabled>
+            <span class="btn-icon">⚡</span> Start Finding Practice Domains
+          </button>
+        </div>
+
+        <hr class="divider">
+
+        <!-- Quick Single Search Box -->
+        <div class="panel-section single-search-sec">
+          <h2>⚡ Single Practice Search</h2>
+          <form id="singleSearchForm" class="single-form">
+            <input type="text" id="singlePracticeInput" placeholder="e.g. Aspen Dental or Altima Dental" required>
+            <button type="submit" class="btn-single-submit" id="btnSingleSearch">Search</button>
+          </form>
+          <div id="singleResultContainer" class="single-result-box" style="display:none;"></div>
+        </div>
+      </aside>
+
+      <!-- Right Panel: Live Stats & Results Table -->
+      <main class="results-panel glass-card">
+        <!-- Stats Summary Bar -->
+        <div class="stats-bar">
+          <div class="stat-card">
+            <div class="stat-icon icon-total">📋</div>
+            <div class="stat-data">
+              <span class="stat-value" id="statTotal">0</span>
+              <span class="stat-label">Total Practices</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon icon-processed">⏳</div>
+            <div class="stat-data">
+              <span class="stat-value" id="statProcessed">0</span>
+              <span class="stat-label">Processed</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon icon-found">✅</div>
+            <div class="stat-data">
+              <span class="stat-value text-success" id="statFound">0</span>
+              <span class="stat-label">Domains Found</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon icon-rate">🎯</div>
+            <div class="stat-data">
+              <span class="stat-value text-accent" id="statRate">0%</span>
+              <span class="stat-label">Success Rate</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Progress Bar -->
+        <div class="progress-section" id="progressSec" style="display:none;">
+          <div class="progress-info">
+            <span id="progressText">Processing batch with Valentin.app...</span>
+            <span id="progressPercent">0%</span>
+          </div>
+          <div class="progress-track">
+            <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+          </div>
+        </div>
+
+        <!-- Table Toolbar -->
+        <div class="table-toolbar">
+          <div class="search-box">
+            <input type="text" id="tableFilterInput" placeholder="🔍 Filter practice or domain...">
+          </div>
+          <div class="export-actions">
+            <button class="btn-export" id="btnExportCsv" disabled>
+              📥 Export CSV
+            </button>
+            <button class="btn-export" id="btnExportExcel" disabled>
+              📊 Export Excel
+            </button>
+          </div>
+        </div>
+
+        <!-- Results Table Container -->
+        <div class="table-container">
+          <table class="results-table" id="resultsTable">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Practice Name</th>
+                <th>Country</th>
+                <th>Cleaned Name</th>
+                <th>Domain</th>
+                <th>Website URL</th>
+                <th>Confidence</th>
+                <th>Source</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody">
+              <tr class="empty-row">
+                <td colspan="9">
+                  <div class="empty-state">
+                    <div class="empty-icon">📁</div>
+                    <p class="empty-title">No search results yet</p>
+                    <p class="empty-desc">Upload your CSV with practice names or run a single search to see real-time results.</p>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

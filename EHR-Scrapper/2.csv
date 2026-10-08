@@ -1,0 +1,813 @@
+domain,Detected_Domain,EHR_Name,EHR_Category,Patient_Portal_URL,Portal_Status,Confidence,Detection_Method,Portal_Anchor_Text
+cooperfamilymedical.com,cooperfamilymedical.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://26999.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+themercyministries.org,themercyministries.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://26696.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+greenspringmed.com,greenspringmed.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw.eclinicalweb.com/gim/jsp/jspnew/preRegistration_new.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),New Patients
+vivasaludclinic.com,vivasaludclinic.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://27555.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+thunderortho.com,thunderortho.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://27835.portal.athenahealth.com/,Found,High,Subpage Crawl (https://thunderortho.com/patientportal/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),HERE
+physiciansfootcare.com,physiciansfootcare.com,Not Found,,,Site Unreachable,None,Connection Failed,
+medcare.plus,medcare.plus,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+catchmobilehealth.com,catchmobilehealth.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.catchmobilehealth.com/,Found,High,Direct Subdomain (https://mychart.catchmobilehealth.com),Portal Subdomain
+morgansilldorffmd.com,morgansilldorffmd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rivercityministry.org,rivercityministry.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+osicda.com,osicda.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://28236.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+palomapc.com,palomapc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+weightingoldwellness.com,weightingoldwellness.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://28527.portal.athenahealth.com/,Found,High,Subpage Crawl (https://weightingoldwellness.com/patient-portal) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Log IN
+healthworx.com,healthworx.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+birdseyemedical.com,birdseyemedical.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+hillsboroclinic.com,hillsboroclinic.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://28320-1.portal.athenahealth.com/,Found,High,Subpage Crawl (https://hillsboroclinic.com/portal-login/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),ACCESS THE PATIENT PORTAL HERE
+moderaclinic.com,moderaclinic.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://28297-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+westchesterpodiatric.com,westchesterpodiatric.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pigaprimarycare.com,pigaprimarycare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://28553.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+dimerhealth.com,dimerhealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+joshuanewtonpac.com,joshuanewtonpac.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,http://29091.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+sunflowermedicalclinic.com,sunflowermedicalclinic.com,Not Found,,,Site Unreachable,None,Connection Failed,
+hormonalwellbeing.com,hormonalwellbeing.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29174.portal.athenahealth.com/,Found,High,Subpage Crawl (https://hormonalwellbeing.com/patient-portal/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Setup Your Portal
+bewellprimarycare.com,bewellprimarycare.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://www.healowpay.com/HealowPay/jsp/healow/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Pay Bill
+honestmedicalgroup.com,honestmedicalgroup.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+thebonehealthclinic.com,thebonehealthclinic.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29245.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+kemellhealth.com,kemellhealth.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29249.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patients Portal
+neortho.com,neortho.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29213-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+ascendingmedicine.com,ascendingmedicine.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+hopeprimarycare.com,hopeprimarycare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29255.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Click to Access Patient Portal
+redriverfamilypractice.com,redriverfamilypractice.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29492.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),PATIENT PORTAL
+capitolpt.com,capitolpt.com,Not Found,,,Site Unreachable,None,Connection Failed,
+totalcare.us,totalcare.us,Custom / Proprietary Portal,,https://totalcare.us/patient-forms,Generic Portal Found,Medium,Anchor Keyword: '→Patient Portal',→Patient Portal
+landerfreeclinic.org,landerfreeclinic.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ripplcare.com,ripplcare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29558.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient portal
+infectionsmanaged.com,infectionsmanaged.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://28783.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),request a medical appointment
+toourshores.org,toourshores.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,http://29590.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+mercyurgentbilling.com,mercyurgentbilling.com,Not Found,,,Site Unreachable,None,Connection Failed,
+kwanyinhealingarts.com,kwanyinhealingarts.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29632-1.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Kwan Yin Athena Portal
+optimumwellnessmn.com,optimumwellnessmn.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+footanklecenter.com,footanklecenter.com,ModMed (EMA / Modernizing Medicine),"Specialty EHR (Derm, Gastro, Ortho, Ophthalmology, ENT)",https://usfas.ema.md/ema/pay/Nebraska#/pm/payfac/pay,Found,High,Direct URL (ModMed (EMA / Modernizing Medicine)),Pay Online
+alldaymedicalcare.com,alldaymedicalcare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29745-1.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+seniorsrising.us,seniorsrising.us,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+riograndemedicine.com,riograndemedicine.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://30239.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+ovationobgyn.com,ovationobgyn.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29540.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+tworoadswellnessclinic.com,tworoadswellnessclinic.com,TherapyNotes,Behavioral Health EHR,https://www.therapyportal.com/p/tworoads/,Found,High,Direct URL (TherapyNotes),Illinois - Mental Health Therapy Client Portal
+hopeonhavenhill.org,hopeonhavenhill.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+familytreehealthcare.com,familytreehealthcare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+epfh.org,epfh.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://30308-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+whds.com,whds.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://www.afcind.com/custom-packaging-private-labeling,Found,High,Direct Subdomain (https://mychart.whds.com),Portal Subdomain
+respairsleep.com,respairsleep.com,Not Found,,,Site Unreachable,None,Connection Failed,
+herzogvitalitycenter.com,herzogvitalitycenter.com,Not Found,,,Site Unreachable,None,Connection Failed,
+hellosage.com,hellosage.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+cardiavision.com,cardiavision.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://www.athenahealth.com/patient-login,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+archesmed.com,archesmed.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://31278-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+health-worx.co.za,health-worx.co.za,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+twentyonemedical.com,twentyonemedical.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+vytalus.com,vytalus.com,Custom / Proprietary Portal,,https://myidentity.platform.athenahealth.com/oauth2/auset0ja9xZ2Hniep296/v1/authorize?aud=https%3A%2F%2Fathenanet%2Eathenahealth%2Ecom%2F30157%2F1%2Ffhir%2Fr4&client%5Fid=0oaku1tngsTH20pA1296&idp=&nonce=4885611784c5c70d16b6d3b598ebfe35041e1f159a3248226f9815bf02624ced&prompt=&redirect%5Furi=https%3A%2F%2Foauth%2Eportal%2Eathenahealth%2Ecom%2Foauthresponse%2Ephp&response%5Ftype=code&scope=openid%20email%20communicator%2Eexternal%5Faccounts%2Eread&state=%7B%22IDENTITYPROVIDER%22%3A%22patient%5Fidentity%22%2C%22LANGUAGE%22%3A%22en%22%2C%22COMMUNICATORBRANDID%22%3A%221%22%2C%22PORTALREDIRECTURL%22%3A%22https%3A%5C%2F%5C%2F30157%2D1%2Eportal%2Eathenahealth%2Ecom%5C%2F%22%2C%22ANTIFORGERYTOKEN%22%3A%22888350d079a29ee28ce13f084704b37db032e179c70e211e9fecd7680a3ca0c3%22%2C%22PRACTICEID%22%3A%2230157%22%7D,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+therenewalpoint.com,therenewalpoint.com,Custom / Proprietary Portal,,https://www.therenewalpoint.com/patient-portal/,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+springfieldurgentcare.com,springfieldurgentcare.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.springfieldurgentcare.com/,Found,High,Direct Subdomain (https://mychart.springfieldurgentcare.com),Portal Subdomain
+prairieclinic.com,prairieclinic.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+orchidhealth.com,orchidhealth.com,Custom / Proprietary Portal,,https://portal.orchidhealth.com/risk-calculator,Generic Portal Found,Medium,Anchor Keyword: 'Risk Calculator',Risk Calculator
+ascendmedical.com,ascendmedical.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://30437-1.portal.athenahealth.com/,Found,High,Subpage Crawl (https://www.ascendmedical.com/patient-portal) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Login
+magnoliaobgyn.com,magnoliaobgyn.com,Not Found,,,Site Unreachable,None,Connection Failed,
+radianthealth.com,radianthealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+intuitivepe.com,intuitivepe.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nivahealth.com,nivahealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+radianthealthsaunas.com,radianthealthsaunas.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+gabbi.com,gabbi.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+theblendinstitute.com,theblendinstitute.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32066.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Login
+highlandhealthdirect.com,highlandhealthdirect.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://highlandhealthcare.com,Found,High,Direct Subdomain (https://mychart.highlandhealthdirect.com),Portal Subdomain
+libertasfamilymedicine.com,libertasfamilymedicine.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32191.portal.athenahealth.com/,Found,High,Subpage Crawl (https://www.libertasfamilymedicine.com/portal) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Portal Login
+coastalortho.com,coastalortho.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+roccosremedy.com,roccosremedy.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://identity.athenahealth.com/oauth2/auset0ja9xZ2Hniep296/v1/authorize?client_id=0oawxcmh2iNaGSIOt297&code_challenge=Jrxg-8YAPVeaUD04Qu8V-gYyffN__rza6rRqXfBZwSg&code_challenge_method=S256&nonce=PRSU5XQte9Wg6AiqEvrWdHdcWOYXnsBEqlOlU3ZT0068VdCSorod0XPn28FzOthA&prompt=&redirect_uri=https%3A%2F%2Fmyidentity.platform.athenahealth.com%2Foauth2%2Fv1%2Flogin_callback_lwa_spa&response_type=code&state=%7B%22workflow%22%3A%22Authorize%22%2C%22originalRedirectUri%22%3A%22https%3A%2F%2Fmyidentity.platform.athenahealth.com%2Foauth2%2Fauset0ja9xZ2Hniep296%2Fv1%2Fauthorize%3Fclient_id%3D0oa5jhhy36lw4YE6S297%26code_challenge%3DMNMX6A_xSyP9WgzAnFOy0OTVHeVyYXGk6pF1zj1re3Y%26code_challenge_method%3DS256%26nonce%3Da3gyvjGiOsn4M5qIeOS6wg2cI9FBd1pn9Bv3JrOfge93PJvgZozw9exC1asFxaEB%26redirect_uri%3Dhttps%253A%252F%252Fpxppapp.px.athena.io%252Flogin%26response_type%3Dcode%26state%3D06YPMdE4QUlRHKhZlravCjHrJdeYDHKveg6hhjX1zDDjT8ZI2L6WkPfzW9oSOJFL%26scope%3Dopenid%2Bemail%2Bcommunicator.external_accounts.read%26aud%3Dhttps%253A%252F%252Fathenanet.athenahealth.com%252Ffhir%252Fr4%22%2C%22fhir%22%3Afalse%2C%22testApp%22%3Anull%2C%22authServerId%22%3A%22auset0ja9xZ2Hniep296%22%2C%22idp%22%3Anull%2C%22prompt%22%3Anull%2C%22login_hint%22%3Anull%2C%22preAuthnRequestPayload%22%3A%22eyJyZWRpcmVjdFRvT2hzd0ZvclByZUF1dGgiOnRydWUsIm9hdXRoQ29kZUNoYWxsZW5nZSI6IkpyeGctOFlBUFZlYVVEMDRRdThWLWdZeWZmTl9fcnphNnJScVhmQlp3U2ciLCJmaGlyIjpmYWxzZSwiaWRwIjpudWxsfQ%3D%3D%22%7D&scope=openid%20athena%2Fuser%2FIdentity.Demographics.read%20athena%2Fuser%2FIdentity.Account.Factors.write%20athena%2Fuser%2FIdentity.Account.Invites.write%20athena%2Fuser%2FIdentity.Account.Profile.write%20athena%2Fuser%2FIdentity.Account.Profile.read%20athena%2Fuser%2FIdentity.LwaConfig.PostAuthn.read%20athena%2Fuser%2FIdentity.Account.Profile.delete%20okta.myAccount.phone.read%20okta.myAccount.phone.manage,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),PATIENT PORTAL
+rejuvmedical.com,rejuvmedical.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32275-1.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal Login
+lhpsych.com,lhpsych.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32088-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Athena Health
+rigbyperformancemedicine.com,rigbyperformancemedicine.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+bodyvitalitynow.com,bodyvitalitynow.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+urologygeorgia.com,urologygeorgia.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw16.eclinicalweb.com/portal6783/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+cpsychiatricsolutions.com,cpsychiatricsolutions.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ajrcso.com,ajrcso.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32494-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+greywoodhealth.com,greywoodhealth.com,Not Found,,,Site Unreachable,None,Connection Failed,
+janhestermd.com,janhestermd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+transformationplus.com,transformationplus.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+kidneygroup.com,kidneygroup.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+previvoredge.com,previvoredge.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+radiant-health.co.nz,radiant-health.co.nz,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+themorrisonclinic.com,themorrisonclinic.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://www.healowpay.com/HealowPay/jsp/healow/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Pay
+capricm.com,capricm.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+previvor.care,previvor.care,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+stallant.com,stallant.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://33456.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Log InLog In
+stallanthealth.com,stallanthealth.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://33456.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Log InLog In
+astiahealth.com,astiahealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+morrisonclinic.com,morrisonclinic.com,Practice Fusion (Patient Fusion),Cloud EHR,https://www.patientfusion.com,Found,High,Direct URL (Practice Fusion (Patient Fusion)),MEDICAL PORTAL TO DOWNLOAD RECORDS
+evolvehealthcare.com,evolvehealthcare.com,AdvancedMD,Cloud Practice Management & EHR,https://patientportal.advancedmd.com/134845/account/logon,Found,High,Direct URL (AdvancedMD),Patient Portal Login
+tier1therapy.com,tier1therapy.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+phoenixhealthcarellc.com,phoenixhealthcarellc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+cercanoscare.com,cercanoscare.com,Custom / Proprietary Portal,,https://contigo.equipo.io/,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+mackeyfamilypractice.com,mackeyfamilypractice.com,Allscripts / Veradigm (FollowMyHealth),EHR & Patient Engagement,https://jpts.followmyhealth.com/Login/App/PatientAccess?authproviders=16#/Index,Found,High,Direct URL (Allscripts / Veradigm (FollowMyHealth)),Allscripts / Veradigm (FollowMyHealth)
+homemd.com,homemd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sundaramed.com,sundaramed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+k50ventures.com,k50ventures.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+whspmedical.com,whspmedical.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+advgyn.com,advgyn.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+naborly.net,naborly.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+imge.com,imge.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+graceycare.com,graceycare.com,Not Found,,,Site Unreachable,None,Connection Failed,
+credahealth.com,credahealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+calhounwomenscenter.com,calhounwomenscenter.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+alliancefamilyservices.org,alliancefamilyservices.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+guardianmedicalusa.com,guardianmedicalusa.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+fmconsulting.com,fmconsulting.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+efmpc.com,efmpc.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://1334-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Portal
+donaldsonplasticsurgery.com,donaldsonplasticsurgery.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+outlookeyecare.com,outlookeyecare.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.outlookeyecare.com/,Found,High,Direct Subdomain (https://mychart.outlookeyecare.com),Portal Subdomain
+townsquarehealth.com,townsquarehealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+cfvi.net,cfvi.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+meliorahealthcare.com,meliorahealthcare.com,Not Found,,,Site Unreachable,None,Connection Failed,
+mifertility.com,mifertility.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+buyaustralianproperties.com.au,buyaustralianproperties.com.au,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+oicinc.com,oicinc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sparksfamily.us,sparksfamily.us,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nimbushealth.com,nimbushealth.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://34062.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient portal↗
+commonwealth-dentistry.com,commonwealth-dentistry.com,NexHealth,Dental & Medical Patient Experience,https://app.nexhealth.com/appt/commonwealthdentistry,Found,High,Direct URL (NexHealth),Schedule Online
+centralmarylandeye.com,centralmarylandeye.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+cmgdoctor.com,cmgdoctor.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://34810-2.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+millenniumeyecare.com,millenniumeyecare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+oneskyfamilymedicine.com,oneskyfamilymedicine.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://4621-10.portal.athenahealth.com/,Found,High,Subpage Crawl (https://www.oneskyfamilymedicine.com/patient-portal) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),OSFM PATIENT PORTAL
+drbobsparks.com,drbobsparks.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+neuropaxclinic.com,neuropaxclinic.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+prestigehcm.com,prestigehcm.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+liveoakestateplanning.com,liveoakestateplanning.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+kahnconsultinginc.com,kahnconsultinginc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sonifamilypractice.com,sonifamilypractice.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://6807-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+camdenhealth.org,camdenhealth.org,Not Found,,,Site Unreachable,None,Connection Failed,
+signespine.com,signespine.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://18325.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+hudsoneye.com,hudsoneye.com,ModMed (EMA / Modernizing Medicine),"Specialty EHR (Derm, Gastro, Ortho, Ophthalmology, ENT)",https://prismvisiongroup.ema.md/ema/PatientLogin.action,Found,High,Direct URL (ModMed (EMA / Modernizing Medicine)),Patient Portal
+catawbawomenscenter.com,catawbawomenscenter.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://7773-34.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+highlandscenterforwomen.com,highlandscenterforwomen.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+whadwc.com,whadwc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+mediciortho.com,mediciortho.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://8922-3.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+vascularcaregrp.com,vascularcaregrp.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://24391.portal.athenahealth.com/,Found,High,Subpage Crawl (https://thevascularcaregroup.com/patient-portals/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),View clinical records
+medicimed.com,medicimed.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://8922-3.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+liveoaklg.com,liveoaklg.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+gyngeorgia.com,gyngeorgia.com,Not Found,,,Site Unreachable,None,Connection Failed,
+uconnfertility.com,uconnfertility.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://10256-1.portal.athenahealth.com/,Found,High,Subpage Crawl (https://uconnfertility.com/patient-portal/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Pay via Athena
+caringcenterforwomen.com,caringcenterforwomen.com,Not Found,,,Site Unreachable,None,Connection Failed,
+mfmhealth.com,mfmhealth.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://9808-2.portal.athenahealth.com/?_gl=1*4w1cya*_ga*MTQ1NTA5MTk1NC4xNzM1NTgxMDkx*_ga_5C27S4RZ22*MTczNTU5MDY5NC4zLjEuMTczNTU5MzE2My4wLjAuMA..,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Portal Login
+prestigehcmgmt.com,prestigehcmgmt.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+bellavidafp.com,bellavidafp.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://20004-5.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+willisclinic.com,willisclinic.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://15827.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),AthenaHealth (AthenaPatient / Communicator)
+cloudninecare.com,cloudninecare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+medicalcarecenter.com,medicalcarecenter.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+choices.org,choices.org,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://choices.org/,Found,High,Direct Subdomain (https://mychart.choices.org),Portal Subdomain
+cosmeticsmd.com,cosmeticsmd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+midfamilymed.com,midfamilymed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+onpointid.com,onpointid.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+veritashealthpllc.com,veritashealthpllc.com,Not Found,,,Site Unreachable,None,Connection Failed,
+privatemds.com,privatemds.com,DrChrono (OnPatient),Cloud EHR,https://onpatient.com/,Found,High,Direct URL (DrChrono (OnPatient)),For Patients
+chiropractorpgh.com,chiropractorpgh.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+spinemedli.com,spinemedli.com,DrChrono (OnPatient),Cloud EHR,https://www.onpatient.com/,Found,High,Direct URL (DrChrono (OnPatient)),Patient Portal
+hopemark.com,hopemark.com,Not Found,,,Site Unreachable,None,Connection Failed,
+primepsychiatrymd.com,primepsychiatrymd.com,DrChrono (OnPatient),Cloud EHR,https://www.onpatient.com/login/,Found,High,Direct URL (DrChrono (OnPatient)),Patient Portal
+eliteobgynpb.com,eliteobgynpb.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rowancardiology.com,rowancardiology.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://31732-1.portal.athenahealth.com,Found,High,Subpage Crawl (https://www.rowancardiology.com/about-7) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+allianceobgyn.org,allianceobgyn.org,ModMed (EMA / Modernizing Medicine),"Specialty EHR (Derm, Gastro, Ortho, Ophthalmology, ENT)",https://allianceobgyn.ema.md/ema/pay/Hainesport,Found,High,Direct URL (ModMed (EMA / Modernizing Medicine)),Online Payments
+shalomaustin.org,shalomaustin.org,Not Found,,,Site Unreachable,None,Connection Failed,
+thevascularexperts.com,thevascularexperts.com,Phreesia,Patient Intake & Registration,https://patient.phreesia.com/resources/buttons/images/bgFormPymtMed_trans.png,Found,High,HTML/JS Payload (Phreesia),Embedded Page URL
+improvingpain.com,improvingpain.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://24166-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal/Payment
+ihawmd.com,ihawmd.com,Custom / Proprietary Portal,,https://internalhealing.md-hq.com/,Generic Portal Found,Medium,Anchor Keyword: 'Patient Login',Patient Login
+compasspainandwellness.com,compasspainandwellness.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+northlakespain.com,northlakespain.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+northtexaskidney.com,northtexaskidney.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://23918-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal / Bill Pay
+piic.org,piic.org,Not Found,,,Site Unreachable,None,Connection Failed,
+katieostrommd.com,katieostrommd.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://22546.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+lincolnfamilypractice.com,lincolnfamilypractice.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+glaucomacenter.com,glaucomacenter.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ogeecheeobgyn.com,ogeecheeobgyn.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://24280.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+njperinatal.com,njperinatal.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32861-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+dallasarthritiscenter.com,dallasarthritiscenter.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sanapsychiatric.com,sanapsychiatric.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+os.health,os.health,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw52.eclinicalweb.com/portal6061/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient
+cedarridgefammed.com,cedarridgefammed.com,Not Found,,,Site Unreachable,None,Connection Failed,
+potentrx.com,potentrx.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://6453-1.portal.athenahealth.com/,Found,High,Subpage Crawl (https://www.potentrx.com/portal) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),patient portal
+carafem.org,carafem.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://10306.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),My carafem portal
+foodpackltd.co.uk,foodpackltd.co.uk,Not Found,,,Site Unreachable,None,Connection Failed,
+oppj.org,oppj.org,Not Found,,,Site Unreachable,None,Connection Failed,
+nwurology.com,nwurology.com,Not Found,,,Site Unreachable,None,Connection Failed,
+memphisurology.com,memphisurology.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://1407.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Online Billpay
+replyobgyn.com,replyobgyn.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://www.replyfertility.com/,Found,High,Direct Subdomain (https://mychart.replyobgyn.com),Portal Subdomain
+atxortho.com,atxortho.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://11179.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+queencitywomenshealth.com,queencitywomenshealth.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://www.queencitywomenshealth.com/,Found,High,Direct Subdomain (https://mycslink.queencitywomenshealth.com),Portal Subdomain
+ponceprimarycare.com,ponceprimarycare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://9773.portal.athenahealth.com/,Found,High,Subpage Crawl (https://ponceprimarycare.com/patient-portal) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Go to Patient Portal
+medvcast.com,medvcast.com,Not Found,,,Site Unreachable,None,Connection Failed,
+millervein.com,millervein.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://12478.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+fwhuston.com,fwhuston.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://11418.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+rosscenter.com,rosscenter.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+eagleviewhealth.org,eagleviewhealth.org,NextGen Healthcare (NextMD),Ambulatory EHR,https://www.nextmd.com/ud2/Login/Login.aspx,Found,High,Direct URL (NextGen Healthcare (NextMD)),NextGen Healthcare (NextMD)
+maerie.org,maerie.org,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mycslink.maerie.org:443/login_up.php,Found,High,Direct Subdomain (https://mycslink.maerie.org),Portal Subdomain
+legendmedical.us,legendmedical.us,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+victoriaeyecenter.net,victoriaeyecenter.net,Not Found,,,Site Unreachable,None,Connection Failed,
+hpcdrs.com,hpcdrs.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+smasatx.com,smasatx.com,NextGen Healthcare (NextMD),Ambulatory EHR,https://www.nextmd.com/ud2/Login/Login.aspx,Found,High,Subpage Crawl (https://www.smasatx.com/patient-portal) -> Direct URL (NextGen Healthcare (NextMD)),HERE
+forrestperformance.com,forrestperformance.com,Custom / Proprietary Portal,,https://jobs.crelate.com/portal/fpgrec,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+neosurgicalgroup.com,neosurgicalgroup.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+mtnviewsurgical.com,mtnviewsurgical.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://15573.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),LOG IN TO PATIENT PORTAL
+excelcardiaccare.com,excelcardiaccare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://7537.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+horizoneyecare.com,horizoneyecare.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://sharandimd.com/,Found,High,Direct Subdomain (https://mychart.horizoneyecare.com),Portal Subdomain
+bethelfamilymedicine.com,bethelfamilymedicine.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://111.portal.athenahealth.com/?section=welcome&fullsite=1,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+myguardian.care,myguardian.care,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+desertridgefp.com,desertridgefp.com,NextGen Healthcare (NextMD),Ambulatory EHR,https://www.nextmd.com/ud2/Login/Login.aspx,Found,High,Subpage Crawl (https://desertridgefp.com/patient-portal-2/) -> Direct URL (NextGen Healthcare (NextMD)),Make An Appointment
+mymedclinic.us,mymedclinic.us,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+townisp.com,townisp.com,Not Found,,,Site Unreachable,None,Connection Failed,
+crowleycare.com,crowleycare.com,Not Found,,,Site Unreachable,None,Connection Failed,
+santamonicasleep.com,santamonicasleep.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://23448.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+empowerhealthormond.com,empowerhealthormond.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+elitesportswaco.com,elitesportswaco.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.elitesportswaco.com/,Found,High,Direct Subdomain (https://mychart.elitesportswaco.com),Portal Subdomain
+mountaininsurance.com,mountaininsurance.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+raderlawgroup.com,raderlawgroup.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rohancardiology.com,rohancardiology.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,http://27640.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+southsidepain.com,southsidepain.com,Not Found,,,Site Unreachable,None,Connection Failed,
+pcmtrials.com,pcmtrials.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pinnacleorthowf.com,pinnacleorthowf.com,Custom / Proprietary Portal,,http://patientaccesspinnacleorthowf.md-hq.com/,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+bewellfc.com,bewellfc.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://22341.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+foodpantry.org,foodpantry.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+steadystridesmd.com,steadystridesmd.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://24618.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal Link
+mendingmh.com,mendingmh.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://31911.portal.athenahealth.com/?section=landing,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Pay My Bill
+alpinesurgical.com,alpinesurgical.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.alpinesurgical.com/404.html,Found,High,Direct Subdomain (https://mychart.alpinesurgical.com),Portal Subdomain
+lighthousefamilymedicine.com,lighthousefamilymedicine.com,Custom / Proprietary Portal,,https://mycw124.ecwcloud.com/portal17260/jsp/login.jsp,Generic Portal Found,Medium,Anchor Keyword: 'click here!',click here!
+yourwellnesssources.com,yourwellnesssources.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32304.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+footanklecenteriowa.com,footanklecenteriowa.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+melsleep.com,melsleep.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://20290.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Online Bill Pay
+dcol.net,dcol.net,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://23550.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+mendpoverty.org,mendpoverty.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+bestcareobgyn.com,bestcareobgyn.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://1946.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+ramoscenter.com,ramoscenter.com,Not Found,,,Site Unreachable,None,Connection Failed,
+hkbsurgery.com,hkbsurgery.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+janigianretina.com,janigianretina.com,Custom / Proprietary Portal,,https://www.mypatientvisit.com,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+wagonerfhc.com,wagonerfhc.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,http://27888.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),AthenaHealth (AthenaPatient / Communicator)
+welcomehealth.net,welcomehealth.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ovationhand.com,ovationhand.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+smoc-pt.com,smoc-pt.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://24174-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient portal
+missoulafamilymed.com,missoulafamilymed.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://20386.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+maxeylaw.com,maxeylaw.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+vision144.com,vision144.com,Not Found,,,Site Unreachable,None,Connection Failed,
+kanehallbarry.com,kanehallbarry.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29952.portal.athenahealth.com/,Found,High,Subpage Crawl (https://kanehallbarry.com/patient-portal/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Login | Sign up
+bluecactusneuro.com,bluecactusneuro.com,Custom / Proprietary Portal,,https://ecarehub.health/OQ02,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+betterwaytomeet.com,betterwaytomeet.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+jbplegal.com,jbplegal.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+kcfoot.com,kcfoot.com,Not Found,,,Site Unreachable,None,Connection Failed,
+austinneuromuscle.com,austinneuromuscle.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://13067.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+digwellnesscenter.com,digwellnesscenter.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+digfamily.co,digfamily.co,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+elmanretina.com,elmanretina.com,Not Found,,,Site Unreachable,None,Connection Failed,
+personalhealthmd.com,personalhealthmd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+girltalkgyn.com,girltalkgyn.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://5297.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+baby4me.net,baby4me.net,Not Found,,,Site Unreachable,None,Connection Failed,
+embryo.net,embryo.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+springobgyn.com,springobgyn.com,Not Found,,,Site Unreachable,None,Connection Failed,
+imail.org,imail.org,Not Found,,,Site Unreachable,None,Connection Failed,
+tlbstrategic.com,tlbstrategic.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+furlongvision.com,furlongvision.com,Not Found,,,Site Unreachable,None,Connection Failed,
+sfrheumatology.com,sfrheumatology.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+behrmanfamily.com,behrmanfamily.com,Not Found,,,Site Unreachable,None,Connection Failed,
+clarksvillepulmonary.com,clarksvillepulmonary.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://apps.apple.com/us/app/athenapatient/id1644169294,Found,High,Anchor Text Match (AthenaHealth (AthenaPatient / Communicator)),AthenaPatient IOS
+midwiferycare.org,midwiferycare.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+hampsteadfamilymedicine.com,hampsteadfamilymedicine.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://8277-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Schedule Appointment Now
+allergyasthmacenter.com,allergyasthmacenter.com,Custom / Proprietary Portal,,https://aac.imscare.com/,Generic Portal Found,Medium,Anchor Keyword: 'PATIENT PORTAL',PATIENT PORTAL
+northbeachvascular.com,northbeachvascular.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sawyereyecenter.com,sawyereyecenter.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://9049.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+healingunleashed.com,healingunleashed.com,Custom / Proprietary Portal,,https://healingunleashed.practicebetter.io/#/signin,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+foothillsneurology.com,foothillsneurology.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+harmonyparkfamilymedicine.com,harmonyparkfamilymedicine.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://21229.portal.athenahealth.com/?CSRFPROTECT=8985b7bf588fc2a5d16a2b6841002affce50d5fa7e78918cabb6170f363d18a1,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+expressfamilyclinic.com,expressfamilyclinic.com,Not Found,,,Site Unreachable,None,Connection Failed,
+cyn3rgy.com,cyn3rgy.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pacificpsychiatry.com,pacificpsychiatry.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://23821.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+bayareaobgyn.com,bayareaobgyn.com,Kareo / Tebra,Independent Practice Cloud EHR,https://www.tebra.com/marketing/practice-websites/,Found,High,Direct URL (Kareo / Tebra),TEBRA
+matter.health,matter.health,Custom / Proprietary Portal,,https://portal.matter.health/,Generic Portal Found,Medium,Anchor Keyword: 'Log in to our member portal',Log in to our member portal
+evansmedical.net,evansmedical.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ymcasteuben.org,ymcasteuben.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+posterityhealth.com,posterityhealth.com,Not Found,,,Site Unreachable,None,Connection Failed,
+tridentpaincenter.com,tridentpaincenter.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw36.eclinicalweb.com/portal4019/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+pmrhealthcare.com,pmrhealthcare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+kellumphysicianpartners.com,kellumphysicianpartners.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rowandiagnostic.com,rowandiagnostic.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw14.eclinicalweb.com/portal747/jsp/100mp/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+thac.us,thac.us,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32129-1.portal.athenahealth.com/,Found,High,Subpage Crawl (https://texashandandarmcenter.com/patient-registration-appointment-information/#portals) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),"Texas Hand and Arm Center
+Patient Portal"
+allergyandasthma.com,allergyandasthma.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://www.mychartatradychildrens.org/mychart/Authentication/Login,Found,High,Direct URL (Epic (MyChart / Patient Gateway / My CS-Link)),Rady Children's MyChart
+newportheart.com,newportheart.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw21.eclinicalweb.com/portal1574/jsp/100mp/login_email.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Link to Patient Portal
+valleyhealthcolumbus.com,valleyhealthcolumbus.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw31.eclinicalweb.com/portal3283/jsp/100mp/login_otp.jsp#section5,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),PAY YOUR BILL
+bayareaallergy.com,bayareaallergy.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+corvallisfamilymedicine.com,corvallisfamilymedicine.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://corvallisfamilymedicine.com/,Found,High,Direct Subdomain (https://mychart.corvallisfamilymedicine.com),Portal Subdomain
+liveoakcardiology.com,liveoakcardiology.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sellwoodpodiatry.com,sellwoodpodiatry.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://8417.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+northmasonrfa.com,northmasonrfa.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+chatugefp.org,chatugefp.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://33179-1.portal.athenahealth.com/,Found,High,Subpage Crawl (https://chatugefp.org/portal/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),New Patient Portal with Athena-Click Here
+positiveassistance.org,positiveassistance.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+svdpmission.org,svdpmission.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+southoakcapital.com,southoakcapital.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+flowstatepsych.com,flowstatepsych.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://31129.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+veinandlaser.org,veinandlaser.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+amscardiology.com,amscardiology.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://healowpay.com/HealowPay/jsp/healow/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),PAY MY BILL
+elevatewindows.net,elevatewindows.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+skinwellness.com,skinwellness.com,Not Found,,,Site Unreachable,None,Connection Failed,
+hfsa.org,hfsa.org,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.hfsa.org:443/login_up.php,Found,High,Direct Subdomain (https://mychart.hfsa.org),Portal Subdomain
+evercaremedical.com,evercaremedical.com,Not Found,,,Site Unreachable,None,Connection Failed,
+mackoul.com,mackoul.com,Custom / Proprietary Portal,,https://mackoul.com/client-portal/,Generic Portal Found,Medium,Anchor Keyword: 'Client Portal',Client Portal
+soundmedicalweightloss.com,soundmedicalweightloss.com,Not Found,,,Site Unreachable,None,Connection Failed,
+districtprimarycare.com,districtprimarycare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://14056.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),PATIENT PORTAL
+benhurmd.com.br,benhurmd.com.br,Not Found,,,Site Unreachable,None,Connection Failed,
+wpcc.obria.org,wpcc.obria.org,Not Found,,,Site Unreachable,None,Connection Failed,
+awomanstime.com,awomanstime.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://18168.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+thrivefamilymedicine.com,thrivefamilymedicine.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://18194.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Login
+pgccounseling.com,pgccounseling.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+suncitykidney.com,suncitykidney.com,Not Found,,,Site Unreachable,None,Connection Failed,
+expotechinc.com,expotechinc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+clark-fox.com,clark-fox.com,Not Found,,,Site Unreachable,None,Connection Failed,
+indycarehealth.com,indycarehealth.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://18181.portal.athenahealth.com/,Found,High,Subpage Crawl (https://www.indycarehealth.com/kp-patient-portal) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+tucpc.net,tucpc.net,Not Found,,,Site Unreachable,None,Connection Failed,
+alabamafreeclinic.org,alabamafreeclinic.org,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mycslink.alabamafreeclinic.org/login_up.php,Found,High,Direct Subdomain (https://mycslink.alabamafreeclinic.org),Portal Subdomain
+redriverent.com,redriverent.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw29.eclinicalweb.com/portal2938/jsp/100mp/login_otp.jsp,Found,High,HTML/JS Payload (eClinicalWorks (Healow / mycw)),Embedded Page URL
+clineva.com,clineva.com,Custom / Proprietary Portal,,https://clineva.com/patient-portal,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+lincolnurgentcare.com,lincolnurgentcare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+elevatepsychiatry.com,elevatepsychiatry.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://18528.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+jaimesmedicalgroup.com,jaimesmedicalgroup.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.jaimesmedicalgroup.com/,Found,High,Direct Subdomain (https://mychart.jaimesmedicalgroup.com),Portal Subdomain
+savagemed.com,savagemed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+dolhunclinic.com,dolhunclinic.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw46.eclinicalweb.com/portal5404/jsp/100mp/login_otp.jsp,Found,High,Subpage Crawl (https://www.dolhunclinic.com/patient-portal) -> Direct URL (eClinicalWorks (Healow / mycw)),Click Here
+menshealthboston.com,menshealthboston.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw41.eclinicalweb.com/portal4614/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+rheumatologycarecenter.com,rheumatologycarecenter.com,Not Found,,,Site Unreachable,None,Connection Failed,
+vitalheartandvein.com,vitalheartandvein.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw52.eclinicalweb.com/portal6079/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+inhealthmd.com,inhealthmd.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://4290-2.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Current patient
+bradleyfreeclinic.com,bradleyfreeclinic.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+southshorenephrology.com,southshorenephrology.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.eclinicalworks.com/SouthShoreNephrology,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+nationalsinus.com,nationalsinus.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw49.eclinicalweb.com/portal5633/jsp/100mp/login_otp.jsp,Found,High,HTML/JS Payload (eClinicalWorks (Healow / mycw)),Embedded Page URL
+floridapainmedicine.com,floridapainmedicine.com,Phreesia,Patient Intake & Registration,https://z5-ppw.phreesia.net/z5/patient/Payment.aspx/Start?encrypted=nbQ3NEXtPyONdOyRAwR6PYz2jhTgd7IfbgAe4SQdy_fq3IC-VRRNwrjERTW8auVXqQYYb5NCesVJ_b4_uVCaMDv2nA75yqP5vdpGtcfondsIXtKUcL7uZL7vg5s3rSfkn_kRt76vm5Br8B1eRys-mRrfboWf7PDBsPbHmF1ISqg1,Found,High,Direct URL (Phreesia),Pay My Bill
+kahdallas.com,kahdallas.com,Not Found,,,Site Unreachable,None,Connection Failed,
+eastendhandsurgery.com,eastendhandsurgery.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nationalhearingandbalance.com,nationalhearingandbalance.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rosenbergmfm.com,rosenbergmfm.com,Not Found,,,Site Unreachable,None,Connection Failed,
+azliver.com,azliver.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/azliver,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+volusiahandsurgery.com,volusiahandsurgery.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.eclinicalworks.com/volusiahandsurgery,Found,High,Subpage Crawl (https://www.volusiahandsurgery.com/patient-portal/) -> Direct URL (eClinicalWorks (Healow / mycw)),Patient EMR Portal
+williamsonhealthwellness.com,williamsonhealthwellness.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/WHWC,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Portal
+telmedical.com,telmedical.com,Not Found,,,Site Unreachable,None,Connection Failed,
+evivamd.com,evivamd.com,Not Found,,,Site Unreachable,None,Connection Failed,
+contentnea.org,contentnea.org,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://www.healowpay.com/HealowPay/jsp/healow/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),"Make a Payment
+Access Your Account"
+illinoispain.com,illinoispain.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rollerweightloss.com,rollerweightloss.com,AdvancedMD,Cloud Practice Management & EHR,https://patientportal.advancedmd.com/118248/account/logon,Found,High,Direct URL (AdvancedMD),Patient Portal
+duncanfamilyhealthcare.com,duncanfamilyhealthcare.com,Not Found,,,Site Unreachable,None,Connection Failed,
+mtfas.com,mtfas.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://healow.com/apps/practice/metro-tulsa-foot-and-ankle-specialists-pllc-broken-arrow-ok-27648?v=2&t=1,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Schedule an Appointment
+sevamedcare.com,sevamedcare.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/sevamedcare,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),PATIENT PORTAL
+willowbrookcardiovascular.com,willowbrookcardiovascular.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/HeartCareNavigator,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Access Patient Portal
+creekvalleyhc.com,creekvalleyhc.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/creekvalleyhc,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),"Have You Tried Our Patient Portal?
+                  View your medical information, Send a message, check your balance, request prescription refill, and so much more!
+                    Patient Portal Login"
+cvadrs.com,cvadrs.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/CardiovascularAssoc,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+ipaclinic.com,ipaclinic.com,Custom / Proprietary Portal,,https://phreesia.me/IntegratedPainAssociates,Generic Portal Found,Medium,Anchor Keyword: 'PATIENT PORTAL',PATIENT PORTAL
+totalmd.com,totalmd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+utpainrelief.com,utpainrelief.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+okeziemd.com,okeziemd.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw51.eclinicalweb.com/portal5910/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+bapsmgnt.com,bapsmgnt.com,Not Found,,,Site Unreachable,None,Connection Failed,
+centrears.com,centrears.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+inlandpainmedicine.com,inlandpainmedicine.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/inlandpainmedicine,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+mnwcare.com,mnwcare.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/mnwcare,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal Login
+azclinicaltrials.com,azclinicaltrials.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+lubbockfamilymedicine.com,lubbockfamilymedicine.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://healow.com/apps/practice/lubbock-family-medicine-3126?v=2&locale=en,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Book Appointment
+cvmspc.com,cvmspc.com,Not Found,,,Site Unreachable,None,Connection Failed,
+neurotucson.com,neurotucson.com,Custom / Proprietary Portal,,https://mycw63.ecwcloud.com/portal8220/jsp/100mp/login_otp.jsp,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+karringgroup.com,karringgroup.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/KarringGroup,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),5
+drleavitt.net,drleavitt.net,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/LWHC,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Leavitt Women's Healthcare
+ashfordpain.com,ashfordpain.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/ashfordpainsolutions,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+austinthyroid.com,austinthyroid.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/austinthyroid,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+healthystepsmed.com,healthystepsmed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+fphcenter.com,fphcenter.com,NextGen Healthcare (NextMD),Ambulatory EHR,http://www.nextmd.com/,Found,High,Direct URL (NextGen Healthcare (NextMD)),Click for Portal
+nephdocs.com,nephdocs.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://nephdocs.com/mychart/,Found,High,Direct URL (Epic (MyChart / Patient Gateway / My CS-Link)),My Chart
+healthlymedical.com,healthlymedical.com,Custom / Proprietary Portal,,https://bluezoneshealth.carium.app/sign-in/,Generic Portal Found,Medium,Anchor Keyword: 'Member Login',Member Login
+elevatefootankle.com,elevatefootankle.com,DrChrono (OnPatient),Cloud EHR,https://www.onpatient.com/login/,Found,High,Direct URL (DrChrono (OnPatient)),Patient Portal
+wakewellness.com,wakewellness.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/WakeWellness,Found,High,Subpage Crawl (http://www.wakewellness.com/telehealth-virtual-visits) -> Direct URL (eClinicalWorks (Healow / mycw)),Healow Patient Portal
+savannahvascular.com,savannahvascular.com,NextGen Healthcare (NextMD),Ambulatory EHR,https://www.nextmd.com/ud2/Login/Login.aspx,Found,High,Direct URL (NextGen Healthcare (NextMD)),Secure Patient Portal
+fallbrookfamily.com,fallbrookfamily.com,Phreesia,Patient Intake & Registration,https://z3-ppw.phreesia.net/z3/patient/Payment.aspx/Start?encrypted=y8Aw23QjQ14_3xpZl8YSL8_xn2qTfgFcaRRx7kr0Ohszme8OdQDfu-q0oShU97Hc9VeY5t4N8xx3Jnac0Sf53_RPI6KdEbwuJzNSeHEOSZ0Do5bpre-0Z5ZEi4xY9RHrjTFPXTOzbc9semZRFGYfwAV4PrTIY4BWzz20Hi_Uxow1,Found,High,Direct URL (Phreesia),Pay Your Bill
+compassionatepsychiatry.org,compassionatepsychiatry.org,DrChrono (OnPatient),Cloud EHR,https://onpatient.com/login/,Found,High,Subpage Crawl (https://www.compassionatepsychiatry.org/patients/patient-portal/) -> Direct URL (DrChrono (OnPatient)),Login into to Portal
+victorymenshealth.com,victorymenshealth.com,Not Found,,,Site Unreachable,None,Connection Failed,
+sloeyemd.com,sloeyemd.com,NextGen Healthcare (NextMD),Ambulatory EHR,https://pxpportal.nextgen.com/eliteeyecaremedicalgroup-29193/portal/#/user/login,Found,High,Direct URL (NextGen Healthcare (NextMD)),Patient Portal
+triskele.health,triskele.health,DrChrono (OnPatient),Cloud EHR,https://www.onpatient.com/login/,Found,High,Direct URL (DrChrono (OnPatient)),•    OnPatient web login
+aasfl.com,aasfl.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+decisionfish.com,decisionfish.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+hmshbot.com,hmshbot.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+lubbockcooperhealth.com,lubbockcooperhealth.com,Phreesia,Patient Intake & Registration,https://z4-ppw.phreesia.net/z4/patient/Payment.aspx/Start?encrypted=tcVSCdCYy3tC8Gj94a00LtiT_C-fCY2Kl_LI3Hfd0pzLbDKDMgTdeLcsGtVA8RqEiT1Li7r7-aWk0YIvJxTbAgQmo9msIMRjvgtOiRy-xyB3iK53-ro2zuWNSFzW37UR-5W-9tPizRPB_OgrbadiqhdFItvyTG4JSNzDCq22bP02SBE3sf-v9iC8OhlXDYycU-9qJpC2TVwbZ3tlnrSwnWWluULA_napEWxVJfpRfZIkqta7l9SrO2CYY2eNGzax0,Found,High,Direct URL (Phreesia),Pay Online
+hbdus.com,hbdus.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nbopri.com,nbopri.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+toppractices.com,toppractices.com,Custom / Proprietary Portal,,https://toppractices.com/#secure-login-panel,Generic Portal Found,Medium,Anchor Keyword: 'Secure Member Login',Secure Member Login
+biltmoredentalcenter.com,biltmoredentalcenter.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+noelcgonzalezpsychotherapy.com,noelcgonzalezpsychotherapy.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+medicalcarepllc.com,medicalcarepllc.com,Custom / Proprietary Portal,,https://patientconnectionmedicalcare.medinformatix.co/auth/signin,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+voldvision.com,voldvision.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://7934.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+brainhealthhawaii.com,brainhealthhawaii.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sleephealthmd.com,sleephealthmd.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://2256.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+duolaserspa.com,duolaserspa.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ortegamedicalclinic.com,ortegamedicalclinic.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw30.eclinicalweb.com/portal3076/jsp/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),eClinicalWorks (Healow / mycw)
+ccendocrinology.com,ccendocrinology.com,Not Found,,,Site Unreachable,None,Connection Failed,
+healingwaterscc.com,healingwaterscc.com,Custom / Proprietary Portal,,https://www.valant.io/myio/hwcc,Generic Portal Found,Medium,Anchor Keyword: 'PATIENT PORTAL',PATIENT PORTAL
+tsclinic.com,tsclinic.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw33.eclinicalweb.com/portal3468/jsp/100mp/login_otp.jsp,Found,High,Subpage Crawl (https://thesurgicalclinics.com/patient-portal) -> Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal Login
+genesisobgyn.net,genesisobgyn.net,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://19050-3.portal.athenahealth.com/,Found,High,Subpage Crawl (https://genesisobgyn.net/patient-portals/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),Go to Patient Portal
+consultj2.net,consultj2.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+momentapaincare.com,momentapaincare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32274-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Pay My Bill
+wpmllc.com,wpmllc.com,Not Found,,,Site Unreachable,None,Connection Failed,
+mps-mail.com,mps-mail.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+coastalpodiatry.com,coastalpodiatry.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+drnortho.com,drnortho.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nowcare-dixon.com,nowcare-dixon.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ny4vein.com,ny4vein.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ahrenseyeworks.com,ahrenseyeworks.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+thwhcounseling.com,thwhcounseling.com,SimplePractice,Behavioral Health Practice Management,https://thwhcounseling.clientsecure.me,Found,High,Direct URL (SimplePractice),Client Portal
+firstteamsystems.com,firstteamsystems.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+helpoffice.org,helpoffice.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://13014-1.portal.athenahealth.com/,Found,High,Subpage Crawl (https://corktownhealth.org/patient-portal/) -> Direct URL (AthenaHealth (AthenaPatient / Communicator)),AthenaHealth (AthenaPatient / Communicator)
+hebervalleyhealing.com,hebervalleyhealing.com,SimplePractice,Behavioral Health Practice Management,https://cherylmcbride.clientsecure.me/,Found,High,Direct URL (SimplePractice),Schedule an Appoint...
+weinerlaw.com,weinerlaw.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+cheyenneobgyn.com,cheyenneobgyn.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.crmcwy.org/MyChart/Authentication/Login,Found,High,Direct URL (Epic (MyChart / Patient Gateway / My CS-Link)),MyChart  Patient Portal
+balancedbehavioralhealth.org,balancedbehavioralhealth.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29510.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Portal
+doctormbrown.com,doctormbrown.com,Not Found,,,Site Unreachable,None,Connection Failed,
+bonnevillefp.com,bonnevillefp.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://3781-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+bach.health,bach.health,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://bach.health/mychart,Found,High,Direct URL (Epic (MyChart / Patient Gateway / My CS-Link)),MyChart - Patient Login
+tucsonendocrine.com,tucsonendocrine.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw11.eclinicalweb.com/portal263/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+thedermspecs.com,thedermspecs.com,NexHealth,Dental & Medical Patient Experience,https://app.nexhealth.com/appts/the-dermatology-specialists,Found,High,Direct URL (NexHealth),SCHEDULE APPOINTMENT
+atlmohs.com,atlmohs.com,Not Found,,,Site Unreachable,None,Connection Failed,
+fulllifemedical.com,fulllifemedical.com,Not Found,,,Site Unreachable,None,Connection Failed,
+breakthecycle12.com,breakthecycle12.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sanjuclinic.com,sanjuclinic.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+birth-co.com,birth-co.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+effinghamobgyn.com,effinghamobgyn.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29023-6.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal and Bill Payment
+abcopticalelpaso.com,abcopticalelpaso.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+fabenobgyn.com,fabenobgyn.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://2183-81.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),PATIENT PORTAL
+travelmeds2go.com,travelmeds2go.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+drchernoff.com,drchernoff.com,Not Found,,,Site Unreachable,None,Connection Failed,
+parkerperformanceinstitute.com,parkerperformanceinstitute.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+voyagemedicalsolutions.net,voyagemedicalsolutions.net,Not Found,,,Site Unreachable,None,Connection Failed,
+skyridgerx.com,skyridgerx.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+vtopenmri.com,vtopenmri.com,Custom / Proprietary Portal,,"https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fopenmrinhvt.abbadox.com%2fpatientportal%2flogin&c=E,1,p8NfS3eBxJrGUtF0Wi5Fq1V2i9Y1NgLaTbJpSZy7MvXAvdlgRY6kTGwnyUhQVWg5mnvBxse0plzZnK5MP7-fmQ5PkaZh-sT3Zinj0EjevQ,,&typo=1",Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+sandimasmedical.com,sandimasmedical.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+mdsxray.com,mdsxray.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+retpt.com,retpt.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+expresscareofbelleview.com,expresscareofbelleview.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+mnepilepsy.net,mnepilepsy.net,Not Found,,,Site Unreachable,None,Connection Failed,
+vimclinic.org,vimclinic.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://21022.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+cassileth.com,cassileth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pinnaclecareaz.com,pinnaclecareaz.com,Not Found,,,Site Unreachable,None,Connection Failed,
+marytilakmd.com,marytilakmd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+drbrennan.net,drbrennan.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+mobility-rx.com,mobility-rx.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+familydentalcenter.org,familydentalcenter.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pennherb.com,pennherb.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ardasfamilydental.com,ardasfamilydental.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+athomecare4u.com,athomecare4u.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+greenwichpuremed.com,greenwichpuremed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+froula.com,froula.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+markbarrdds.com,markbarrdds.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ascensioncounseling.com,ascensioncounseling.com,Custom / Proprietary Portal,,https://ascensionohio.mytheranest.com/appointments/new,Generic Portal Found,Medium,Anchor Keyword: 'client portal sign up',client portal sign up
+simpsonvilledental.com,simpsonvilledental.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+choice.md,choice.md,Not Found,,,Site Unreachable,None,Connection Failed,
+familypsychiatricservices.com,familypsychiatricservices.com,SimplePractice,Behavioral Health Practice Management,https://traci-marando.clientsecure.me/,Found,High,Direct URL (SimplePractice),Simple Practice Portal Login(opens in new tab)
+laderaderm.com,laderaderm.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw11.eclinicalweb.com/portal251/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+centredentairerichelieu.com,centredentairerichelieu.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+lionsdensmp.com,lionsdensmp.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+fastrackmd.com,fastrackmd.com,Custom / Proprietary Portal,,https://fastrackmd.com/patient-portal,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+harvest-therapy.co.uk,harvest-therapy.co.uk,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+shineapp.co,shineapp.co,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+assurancesd.com,assurancesd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+dynamicmovespt.com,dynamicmovespt.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+aspirecounselingservice.com,aspirecounselingservice.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+peonycounseling.com,peonycounseling.com,Not Found,,,Site Unreachable,None,Connection Failed,
+arbor-dental.com,arbor-dental.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+speyecare.com,speyecare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+franklindentalgroupsf.com,franklindentalgroupsf.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+lceyes.com,lceyes.com,Kareo / Tebra,Independent Practice Cloud EHR,https://www.tebra.com/marketing/practice-websites/,Found,High,Direct URL (Kareo / Tebra),Tebra Inc
+eaglecreekdds.com,eaglecreekdds.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sunshinevision.com,sunshinevision.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+orchardxr.com,orchardxr.com,Not Found,,,Site Unreachable,None,Connection Failed,
+footprintstofeelbetter.com,footprintstofeelbetter.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ambanes.com,ambanes.com,Not Found,,,Site Unreachable,None,Connection Failed,
+southparkfm.com,southparkfm.com,CharmHealth,Cloud EHR,https://phr.charmtracker.com,Found,High,Subpage Crawl (https://southparkfunctionalmedicine.com/patient-portal/) -> Direct URL (CharmHealth),Log In to Your Portal
+capecodneuropsychology.com,capecodneuropsychology.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+agemarketconsulting.com,agemarketconsulting.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pacden.com,pacden.com,Not Found,,,Site Unreachable,None,Connection Failed,
+listenandcare.com,listenandcare.com,CharmHealth,Cloud EHR,https://phr.charmtracker.com/login.sas?serviceurl=%2Fmain.do,Found,High,Subpage Crawl (https://listenandcare.com/patient-portal/) -> Direct URL (CharmHealth),Access Your Portal
+nourips.com,nourips.com,Not Found,,,Site Unreachable,None,Connection Failed,
+solace-behavioral.com,solace-behavioral.com,Not Found,,,Site Unreachable,None,Connection Failed,
+artspiretherapy.com,artspiretherapy.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+thisisfortify.com,thisisfortify.com,Jane App,Health & Wellness Practice Management,https://fortify.janeapp.com/#/discipline/11/treatment/134,Found,High,Direct URL (Jane App),Book Now
+eyesthetica.com,eyesthetica.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+akreclarkeyecare.com,akreclarkeyecare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+empoweringwellnessict.com,empoweringwellnessict.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+adelaideapothecary.com,adelaideapothecary.com,Custom / Proprietary Portal,,https://www.adelaideapothecary.pharmacy/new-patients,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+innovativeecmo.com,innovativeecmo.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+silverbullfitness.com,silverbullfitness.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+counselinglexingtonky.com,counselinglexingtonky.com,Custom / Proprietary Portal,,https://api.portal.therapyappointment.com/n/public/findYourTherapist/,Generic Portal Found,Medium,Anchor Keyword: 'CLIENT PORTAL',CLIENT PORTAL
+freeholdendoscopy.com,freeholdendoscopy.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+harbourwomenshealth.com,harbourwomenshealth.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw47.eclinicalweb.com/portal6637/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),patient portal
+holistichealthcode.com,holistichealthcode.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nassericlinic.com,nassericlinic.com,Not Found,,,Site Unreachable,None,Connection Failed,
+reddycare.net,reddycare.net,Kareo / Tebra,Independent Practice Cloud EHR,https://www.tebra.com/marketing/practice-websites/,Found,High,Direct URL (Kareo / Tebra),Tebra Inc
+coulterpt.com,coulterpt.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.coulterpt.com/,Found,High,Direct Subdomain (https://mychart.coulterpt.com),Portal Subdomain
+motionheal.ca,motionheal.ca,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+drstevechee.com,drstevechee.com,Not Found,,,Site Unreachable,None,Connection Failed,
+prefitpt.com,prefitpt.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+salmonbaypt.com,salmonbaypt.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+denteek.com,denteek.com,Not Found,,,Site Unreachable,None,Connection Failed,
+zarminali.com,zarminali.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://33161-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+kremereyecenter.com,kremereyecenter.com,NextGen Healthcare (NextMD),Ambulatory EHR,https://www.nextmd.com/ud2/Login/Login.aspx,Found,High,Direct URL (NextGen Healthcare (NextMD)),Patient Portal
+associatedskincare.com,associatedskincare.com,ModMed (EMA / Modernizing Medicine),"Specialty EHR (Derm, Gastro, Ortho, Ophthalmology, ENT)",https://associatedskincare.ema.md,Found,High,Direct URL (ModMed (EMA / Modernizing Medicine)),Patient Portal
+nrscllc.com,nrscllc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+mobilityprojectpt.com,mobilityprojectpt.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+marketplacewellnesscenter.com,marketplacewellnesscenter.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+bayareachest.com,bayareachest.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw16.eclinicalweb.com/portal2501/jsp/100mp/login_otp.jsp,Found,High,Subpage Crawl (https://www.bayareachest.com/patient-info) -> Direct URL (eClinicalWorks (Healow / mycw)),Open Patient Portal
+fullerfamilymedicine.com,fullerfamilymedicine.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw21.eclinicalweb.com/portal1667/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Pay Online
+northdallasurology.com,northdallasurology.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw60.eclinicalweb.com/portal7650/jsp/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+gilbertneurology.com,gilbertneurology.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw49.eclinicalweb.com/portal5673/jsp/100mp/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+femmpro.com,femmpro.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw57.eclinicalweb.com/portal7346/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+hockingortho.com,hockingortho.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+acvauctionsinc.site,acvauctionsinc.site,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sunrisedental.com,sunrisedental.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+cav.partners,cav.partners,Not Found,,,Site Unreachable,None,Connection Failed,
+retinacharleston.com,retinacharleston.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+kaawsclinic.com,kaawsclinic.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+perezbh.com,perezbh.com,SimplePractice,Behavioral Health Practice Management,https://perezbh.clientsecure.me,Found,High,Direct URL (SimplePractice),"Request 
+Appointment"
+thrivekirkland.com,thrivekirkland.com,SimplePractice,Behavioral Health Practice Management,https://thrivecounselingkirkland.clientsecure.me,Found,High,Direct URL (SimplePractice),ONLINE APPOINTMENT SCHEDULER
+causenta.com,causenta.com,Custom / Proprietary Portal,,https://causentapatient.md-hq.com/log_in,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+araratpsychiatry.com,araratpsychiatry.com,CharmHealth,Cloud EHR,https://ehr.charmtracker.com/publicCal.sas?method=getCal&digest=16a3e43bd36b2282b70dcbc37140a32e2bca59fa549f82cba32d7f7e77e159166ee57013c1a537e6eb1b3c81e0f872efa0ae868b6eb0918a,Found,High,Embedded iFrame (CharmHealth),Embedded iFrame Widget
+younaverse.us,younaverse.us,Not Found,,,Site Unreachable,None,Connection Failed,
+provocativeconcepts.com,provocativeconcepts.com,Not Found,,,Site Unreachable,None,Connection Failed,
+shifta.la,shifta.la,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+truewomenshealth.com,truewomenshealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ironrootrecovery.ai,ironrootrecovery.ai,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+behaviorchangesuccessaba.com,behaviorchangesuccessaba.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+2impresz.nl,2impresz.nl,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+riverside-chiropractic.com,riverside-chiropractic.com,Not Found,,,Site Unreachable,None,Connection Failed,
+virtuemd.com,virtuemd.com,Custom / Proprietary Portal,,https://mycw180.ecwcloud.com/portal23620/jsp/100mp/login_otp.jsp,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+claytonbehavioral.com,claytonbehavioral.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rareneuro.com,rareneuro.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://25847.portal.athenahealth.com/?section=landing&sub=registration_wizard&CSRFPROTECT=NONE,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Sign up as New Patient
+pharmisse.com,pharmisse.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+cmdentalcentre.com,cmdentalcentre.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pulmed.com,pulmed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+oksmm.com,oksmm.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://8353.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+tanasbourneplasticsurgery.com,tanasbourneplasticsurgery.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://2633.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),patient portal
+youthful-theory.com,youthful-theory.com,Jane App,Health & Wellness Practice Management,https://youthfultheory.janeapp.com/,Found,High,Direct URL (Jane App),BOOK APPOINTMENT
+projectvisionhawaii.org,projectvisionhawaii.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://23277.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Register
+premierurgentcarela.com,premierurgentcarela.com,Custom / Proprietary Portal,,https://premierurgentcarela.com/pages/patient-portal/,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+clinicalrenal.com,clinicalrenal.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://3389.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+empowerwellnessfw.com,empowerwellnessfw.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://31786.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+bayarthritis.com,bayarthritis.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://9285.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+atlantabreastcare.com,atlantabreastcare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://6853.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),> Patient Portal
+cvillefreeclinic.org,cvillefreeclinic.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+kindlymd.com,kindlymd.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://21160.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),KindlyMD Patient Portal
+malihehfreeclinic.org,malihehfreeclinic.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+catg.org,catg.org,Not Found,,,Site Unreachable,None,Connection Failed,
+mapbt.com,mapbt.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://healow.com/apps/practice/belle-terrace-health-and-wellness-center-4141?v=1,Found,High,HTML/JS Payload (eClinicalWorks (Healow / mycw)),Embedded Page URL
+completesleepsolutions.com,completesleepsolutions.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+bradmcewan.com,bradmcewan.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+mypainsolution.com,mypainsolution.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://16521-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+hdssbend.com,hdssbend.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://30625.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),PATIENT PORTAL
+nathanwechsler.com,nathanwechsler.com,Custom / Proprietary Portal,,https://www.nathanwechsler.com/client-portal/,Generic Portal Found,Medium,Anchor Keyword: 'Client Portal',Client Portal
+hopeneuromed.com,hopeneuromed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pocatellofreeclinic.org,pocatellofreeclinic.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+balancedmentalwellness.com,balancedmentalwellness.com,AdvancedMD,Cloud Practice Management & EHR,https://pp-wfe-101.advancedmd.com/account/logon?lk=153553,Found,High,Direct URL (AdvancedMD),Patient Portal
+lynchburgnephrology.com,lynchburgnephrology.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://www.mychart.lynchburgnephrology.com/,Found,High,Direct Subdomain (https://mychart.lynchburgnephrology.com),Portal Subdomain
+cvaba.com,cvaba.com,Not Found,,,Site Unreachable,None,Connection Failed,
+vifr.org,vifr.org,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.vifr.org/,Found,High,Direct Subdomain (https://mychart.vifr.org),Portal Subdomain
+mypave.net,mypave.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+metabolichp.com,metabolichp.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://33208.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+pocaan.org,pocaan.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pathpointhealth.com,pathpointhealth.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://33208.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+eisac.com,eisac.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+arteryandvein.com,arteryandvein.com,Greenway Health (MyHealthRecord / PrimeSuite / Intergy),Ambulatory EHR,https://www.myhealthrecord.com/Portal/SSO,Found,High,Subpage Crawl (https://arteryandvein.com/patient-portal/) -> Direct URL (Greenway Health (MyHealthRecord / PrimeSuite / Intergy)),Visit Our Patient Portal Now
+mycardiologist.com,mycardiologist.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://1931.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+my24hrvet.com,my24hrvet.com,Not Found,,,Site Unreachable,None,Connection Failed,
+arkansaslungcenter.com,arkansaslungcenter.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://34162.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+aahcm.org,aahcm.org,Not Found,,,Site Unreachable,None,Connection Failed,
+drchad.org,drchad.org,Custom / Proprietary Portal,,https://portal.chiromatrixbase.com,Generic Portal Found,Medium,Anchor Keyword: 'Admin Log In',Admin Log In
+obgynsouth.com,obgynsouth.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://29040-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal and Bill Payment
+thewomensimagingcenter.net,thewomensimagingcenter.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+trinityfreeclinic.org,trinityfreeclinic.org,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://www.trinityfreeclinic.org/,Found,High,Direct Subdomain (https://mychart.trinityfreeclinic.org),Portal Subdomain
+denversinuscare.com,denversinuscare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://www.athenahealth.com/patient-login,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient EMR access
+mydentalmail.com,mydentalmail.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ampny.com,ampny.com,Not Found,,,Site Unreachable,None,Connection Failed,
+optimalmenscenter.com,optimalmenscenter.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://whatsmyt.com/,Found,High,Direct Subdomain (https://mychart.optimalmenscenter.com),Portal Subdomain
+carolinabehavioralcare.com,carolinabehavioralcare.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://www.xplorcounseling.com/,Found,High,Direct Subdomain (https://mychart.carolinabehavioralcare.com),Portal Subdomain
+hyperbaricmedicalsolutions.com,hyperbaricmedicalsolutions.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+evergreennephrology.com,evergreennephrology.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+smartsourceconsults.com,smartsourceconsults.com,Not Found,,,Site Unreachable,None,Connection Failed,
+cannabisdocgroup.com,cannabisdocgroup.com,Not Found,,,Site Unreachable,None,Connection Failed,
+footanklenebraska.com,footanklenebraska.com,Not Found,,,Site Unreachable,None,Connection Failed,
+alignedcardio.com,alignedcardio.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+retrohealth.com,retrohealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+tmsneurosolutions.com,tmsneurosolutions.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+oandfs.com,oandfs.com,Not Found,,,Site Unreachable,None,Connection Failed,
+aaaai.org,aaaai.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ryansplace.org,ryansplace.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pucclinic.com,pucclinic.com,Not Found,,,Site Unreachable,None,Connection Failed,
+flhsa.org,flhsa.org,Not Found,,,Site Unreachable,None,Connection Failed,
+northwestnephrology.com,northwestnephrology.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+newhorizons.bg,newhorizons.bg,Custom / Proprietary Portal,,https://newhorizons.bg/login?returnurl=%2f,Generic Portal Found,Medium,Anchor Keyword: 'Portal Login',Portal Login
+marprimarycare.com,marprimarycare.com,Kareo / Tebra,Independent Practice Cloud EHR,https://www.tebra.com/marketing/practice-websites/,Found,High,Direct URL (Kareo / Tebra),Tebra Inc
+fortworthheart.com,fortworthheart.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://health.healow.com/HeartCareNavigator,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+neighbormd.com,neighbormd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+piccc.org,piccc.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+awakenedheartpdx.com,awakenedheartpdx.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://28621-37.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),athena portal link
+advancedheartnm.com,advancedheartnm.com,Not Found,,,Site Unreachable,None,Connection Failed,
+orlandohandsurgery.com,orlandohandsurgery.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://18802-9.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Payment
+breathingassociation.org,breathingassociation.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+consejocounseling.org,consejocounseling.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+bonadeagynecology.com,bonadeagynecology.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://26778.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+optimalhealthassociates.com,optimalhealthassociates.com,Jane App,Health & Wellness Practice Management,https://optimalvitalityandaesthetics.janeapp.com/,Found,High,Direct URL (Jane App),Book Clinic Services
+cumberlandfamilypractice.com,cumberlandfamilypractice.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw18.eclinicalweb.com/portal1104/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+re3healing.com,re3healing.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+trinitymedicine.com,trinitymedicine.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw26.eclinicalweb.com/portal2375/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+centerforlifetimehealth.com,centerforlifetimehealth.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://www.healowpay.com/HealowPay/jsp/healow/login.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Pay Bill
+delsleep.com,delsleep.com,Not Found,,,Site Unreachable,None,Connection Failed,
+providafm.com,providafm.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://healow.com/apps/practice/provida-family-medicine-1226?v=2&locale=en?genderselected=noPreferenceGenderOption,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Appointments
+salienceneuro.com,salienceneuro.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+doctorkate.net,doctorkate.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+cls.health,cls.health,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw59.eclinicalweb.com/portal7504/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+spinepains.com,spinepains.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw41.eclinicalweb.com/portal4596/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+atkinsonfamilypractice.com,atkinsonfamilypractice.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw10.eclinicalweb.com/portal407/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+baldwinoffice.com,baldwinoffice.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+higginbothamfamilyclinic.com,higginbothamfamilyclinic.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw58.eclinicalweb.com/portal7209/jsp/100mp/login.jsp,Found,High,Subpage Crawl (https://higginbothamfamilyclinic.com/patient-portal/) -> Direct URL (eClinicalWorks (Healow / mycw)),Enter Patient Portal
+advancedneurology.com,advancedneurology.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32973-2.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+neurotn.com,neurotn.com,Not Found,,,Site Unreachable,None,Connection Failed,
+avinawomenscare.com,avinawomenscare.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://32503-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),NEW PATIENT PORTAL
+hoaeyes.com,hoaeyes.com,Not Found,,,Site Unreachable,None,Connection Failed,
+burkehealthcaresolutions.com,burkehealthcaresolutions.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nashvillebreastcenter.com,nashvillebreastcenter.com,Custom / Proprietary Portal,,https://patient.noonaclinic.us/patient/#/login,Generic Portal Found,Medium,Anchor Keyword: 'PORTAL LOGIN',PORTAL LOGIN
+metrofamilypractice.org,metrofamilypractice.org,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://24754-1.portal.athenahealth.com/,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Login
+nationalsinusinstitute.com,nationalsinusinstitute.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw49.eclinicalweb.com/portal5633/jsp/100mp/login_otp.jsp,Found,High,HTML/JS Payload (eClinicalWorks (Healow / mycw)),Embedded Page URL
+housecalldrs.net,housecalldrs.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+lifestylemedical.com,lifestylemedical.com,Custom / Proprietary Portal,,https://bluezoneshealth.carium.app/sign-in/,Generic Portal Found,Medium,Anchor Keyword: 'Member Login',Member Login
+omca.com,omca.com,Custom / Proprietary Portal,,https://omca.teameventmanagement.com/Hub/Home/omca/association/omca/en/login,Generic Portal Found,Medium,Anchor Keyword: 'Member Login',Member Login
+alliance-obgyn.com,alliance-obgyn.com,Not Found,,,Site Unreachable,None,Connection Failed,
+communityquickcare.com,communityquickcare.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw32.eclinicalweb.com/portal3432/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+coastalvvc.com,coastalvvc.com,Phreesia,Patient Intake & Registration,https://z5-ppw.phreesia.net/z5/patient/Payment.aspx/Start?encrypted=nbQ3NEXtPyONdOyRAwR6PchkmQ4Aiji-URHFJv0zO5zD2Te9rhFHw4Y06kc-mtotbcvhTdsWbfMW9yDMucVb3e0_JwfRauyp-jbKSYWYXsPhYQfnuDBVxut9eA-DMgSt9yRTQmIrdTWgyU675zhMJyb8ol9qLvK3PZotEion8lQ1,Found,High,Direct URL (Phreesia),Pay Online
+hc-mail.com,hc-mail.com,Not Found,,,Site Unreachable,None,Connection Failed,
+wuft.org,wuft.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sleepandsinuscenters.com,sleepandsinuscenters.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://healow.com/apps/practice/atlanta-allergy-otolaryngology-centers-5586?v=2&t=1,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Appointments
+breakthroughenergy.org,breakthroughenergy.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+theloudouncenter.com,theloudouncenter.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw56.eclinicalweb.com/portal6801/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+rbmafamilydocs.com,rbmafamilydocs.com,Not Found,,,Site Unreachable,None,Connection Failed,
+fauquierfreeclinic.org,fauquierfreeclinic.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+langerfamilymedicine.com,langerfamilymedicine.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw30.eclinicalweb.com/portal3139/jsp/100mp/login_otp.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+midvalleygi.com,midvalleygi.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.samhealth.org/MyChart,Found,High,Direct URL (Epic (MyChart / Patient Gateway / My CS-Link)),MyChart
+amorepr.com,amorepr.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://psychologycenterach.com/,Found,High,Direct Subdomain (https://mychart.amorepr.com),Portal Subdomain
+oregonsleepassociates.com,oregonsleepassociates.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://20484.portal.athenahealth.com,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),Patient Portal
+urohealthpartners.com,urohealthpartners.com,AthenaHealth (AthenaPatient / Communicator),Cloud EHR & Practice Management,https://athenanet.athenahealth.com/1/1/login/startoidc.esp?IDP=0oays23vnjtUmLEP2297,Found,High,Direct URL (AthenaHealth (AthenaPatient / Communicator)),athena SSO
+lapeyrestair.com,lapeyrestair.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+oakdaleobgyn.com,oakdaleobgyn.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://dev.premierwomenshealthmn.com/,Found,High,Direct Subdomain (https://mychart.oakdaleobgyn.com),Portal Subdomain
+triadprimarycare.com,triadprimarycare.com,Not Found,,,Site Unreachable,None,Connection Failed,
+eyecareneworleans.com,eyecareneworleans.com,Custom / Proprietary Portal,,https://eyecareneworleans.com/patient-portal/,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+poundsmwlt.com,poundsmwlt.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+uafoundation.org,uafoundation.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+melanoma.org.au,melanoma.org.au,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+vascularct.com,vascularct.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+clackamasvim.org,clackamasvim.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+foundationendo.com,foundationendo.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+soctelemed.com,soctelemed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+greenappletherapy.com,greenappletherapy.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+hdneurology.com,hdneurology.com,Not Found,,,Site Unreachable,None,Connection Failed,
+sovms.com,sovms.com,Custom / Proprietary Portal,,https://sovereign.health/patient-portal/,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+balletjorgen.ca,balletjorgen.ca,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+trishajohn.com,trishajohn.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+providahealthcenter.com,providahealthcenter.com,Not Found,,,Site Unreachable,None,Connection Failed,
+vitalitycounselinginc.com,vitalitycounselinginc.com,SimplePractice,Behavioral Health Practice Management,https://vitalitycounseling.clientsecure.me/contact-widget,Found,High,Direct URL (SimplePractice),Contact Form
+cedarhillpain.com,cedarhillpain.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+camdenappliance.com,camdenappliance.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rdcwi.com,rdcwi.com,Not Found,,,Site Unreachable,None,Connection Failed,
+journeyhomefc.com,journeyhomefc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+bridgetelehealth.com,bridgetelehealth.com,Not Found,,,Site Unreachable,None,Connection Failed,
+themorangroup.net,themorangroup.net,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.themorangroup.net/,Found,High,Direct Subdomain (https://mychart.themorangroup.net),Portal Subdomain
+michelijewellery.com.au,michelijewellery.com.au,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sommedicalpractice.com,sommedicalpractice.com,Custom / Proprietary Portal,,https://www.medentmobile.com/portal/index.php?practice_id=bG57eLwK,Generic Portal Found,Medium,Anchor Keyword: 'Portal/Pay Bill',Portal/Pay Bill
+arborfamily.com,arborfamily.com,Not Found,,,Site Unreachable,None,Connection Failed,
+pprauto.com,pprauto.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+milesbroadband.com,milesbroadband.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nashvillefurniture.com,nashvillefurniture.com,Not Found,,,Site Unreachable,None,Connection Failed,
+gogreenwindows.ca,gogreenwindows.ca,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+katrinamichele.com,katrinamichele.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+greenapprovedsolutions.ca,greenapprovedsolutions.ca,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ginspiredautomall.com,ginspiredautomall.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rahsb.com,rahsb.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ydhillc.com,ydhillc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+hometheatergroup.com,hometheatergroup.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rightathomekc.com,rightathomekc.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahdelco.com,rahdelco.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rahindy.com,rahindy.com,Not Found,,,Site Unreachable,None,Connection Failed,
+peoriahomecare.com,peoriahomecare.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahgalveston.com,rahgalveston.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahnyc.com,rahnyc.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahlv.com,rahlv.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahmiddletn.com,rahmiddletn.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rightathomeco.com,rightathomeco.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahbronx.com,rahbronx.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahmidcities.com,rahmidcities.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahnpgh.com,rahnpgh.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+drshinemyride.com,drshinemyride.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+littlerockcare.com,littlerockcare.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahnorthcounty.com,rahnorthcounty.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahcare.net,rahcare.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rightathomews.com,rightathomews.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahpeninsula.com,rahpeninsula.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ohioseniorcare.net,ohioseniorcare.net,Not Found,,,Site Unreachable,None,Connection Failed,
+rahnwohio.com,rahnwohio.com,Not Found,,,Site Unreachable,None,Connection Failed,
+raheasternli.com,raheasternli.com,Not Found,,,Site Unreachable,None,Connection Failed,
+carerah.com,carerah.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahwesthouston.com,rahwesthouston.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rightathomeli.com,rightathomeli.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rahcp.com,rahcp.com,Not Found,,,Site Unreachable,None,Connection Failed,
+fastpacemedical.com,fastpacemedical.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+vfmapc.net,vfmapc.net,Not Found,,,Site Unreachable,None,Connection Failed,
+lakeviewsystem.com,lakeviewsystem.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rightathomeocean.net,rightathomeocean.net,Not Found,,,Site Unreachable,None,Connection Failed,
+sbsmiles.com,sbsmiles.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.sbsmiles.com/,Found,High,Direct Subdomain (https://mychart.sbsmiles.com),Portal Subdomain
+saracompanions.com,saracompanions.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+riataford.com,riataford.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ballantynedentistry.com,ballantynedentistry.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+addictionva.com,addictionva.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rah-lexington.com,rah-lexington.com,Not Found,,,Site Unreachable,None,Connection Failed,
+allergyweb.com,allergyweb.com,Custom / Proprietary Portal,,https://allergyweb.com/patient-center/patient-portal/,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+trueyouweightloss.com,trueyouweightloss.com,Not Found,,,Site Unreachable,None,Connection Failed,
+salmonstransfer.com,salmonstransfer.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+swrightpc.com,swrightpc.com,Not Found,,,Site Unreachable,None,Connection Failed,
+conciergecareadvisors.com,conciergecareadvisors.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rozeroomhospice.org,rozeroomhospice.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+rahphx.com,rahphx.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rightathome-atl.net,rightathome-atl.net,Not Found,,,Site Unreachable,None,Connection Failed,
+txneurosurgery.com,txneurosurgery.com,Not Found,,,Site Unreachable,None,Connection Failed,
+civilityhc.com,civilityhc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+seathecity.com,seathecity.com,Not Found,,,Site Unreachable,None,Connection Failed,
+cpousa.com,cpousa.com,Not Found,,,Site Unreachable,None,Connection Failed,
+eastcoastendova.com,eastcoastendova.com,Custom / Proprietary Portal,,https://securesite963.tdo4endo.com/PatientsLogin.aspx,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+friendsinhomecare.com,friendsinhomecare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+homehealthplatinum.com,homehealthplatinum.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+athenixbody.com,athenixbody.com,Epic (MyChart / Patient Gateway / My CS-Link),Hospital & Health System EHR,https://mychart.athenixbody.com/,Found,High,Direct Subdomain (https://mychart.athenixbody.com),Portal Subdomain
+padderhealth.com,padderhealth.com,eClinicalWorks (Healow / mycw),Ambulatory EHR & Practice Portal,https://mycw13.eclinicalweb.com/portal563/jsp/100mp/login_new.jsp,Found,High,Direct URL (eClinicalWorks (Healow / mycw)),Patient Portal
+affderm.com,affderm.com,ModMed (EMA / Modernizing Medicine),"Specialty EHR (Derm, Gastro, Ortho, Ophthalmology, ENT)",https://affderm.ema.md/ema/PatientLogin.action,Found,High,Subpage Crawl (https://affderm.com/patient-information/patient-portal/) -> Direct URL (ModMed (EMA / Modernizing Medicine)),Affiliated Dermatology’s patient portal
+aiovision.com,aiovision.com,Not Found,,,Site Unreachable,None,Connection Failed,
+advancedentdenver.com,advancedentdenver.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+odonnellveinandlaser.com,odonnellveinandlaser.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+happydentistry.com,happydentistry.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+nwga-rightathome.com,nwga-rightathome.com,Not Found,,,Site Unreachable,None,Connection Failed,
+levelupuc.com,levelupuc.com,Not Found,,,Site Unreachable,None,Connection Failed,
+precisionorthomd.com,precisionorthomd.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+arshealth.com,arshealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+pmgvascular.com,pmgvascular.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+moreaupt.com,moreaupt.com,Not Found,,,Site Unreachable,None,Connection Failed,
+clearpathhomecare.com,clearpathhomecare.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+sleepdallas.com,sleepdallas.com,AdvancedMD,Cloud Practice Management & EHR,https://pp-wfe-100.advancedmd.com/160774/account/logon,Found,High,Direct URL (AdvancedMD),Patient Portal
+eprine.org,eprine.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ztcorporate.com,ztcorporate.com,Not Found,,,Site Unreachable,None,Connection Failed,
+peakmed.com,peakmed.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+vistaradiology.com,vistaradiology.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+ottawadermcentre.com,ottawadermcentre.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+drboudreaux.com,drboudreaux.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+myalliedpain.com,myalliedpain.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+maxstrengthfitness.com,maxstrengthfitness.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+hospicecarelc.org,hospicecarelc.org,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+alineacares.com,alineacares.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+fitzhand.com,fitzhand.com,Not Found,,,Site Unreachable,None,Connection Failed,
+houstonent.com,houstonent.com,Custom / Proprietary Portal,,https://patientportal.intelichart.com/login/Account/Login/150101049236090021136058219196144031011035066056?ReturnUrl=/&EFID=150101049236090021136058219196144031011035066056,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+bostontrials.com,bostontrials.com,Not Found,,,Site Unreachable,None,Connection Failed,
+hospicepromise.com,hospicepromise.com,Not Found,,,Site Unreachable,None,Connection Failed,
+maloneyvision.com,maloneyvision.com,Not Found,,,Site Unreachable,None,Connection Failed,
+mactivity.com,mactivity.com,Not Found,,,Site Unreachable,None,Connection Failed,
+atlantafaceandbody.com,atlantafaceandbody.com,Not Found,,,Site Unreachable,None,Connection Failed,
+jmsseniorliving.com,jmsseniorliving.com,Not Found,,,Site Unreachable,None,Connection Failed,
+frontlineer.com,frontlineer.com,Not Found,,,Site Unreachable,None,Connection Failed,
+workwellworks.com,workwellworks.com,Not Found,,,Site Unreachable,None,Connection Failed,
+kremerdental.com,kremerdental.com,Not Found,,,Site Unreachable,None,Connection Failed,
+lifexmd.com,lifexmd.com,Not Found,,,Site Unreachable,None,Connection Failed,
+changesplasticsurgery.com,changesplasticsurgery.com,Not Found,,,Site Unreachable,None,Connection Failed,
+neckandback.org,neckandback.org,Not Found,,,Site Unreachable,None,Connection Failed,
+painspecialistsofaustin.com,painspecialistsofaustin.com,Not Found,,,Site Unreachable,None,Connection Failed,
+keystonehospice.org,keystonehospice.org,Not Found,,,Site Unreachable,None,Connection Failed,
+panhandlegetaways.com,panhandlegetaways.com,Not Found,,,Site Unreachable,None,Connection Failed,
+imptile.com,imptile.com,Not Found,,,Site Unreachable,None,Connection Failed,
+mellickgrp.com,mellickgrp.com,Not Found,,,Site Unreachable,None,Connection Failed,
+rhdb.com.au,rhdb.com.au,Not Found,,,Site Unreachable,None,Connection Failed,
+pestdefense.com,pestdefense.com,Not Found,,,Site Unreachable,None,Connection Failed,
+bakemorepies.com,bakemorepies.com,Not Found,,,Site Unreachable,None,Connection Failed,
+bdag.com,bdag.com,Not Found,,,Site Unreachable,None,Connection Failed,
+friendlyhondacuse.com,friendlyhondacuse.com,Not Found,,,Site Unreachable,None,Connection Failed,
+doctorlogic.com,doctorlogic.com,Not Found,,,Site Unreachable,None,Connection Failed,
+energymatters.com.au,energymatters.com.au,Not Found,,,Site Unreachable,None,Connection Failed,
+freddyandsonroofing.com,freddyandsonroofing.com,Not Found,,,Site Unreachable,None,Connection Failed,
+samsfurniture.net,samsfurniture.net,Not Found,,,Site Unreachable,None,Connection Failed,
+midfloridafinance.com,midfloridafinance.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ftbenddental.com,ftbenddental.com,Not Found,,,Site Unreachable,None,Connection Failed,
+betteryouhomehealth.com,betteryouhomehealth.com,Not Found,,,Site Unreachable,None,Connection Failed,
+zionandzion.com,zionandzion.com,Not Found,,,Site Unreachable,None,Connection Failed,
+partnerpage.io,partnerpage.io,Not Found,,,Site Unreachable,None,Connection Failed,
+searchkings.com,searchkings.com,Not Found,,,Site Unreachable,None,Connection Failed,
+hcmediallc.com,hcmediallc.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+aadvancedservices.com,aadvancedservices.com,Not Found,,,Site Unreachable,None,Connection Failed,
+genyhitch.com,genyhitch.com,Not Found,,,Site Unreachable,None,Connection Failed,
+heat.com,heat.com,Not Found,,,Site Unreachable,None,Connection Failed,
+ace-autoparts.com,ace-autoparts.com,Not Found,,,Site Unreachable,None,Connection Failed,
+fhins.com,fhins.com,Not Found,,,Site Unreachable,None,Connection Failed,
+gamattressbrokers.com,gamattressbrokers.com,Not Found,,,Site Unreachable,None,Connection Failed,
+waringvision.com,waringvision.com,Not Found,,,Site Unreachable,None,Connection Failed,
+queensway.co.uk,queensway.co.uk,Not Found,,,Site Unreachable,None,Connection Failed,
+nyga.md,nyga.md,Custom / Proprietary Portal,,https://nyga.mygportal.com/PP6-0-0/Account/LogOn,Generic Portal Found,Medium,Anchor Keyword: 'Patient Portal',Patient Portal
+akpccorp.com,akpccorp.com,Not Found,,,Site Unreachable,None,Connection Failed,
+summittotalhealth.com,summittotalhealth.com,Not Found,,,Site Unreachable,None,Connection Failed,
+cdgm.net,cdgm.net,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+arthritiskneepain.com,arthritiskneepain.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,
+kansashomehealth.com,kansashomehealth.com,Not Found,,,No Portal Detected,None,Homepage & Subpages Scanned,

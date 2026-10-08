@@ -1,0 +1,8 @@
+Email,Practice_Name,City,Detected_First_Name,Detected_Last_Name,Detected_Full_Name,Job_Title,Seniority,Company_Name,LinkedIn_URL,Confidence_Score,Data_Source,Status
+dr.smith@austindental.com,Austin Dental Care,Austin,Smith,,Smith,Dentist,Practitioner / Doctor / Faculty,Austin Dental,https://www.linkedin.com/in/colby-smith-14a26919,High,LinkedIn (Public Dork),Found
+sarah.jenkins@familydentistry.com,Family Dentistry,Dallas,Sarah,Jenkins,Sarah Jenkins,Co-founder and CEO of Genesis Digital ...,Owner / Executive (C-Suite),Family Dentistry,https://www.linkedin.com/in/sarah-jenkins-763469123,High,LinkedIn (Public Dork),Found
+info@chicagodentalcare.com,Chicago Dental Care,Chicago,,,,General Inbox / Staff,Staff / Coordinator,Chicago Dental Care,,Medium,Role-based Mailbox,Role-Based
+mark.zuckerberg@meta.com,Meta Platforms,Menlo Park,Mark,Zuckerberg,Mark Zuckerberg,CEO,Owner / Executive (C-Suite),Meta,https://www.linkedin.com/in/mark-zuckerberg-618bba58,Medium,LinkedIn (Public Dork),Found
+reception@miamieyedoc.com,Miami Eye Center,Miami,,,,General Inbox / Staff,Staff / Coordinator,Miami Eye Doc,,Medium,Role-based Mailbox,Role-Based
+jessica.alba@honest.com,The Honest Company,Los Angeles,Jessica,Alba,Jessica Alba,Founder,Owner / Executive (C-Suite),Honest,,Medium,Web Search,Found
+satya.nadella@microsoft.com,Microsoft,Redmond,Satya,Nadella,Satya Nadella,,Unknown,Microsoft,,None,,Not Found

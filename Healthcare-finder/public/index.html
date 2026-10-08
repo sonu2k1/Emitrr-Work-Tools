@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Healthcare & Clinic Analyzer + Location Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="background-glow top-left"></div>
+  <div class="background-glow bottom-right"></div>
+
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo-group">
+        <div class="logo-icon">
+          <i class="fa-solid fa-notes-medical"></i>
+        </div>
+        <div>
+          <h1>Healthcare & Clinic Analyzer</h1>
+          <p class="subtitle">AI-Powered CSV Enrichment: Healthcare Detection, Medical Specialties & Physical Location Finder</p>
+        </div>
+      </div>
+      <div class="header-badges">
+        <span class="badge badge-pulse"><i class="fa-solid fa-bolt"></i> High Accuracy Classifier</span>
+        <span class="badge"><i class="fa-solid fa-map-location-dot"></i> Geo Location Engine</span>
+      </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs">
+      <button class="tab-btn active" id="tab-batch" onclick="switchTab('batch')">
+        <i class="fa-solid fa-file-csv"></i> Batch CSV Enrichment
+      </button>
+      <button class="tab-btn" id="tab-single" onclick="switchTab('single')">
+        <i class="fa-solid fa-magnifying-glass"></i> Single Company Inspector
+      </button>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main>
+      <!-- TAB 1: BATCH CSV ENRICHMENT -->
+      <section id="view-batch" class="tab-view active">
+        <!-- Step 1: Upload Box -->
+        <div class="card upload-card" id="upload-section">
+          <div class="upload-dropzone" id="dropzone">
+            <input type="file" id="csv-file-input" accept=".csv" style="display: none;">
+            <div class="dropzone-icon">
+              <i class="fa-solid fa-cloud-arrow-up"></i>
+            </div>
+            <h3>Drag & Drop your CSV file here</h3>
+            <p>Upload any CSV containing company or organization names</p>
+            <div class="upload-actions">
+              <button class="btn btn-primary" onclick="document.getElementById('csv-file-input').click()">
+                <i class="fa-solid fa-folder-open"></i> Browse CSV File
+              </button>
+              <a href="/api/sample-csv" class="btn btn-outline" download>
+                <i class="fa-solid fa-download"></i> Download Sample CSV
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Step 2: Configuration & Preview (Hidden initially) -->
+        <div class="card config-card" id="config-section" style="display: none;">
+          <div class="card-header">
+            <div class="card-title">
+              <i class="fa-solid fa-sliders"></i>
+              <h3>Configure Analysis Settings</h3>
+            </div>
+            <button class="btn-sm btn-ghost" onclick="resetUpload()">
+              <i class="fa-solid fa-rotate-left"></i> Change File
+            </button>
+          </div>
+
+          <div class="config-grid">
+            <div class="config-item">
+              <label for="column-select"><i class="fa-solid fa-table-columns"></i> Company Name Column</label>
+              <select id="column-select" class="form-control"></select>
+              <span class="helper-text">Auto-detected best column match</span>
+            </div>
+
+            <div class="config-item">
+              <label for="concurrency-select"><i class="fa-solid fa-gauge-high"></i> Processing Concurrency</label>
+              <select id="concurrency-select" class="form-control">
+                <option value="2">2 concurrent requests (Gentle)</option>
+                <option value="4" selected>4 concurrent requests (Recommended)</option>
+                <option value="6">6 concurrent requests (Fast)</option>
+              </select>
+              <span class="helper-text">Balances speed and search accuracy</span>
+            </div>
+          </div>
+
+          <!-- Preview Table of First 5 rows -->
+          <div class="preview-box">
+            <div class="preview-header">
+              <span><i class="fa-solid fa-eye"></i> CSV Preview (First 5 Rows)</span>
+              <span id="preview-row-count" class="badge-sm">0 total rows</span>
+            </div>
+            <div class="table-container preview-table-container">
+              <table id="preview-table">
+                <thead><tr id="preview-thead"></tr></thead>
+                <tbody id="preview-tbody"></tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="action-bar">
+            <button class="btn btn-emerald btn-lg" id="btn-start-process" onclick="startBatchProcessing()">
+              <i class="fa-solid fa-play"></i> Start Analysis & Enrichment
+            </button>
+          </div>
+        </div>
+
+        <!-- Step 3: Progress & Live Results (Hidden initially) -->
+        <div class="card progress-card" id="progress-section" style="display: none;">
+          <!-- Metric KPI Counters -->
+          <div class="stats-grid">
+            <div class="stat-card">
+              <div class="stat-icon icon-blue"><i class="fa-solid fa-layer-group"></i></div>
+              <div class="stat-data">
+                <span class="stat-label">Processed</span>
+                <span class="stat-value" id="stat-processed">0 / 0</span>
+              </div>
+            </div>
+
+            <div class="stat-card">
+              <div class="stat-icon icon-green"><i class="fa-solid fa-circle-check"></i></div>
+              <div class="stat-data">
+                <span class="stat-label">Healthcare / Clinics</span>
+                <span class="stat-value" id="stat-healthcare">0</span>
+              </div>
+            </div>
+
+            <div class="stat-card">
+              <div class="stat-icon icon-amber"><i class="fa-solid fa-map-pin"></i></div>
+              <div class="stat-data">
+                <span class="stat-label">Locations Found</span>
+                <span class="stat-value" id="stat-locations">0</span>
+              </div>
+            </div>
+
+            <div class="stat-card">
+              <div class="stat-icon icon-purple"><i class="fa-solid fa-building-circle-xmark"></i></div>
+              <div class="stat-data">
+                <span class="stat-label">Non-Healthcare</span>
+                <span class="stat-value" id="stat-non-healthcare">0</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Progress Bar -->
+          <div class="progress-container">
+            <div class="progress-info">
+              <span id="progress-status-text"><i class="fa-solid fa-spinner fa-spin"></i> Analyzing companies...</span>
+              <span id="progress-percentage">0%</span>
+            </div>
+            <div class="progress-bar-bg">
+              <div class="progress-bar-fill" id="progress-fill" style="width: 0%;"></div>
+            </div>
+          </div>
+
+          <!-- Controls & Filter Toolbar -->
+          <div class="toolbar">
+            <div class="filter-group">
+              <button class="filter-btn active" onclick="filterTable('all')">All (<span id="count-all">0</span>)</button>
+              <button class="filter-btn" onclick="filterTable('healthcare')"><i class="fa-solid fa-check text-green"></i> Healthcare (<span id="count-hc">0</span>)</button>
+              <button class="filter-btn" onclick="filterTable('non-healthcare')"><i class="fa-solid fa-xmark text-red"></i> Non-Healthcare (<span id="count-non-hc">0</span>)</button>
+            </div>
+
+            <div class="toolbar-actions">
+              <button class="btn btn-outline btn-sm" id="btn-cancel-job" onclick="cancelJob()">
+                <i class="fa-solid fa-stop"></i> Stop
+              </button>
+              <button class="btn btn-emerald" id="btn-export-csv" onclick="exportEnrichedCSV()" disabled>
+                <i class="fa-solid fa-file-export"></i> Download Enriched CSV
+              </button>
+            </div>
+          </div>
+
+          <!-- Real-Time Stream Table -->
+          <div class="table-container live-table-container">
+            <table id="live-table">
+              <thead>
+                <tr>
+                  <th style="width: 50px;">#</th>
+                  <th>Company Name</th>
+                  <th style="width: 140px;">Is Healthcare?</th>
+                  <th>Medical Specialty / Category</th>
+                  <th>Detected Location</th>
+                  <th style="width: 110px;">Confidence</th>
+                  <th>Evidence & Reason</th>
+                  <th>Website</th>
+                </tr>
+              </thead>
+              <tbody id="live-tbody"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 2: SINGLE COMPANY INSPECTOR -->
+      <section id="view-single" class="tab-view" style="display: none;">
+        <div class="card inspector-card">
+          <div class="card-header">
+            <div class="card-title">
+              <i class="fa-solid fa-microscope"></i>
+              <h3>Real-Time Company Deep Inspector</h3>
+            </div>
+          </div>
+
+          <form id="single-lookup-form" onsubmit="handleSingleLookup(event)">
+            <div class="inspector-form-grid">
+              <div class="form-group span-2">
+                <label for="single-company-name">Company / Organization Name *</label>
+                <div class="input-with-icon">
+                  <i class="fa-solid fa-hospital input-icon"></i>
+                  <input type="text" id="single-company-name" class="form-control form-control-lg" placeholder="e.g. Austin Heart Hospital, Vitality Chiropractic, Titan Roofing..." required>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="single-location-hint">Location Hint (Optional)</label>
+                <div class="input-with-icon">
+                  <i class="fa-solid fa-location-dot input-icon"></i>
+                  <input type="text" id="single-location-hint" class="form-control" placeholder="e.g. Dallas, TX or California">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="single-website-hint">Website / Domain Hint (Optional)</label>
+                <div class="input-with-icon">
+                  <i class="fa-solid fa-globe input-icon"></i>
+                  <input type="text" id="single-website-hint" class="form-control" placeholder="e.g. austinheart.com">
+                </div>
+              </div>
+            </div>
+
+            <div class="action-bar-left">
+              <button type="submit" class="btn btn-emerald btn-lg" id="btn-inspect">
+                <i class="fa-solid fa-magnifying-glass"></i> Analyze Company
+              </button>
+            </div>
+          </form>
+
+          <!-- Single Inspection Result Box -->
+          <div id="single-result-box" class="inspection-result" style="display: none;">
+            <div class="result-header-row">
+              <div class="result-title-group">
+                <h2 id="res-company-name">Company Name</h2>
+                <div class="badges-row" id="res-badges"></div>
+              </div>
+              <div class="confidence-meter" id="res-confidence-meter"></div>
+            </div>
+
+            <div class="result-details-grid">
+              <div class="detail-card">
+                <span class="detail-label"><i class="fa-solid fa-stethoscope"></i> Healthcare Status</span>
+                <div class="detail-val" id="res-is-healthcare">-</div>
+              </div>
+
+              <div class="detail-card">
+                <span class="detail-label"><i class="fa-solid fa-tags"></i> Medical Category</span>
+                <div class="detail-val" id="res-category">-</div>
+              </div>
+
+              <div class="detail-card">
+                <span class="detail-label"><i class="fa-solid fa-map-location-dot"></i> Detected Location</span>
+                <div class="detail-val" id="res-location">-</div>
+              </div>
+
+              <div class="detail-card">
+                <span class="detail-label"><i class="fa-solid fa-globe"></i> Website Domain</span>
+                <div class="detail-val" id="res-domain">-</div>
+              </div>
+            </div>
+
+            <div class="reason-box">
+              <h4><i class="fa-solid fa-circle-info"></i> Analysis Evidence & Signals</h4>
+              <p id="res-reason" class="reason-text">-</p>
+              <div class="signals-list" id="res-signals"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
