@@ -1,0 +1,29 @@
+{
+  "name": "domains-finder",
+  "version": "1.0.0",
+  "description": "Find accurate company domain names from CSV files",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "cli": "node cli.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "keywords": [
+    "csv",
+    "domain-finder",
+    "company-domain",
+    "domain-enrichment"
+  ],
+  "author": "",
+  "license": "ISC"
+}

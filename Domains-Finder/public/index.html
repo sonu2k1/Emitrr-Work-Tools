@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Company Domain Finder - Extract Accurate Domains from CSV</title>
+  <!-- Google Fonts & FontAwesome Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="logo">
+        <div class="logo-icon"><i class="fa-solid fa-globe"></i></div>
+        <div class="logo-text">
+          <span class="brand-name">DomainFinder</span>
+          <span class="brand-badge">PRO</span>
+        </div>
+      </div>
+      <div class="nav-links">
+        <button class="nav-tab active" id="tabBulkBtn" onclick="switchTab('bulk')">
+          <i class="fa-solid fa-file-csv"></i> CSV Bulk Finder
+        </button>
+        <button class="nav-tab" id="tabSingleBtn" onclick="switchTab('single')">
+          <i class="fa-solid fa-magnifying-glass"></i> Single Lookup
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Container -->
+  <main class="app-container">
+
+    <!-- Section 1: CSV Bulk Finder View -->
+    <section id="bulkSection" class="view-section active">
+
+      <!-- Hero Header -->
+      <div class="hero-header">
+        <h1>CSV Company Domain Finder</h1>
+        <p>Upload any CSV file with company names to automatically discover their official websites, domains & logos.</p>
+      </div>
+
+      <!-- File Upload Card -->
+      <div class="card upload-card" id="dropZone">
+        <input type="file" id="csvFileInput" accept=".csv" hidden>
+        <div class="upload-icon">
+          <i class="fa-solid fa-cloud-arrow-up"></i>
+        </div>
+        <h3>Drag & Drop your CSV file here</h3>
+        <p>Supports .csv files with any number of rows</p>
+        <button class="btn btn-primary" onclick="document.getElementById('csvFileInput').click()">
+          <i class="fa-solid fa-folder-open"></i> Browse CSV File
+        </button>
+      </div>
+
+      <!-- File Configuration Card -->
+      <div class="card config-card hidden" id="configCard">
+        <div class="config-header">
+          <div>
+            <h3><i class="fa-solid fa-sliders"></i> CSV Setup & Column Mapping</h3>
+            <p id="fileInfoText">File loaded with 0 rows</p>
+          </div>
+          <button class="btn btn-secondary btn-sm" onclick="resetUpload()">
+            <i class="fa-solid fa-xmark"></i> Change File
+          </button>
+        </div>
+
+        <div class="config-grid">
+          <div class="form-group">
+            <label for="columnSelect"><i class="fa-solid fa-building"></i> Select Company Name Column</label>
+            <select id="columnSelect" class="form-control"></select>
+          </div>
+
+          <div class="form-group">
+            <label for="regionSelect"><i class="fa-solid fa-earth-americas"></i> Valentin.app Search Region / UULE Target</label>
+            <select id="regionSelect" class="form-control" onchange="toggleCustomLocationInput('regionSelect', 'customLocationGroup')">
+              <option value="global" selected>Global Default (Clearbit + DDG + Google)</option>
+              <option value="US">🇺🇸 United States (en / US)</option>
+              <option value="IN">🇮🇳 India (en / IN)</option>
+              <option value="GB">🇬🇧 United Kingdom (en / GB)</option>
+              <option value="DE">🇩🇪 Germany (de / DE)</option>
+              <option value="CA">🇨🇦 Canada (en / CA)</option>
+              <option value="AU">🇦🇺 Australia (en / AU)</option>
+              <option value="custom">📍 Custom Location (Valentin.app UULE)</option>
+            </select>
+          </div>
+
+          <div class="form-group hidden" id="customLocationGroup">
+            <label for="customLocationInput"><i class="fa-solid fa-location-dot"></i> Custom Location Canonical Name</label>
+            <input type="text" id="customLocationInput" class="form-control" placeholder="e.g. London,England,United Kingdom or Mumbai,Maharashtra,India">
+          </div>
+
+          <div class="form-group">
+            <label for="concurrencySelect"><i class="fa-solid fa-bolt"></i> Search Speed (Concurrency)</label>
+            <select id="concurrencySelect" class="form-control">
+              <option value="2">Standard (2 requests at once)</option>
+              <option value="5" selected>Fast (5 requests at once)</option>
+              <option value="10">Turbo (10 requests at once)</option>
+              <option value="20">Ultra Speed (20 requests at once - Recommended for 10k+ rows)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="config-actions">
+          <button class="btn btn-success btn-lg" id="startBtn" onclick="startBatchProcessing()">
+            <i class="fa-solid fa-play"></i> Start Finding Domains
+          </button>
+        </div>
+      </div>
+
+      <!-- Live Progress & Results Dashboard -->
+      <div class="results-wrapper hidden" id="resultsWrapper">
+
+        <!-- Stats Bar -->
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-icon icon-blue"><i class="fa-solid fa-list-check"></i></div>
+            <div class="stat-info">
+              <span class="stat-value" id="statTotal">0</span>
+              <span class="stat-label">Total Companies</span>
+            </div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-icon icon-green"><i class="fa-solid fa-circle-check"></i></div>
+            <div class="stat-info">
+              <span class="stat-value" id="statFound">0</span>
+              <span class="stat-label">Domains Found</span>
+            </div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-icon icon-red"><i class="fa-solid fa-circle-xmark"></i></div>
+            <div class="stat-info">
+              <span class="stat-value" id="statNotFound">0</span>
+              <span class="stat-label">Not Found</span>
+            </div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-icon icon-purple"><i class="fa-solid fa-chart-line"></i></div>
+            <div class="stat-info">
+              <span class="stat-value" id="statAccuracy">0%</span>
+              <span class="stat-label">Match Success Rate</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Progress Card with Control Buttons (Pause / Resume / Stop) -->
+        <div class="card progress-card">
+          <div class="progress-header">
+            <span class="progress-status" id="progressStatusText">Processing...</span>
+            <span class="progress-pct" id="progressPctText">0%</span>
+          </div>
+          <div class="progress-bar-track">
+            <div class="progress-bar-fill" id="progressBarFill"></div>
+          </div>
+
+          <div class="progress-actions-bar">
+            <div class="control-btn-group">
+              <button class="btn btn-warning btn-sm" id="pauseBtn" onclick="togglePauseJob()">
+                <i class="fa-solid fa-pause"></i> Pause
+              </button>
+              <button class="btn btn-danger btn-sm" id="stopBtn" onclick="stopJob()">
+                <i class="fa-solid fa-stop"></i> Stop
+              </button>
+            </div>
+            
+            <button class="btn btn-secondary btn-sm" id="exportBtn" onclick="exportEnrichedCSV()">
+              <i class="fa-solid fa-download"></i> Export Enriched CSV
+            </button>
+          </div>
+        </div>
+
+        <!-- Live Results Table Card -->
+        <div class="card table-card">
+          <div class="table-header">
+            <h3><i class="fa-solid fa-table"></i> Live Results Feed</h3>
+            <div class="table-search">
+              <input type="text" id="tableFilterInput" class="form-control" placeholder="Filter company or domain..." oninput="filterTable()">
+            </div>
+          </div>
+
+          <div class="table-responsive">
+            <table class="data-table" id="resultsTable">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Company Name</th>
+                  <th>Found Domain</th>
+                  <th>Status</th>
+                  <th>Source</th>
+                  <th>Confidence</th>
+                </tr>
+              </thead>
+              <tbody id="tableBody">
+                <!-- Rows injected dynamically via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- Section 2: Single Company Quick Lookup -->
+    <section id="singleSection" class="view-section">
+      <div class="hero-header">
+        <h1>Quick Company Domain Search</h1>
+        <p>Type any company name to instantly discover its official website domain and logo.</p>
+      </div>
+
+      <div class="card single-search-card">
+        <div class="search-input-group">
+          <input type="text" id="singleCompanyInput" class="form-control" placeholder="e.g. Stripe, Reliance Industries, Notion, Airbnb..." onkeyup="if(event.key === 'Enter') performSingleLookup()">
+          <button class="btn btn-primary" id="singleSearchBtn" onclick="performSingleLookup()">
+            <i class="fa-solid fa-magnifying-glass"></i> Search
+          </button>
+        </div>
+
+        <div class="single-region-bar" style="margin-top: 15px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+          <label style="font-size: 13px; font-weight: 600; color: var(--text-muted); margin: 0;">
+            <i class="fa-solid fa-location-crosshairs"></i> Valentin.app Region:
+          </label>
+          <select id="singleRegionSelect" class="form-control" style="width: auto; padding: 4px 10px; font-size: 13px;" onchange="toggleCustomLocationInput('singleRegionSelect', 'singleCustomLocationGroup')">
+            <option value="global" selected>Global Default</option>
+            <option value="US">🇺🇸 United States</option>
+            <option value="IN">🇮🇳 India</option>
+            <option value="GB">🇬🇧 United Kingdom</option>
+            <option value="DE">🇩🇪 Germany</option>
+            <option value="custom">📍 Custom UULE Location</option>
+          </select>
+          <div id="singleCustomLocationGroup" class="hidden" style="flex: 1; min-width: 200px;">
+            <input type="text" id="singleCustomLocationInput" class="form-control" style="padding: 4px 10px; font-size: 13px;" placeholder="e.g. West New York,New Jersey,United States">
+          </div>
+        </div>
+
+        <div id="singleResultContainer" class="single-result-box hidden">
+          <!-- Result rendered dynamically -->
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
